@@ -1,7 +1,7 @@
 name: truedax
 favicon: null
-layout_spectrum: 0.35793
-typography_spectrum: 0.49897
+layout_spectrum: 0.65436
+typography_spectrum: 0.64657
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#cfa4ae'
     - '#49393c'
     - '#816161'
-  brandStrength: 0.6875
+  brandStrength: 0.5
   lightness: 0.25
   saturation: 0.1875
   rhythmicContrast: 0
