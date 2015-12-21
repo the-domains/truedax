@@ -7,6 +7,20 @@
         <lastBuildDate>Mon, 21 Dec 2015 22:26:05 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[What is DevOps? - In Simple English]]></title>
+            <description><![CDATA[<article><h1>What is DevOps? - In Simple English</h1><p>Simple explanation of DevOps without the complications and information overload. -- what do you think? Please share & comment! DevOps is a concept with different interpretations and definitions, but when you get down to it, it's all about developers and operations teams breaking down silos and working together to innovate faster.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d3c60851f7492f1674a484a7bc78fafa76eef46.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=_I94-tJlovg</link>
+            <guid isPermaLink="false">4bb23614-120b-4308-ac84-433fdd3e32fa</guid>
+            <pubDate>Mon, 21 Dec 2015 22:25:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Agile Testing]]></title>
+            <description><![CDATA[<article><h1>Agile Testing</h1><p>The buzz level around Let's Encrypt has been more elevated lately, due to their opening up their service as a public beta. If you don't know what Let's Encrypt is, it's a Certificate Authority which provides SSL certificates free of charge.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c91ff9870e1669445048b020b7780e8862b4c67.png"></article>]]></description>
+            <link>http://agiletesting.blogspot.ca/2015/12/protecting-your-site-for-free-with-lets.html</link>
+            <guid isPermaLink="false">047f73e1-0d50-4a5a-92cf-769097637e48</guid>
+            <pubDate>Mon, 21 Dec 2015 22:25:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Facebook to open-source AI hardware design]]></title>
             <description><![CDATA[<article><h1>Facebook to open-source AI hardware design</h1><p>FAIR has achieved noted advancements in the development of AI training hardware considered to be among the best in the world. We have done this through a combination of hardware expertise, partner relationships with vendors, and a significant strategic investment in AI research.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55807d61c42ac46a8cc181907923c1ff729ce9c5.jpg"></article>]]></description>
             <link>https://code.facebook.com/posts/1687861518126048/facebook-to-open-source-ai-hardware-design/</link>
@@ -61,20 +75,6 @@
             <link>https://www.oreilly.com/ideas/tackling-security-devops-style</link>
             <guid isPermaLink="false">1575c9ae-8630-4bc0-876a-708596e86336</guid>
             <pubDate>Mon, 21 Dec 2015 22:08:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Complete List of 250+ Tech, IT, and DevOps Conferences in 2016]]></title>
-            <description><![CDATA[<article><h1>The Complete List of 250+ Tech, IT, and DevOps Conferences in 2016</h1><p>Although it's cold and snowy in much of the world right now, it's never too early to start to plan your travels for next year! So, before you select your conferences for 2016, I wanted to introduce the first edition of The Complete List of Tech, IT, and DevOps Conferences, which will be an annual publication that will complement the general informational materials in our introductory What is DevOps?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/563d236276c88e685b2cc3d4d61d47f3c505b244.png"></article>]]></description>
-            <link>http://logz.io/blog/tech-it-devops-conferences-2016/</link>
-            <guid isPermaLink="false">ffdd814b-27ff-469d-81eb-90c70c30b106</guid>
-            <pubDate>Mon, 21 Dec 2015 22:01:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[High-performance Teams in DevOps - Computer Technology Review]]></title>
-            <description><![CDATA[<article><h1>High-performance Teams in DevOps - Computer Technology Review</h1><p>by Kris Bliesner The secret to DevOps maturity isn't technology or process, but people. It takes engaged leadership and all-for-one cooperation to achieve the kind of results that lead companies to superior IT performance. High-performing DevOps teams can recover 168 times faster from failures and have 60 times fewer failures due to changes, according to the 2015 State of DevOps report by Puppet Labs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a23f68079c7843216fea269a8b5d401004044eab.jpg"></article>]]></description>
-            <link>http://wwpi.com/high-performance-teams-in-devops/</link>
-            <guid isPermaLink="false">6ccace87-24a7-409d-8a89-972862c0532e</guid>
-            <pubDate>Mon, 21 Dec 2015 21:59:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
