@@ -1,18 +1,28 @@
-analytics: {}
+name: truedax
+favicon: null
+layout_spectrum: 0.3686323892325163
+typography_spectrum: 0.35383
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#D8D8B8'
-    - '#501830'
-    - '#688898'
-    - '#903848'
-    - '#000000'
-  brandStrength: 0.3298455465119332
+    - '#e3eaf2'
+    - '#98a9d4'
+    - '#cfa4ae'
+    - '#49393c'
+    - '#816161'
+  brandStrength: 1
   lightness: 0.25
-  rhythmicContrast: 0
   saturation: 0.1875
-cta: {}
-layout_spectrum: 0.3686323892325163
-name: truedax
-opengraph: {}
+  rhythmicContrast: 0
 purpose: []
-typography_spectrum: 0.35383
