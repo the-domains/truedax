@@ -7,6 +7,13 @@
         <lastBuildDate>Mon, 21 Dec 2015 22:26:03 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Can We Use Jenkins for That?]]></title>
+            <description><![CDATA[<article><h1>Can We Use Jenkins for That?</h1><p>At Simon we use Jenkins as our universal hammer. Its versatility is unparalleled, and we've gotten more mileage out of it than we ever imagined. Here's how we use it and what makes it great. You probably use a continuous integration application. Chances are you're using Jenkins.</p><img src="http://engineering.simondata.com/img/posts/jenkins_hammer.png"></article>]]></description>
+            <link>http://engineering.simondata.com/can-we-use-jenkins-for-that/</link>
+            <guid isPermaLink="false">c771756f-82bd-4bad-91ad-b9d2d34a2a42</guid>
+            <pubDate>Mon, 21 Dec 2015 22:25:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[New - Managed NAT (Network Address Translation) Gateway for AWS]]></title>
             <description><![CDATA[<article><h1>New - Managed NAT (Network Address Translation) Gateway for AWS</h1><p>You can use Amazon Virtual Private Cloud to create a logically isolated section of the AWS Cloud. Within the VPC, you can define your desired IP address range, create subnets, configure route tables, and so forth. You can also use a virtual private gateway to connect the VPC to your existing on-premises network using a hardware Virtual Private Network (VPN) connection.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e15ee245a4836c51dae6faf64ccf592a574bf147.jpg"></article>]]></description>
             <link>https://aws.amazon.com/blogs/aws/new-managed-nat-network-address-translation-gateway-for-aws/</link>
