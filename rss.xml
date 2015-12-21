@@ -4,14 +4,21 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 22:07:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 22:26:03 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[New - Managed NAT (Network Address Translation) Gateway for AWS]]></title>
+            <description><![CDATA[<article><h1>New - Managed NAT (Network Address Translation) Gateway for AWS</h1><p>You can use Amazon Virtual Private Cloud to create a logically isolated section of the AWS Cloud. Within the VPC, you can define your desired IP address range, create subnets, configure route tables, and so forth. You can also use a virtual private gateway to connect the VPC to your existing on-premises network using a hardware Virtual Private Network (VPN) connection.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e15ee245a4836c51dae6faf64ccf592a574bf147.jpg"></article>]]></description>
+            <link>https://aws.amazon.com/blogs/aws/new-managed-nat-network-address-translation-gateway-for-aws/</link>
+            <guid isPermaLink="false">ba8dc3e0-434d-4fbd-9c93-08953c462c48</guid>
+            <pubDate>Mon, 21 Dec 2015 22:25:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tackling security, DevOps-style]]></title>
-            <description><![CDATA[<article><h1>Tackling security, DevOps-style</h1><p>DevOps, at its core, is about communication and shared responsibility. Working together makes both teams, Dev & Ops, better, and helps the company and community thrive. We now need to broaden the scope of DevOps and embrace another responsibility - Security. Web Security is fundamentally broken right now, operating from the outside and vastly understaffed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5cb80a067c955cb833cfc7180b948999374be2a1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Tackling security, DevOps-style</h1><p>DevOps, at its core, is about communication and shared responsibility. Working together makes both teams, Dev & Ops, better, and helps the company and community thrive. We now need to broaden the scope of DevOps and embrace another responsibility - Security. Web Security is fundamentally broken right now, operating from the outside and vastly understaffed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ed407512862788076107cdd20376273cb7ad146.jpg"></article>]]></description>
             <link>https://www.oreilly.com/ideas/tackling-security-devops-style</link>
             <guid isPermaLink="false">1575c9ae-8630-4bc0-876a-708596e86336</guid>
-            <pubDate>Mon, 21 Dec 2015 22:07:52 GMT</pubDate>
+            <pubDate>Mon, 21 Dec 2015 22:08:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Complete List of 250+ Tech, IT, and DevOps Conferences in 2016]]></title>
