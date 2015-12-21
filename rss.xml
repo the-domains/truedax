@@ -4,22 +4,8 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 22:26:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 22:26:29 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Connections: DevOps initiatives shouldn't just touch the new stuff]]></title>
-            <description><![CDATA[<article><h1>Connections: DevOps initiatives shouldn't just touch the new stuff</h1><p>Although I feel as if it's been dispelled to a significant degree, there lingers the misperception that DevOps [1] is mostly for companies that sport ping-pong tables and have free sushi for lunch. Firms that manufacture construction equipment and have large swaths of legacy computer code? Not so much.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1837310f91d96ade8fc6b9e75720393ee43fde64.png"></article>]]></description>
-            <link>http://bitmason.blogspot.ca/2015/11/devops-initiatives-shouldn-just-touch.html</link>
-            <guid isPermaLink="false">d6196d3c-3a72-46ee-b7be-bfe5fbf3d560</guid>
-            <pubDate>Mon, 21 Dec 2015 22:25:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Role of Configuration Management in a Containerized World]]></title>
-            <description><![CDATA[<article><h1>The Role of Configuration Management in a Containerized World</h1><p>Docker has seen widespread adoption as an infrastructure automation tool and there has been a growing debate as to whether it supersedes configuration management (CM) tools. With most CM tools providing support for Docker, the consensus seems to be to use both CM and containers in tandem for without ditching one in favor of the other.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/103d9b7a4dbd0531ed906ab2a7ba742b5eb5855c.jpg"></article>]]></description>
-            <link>http://www.infoq.com/news/2015/12/containers-vs-config-mgmt</link>
-            <guid isPermaLink="false">f5d516d5-4d77-4e96-aad2-decb86d4d7be</guid>
-            <pubDate>Mon, 21 Dec 2015 22:25:49 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Is VMware Building a DevOps Framework for the Masses?]]></title>
             <description><![CDATA[<article><h1>Is VMware Building a DevOps Framework for the Masses?</h1><p>While Cloud Native Applications and DevOps are generating massive amounts of hype, the ability of IT organizations to execute on this vision outside of Silicon Valley is often being questioned. VMware's Cloud-Native Apps group is putting together an infrastructure framework that might just be the right model to bring DevOps interactions to the masses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/458a91651b3c11e47039477a5650f3aef302dacc.png"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>https://www.youtube.com/watch?v=_I94-tJlovg</link>
             <guid isPermaLink="false">4bb23614-120b-4308-ac84-433fdd3e32fa</guid>
             <pubDate>Mon, 21 Dec 2015 22:25:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Agile Testing]]></title>
+            <description><![CDATA[<article><h1>Agile Testing</h1><p>The buzz level around Let's Encrypt has been more elevated lately, due to their opening up their service as a public beta. If you don't know what Let's Encrypt is, it's a Certificate Authority which provides SSL certificates free of charge.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c91ff9870e1669445048b020b7780e8862b4c67.png"></article>]]></description>
+            <link>http://agiletesting.blogspot.ca/2015/12/protecting-your-site-for-free-with-lets.html</link>
+            <guid isPermaLink="false">047f73e1-0d50-4a5a-92cf-769097637e48</guid>
+            <pubDate>Mon, 21 Dec 2015 22:25:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facebook to open-source AI hardware design]]></title>
+            <description><![CDATA[<article><h1>Facebook to open-source AI hardware design</h1><p>FAIR has achieved noted advancements in the development of AI training hardware considered to be among the best in the world. We have done this through a combination of hardware expertise, partner relationships with vendors, and a significant strategic investment in AI research.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55807d61c42ac46a8cc181907923c1ff729ce9c5.jpg"></article>]]></description>
+            <link>https://code.facebook.com/posts/1687861518126048/facebook-to-open-source-ai-hardware-design/</link>
+            <guid isPermaLink="false">c1bbc38b-1e27-49d5-9bd6-92c01759090d</guid>
+            <pubDate>Mon, 21 Dec 2015 22:25:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
