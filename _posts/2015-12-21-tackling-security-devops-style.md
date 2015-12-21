@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.oreilly.com/ideas/tackling-security-devops-style'
 title: 'Tackling security, DevOps-style'
-datePublished: '2015-12-21T22:07:59.800Z'
-dateModified: '2015-12-21T22:07:52.912Z'
+datePublished: '2015-12-21T22:08:09.036Z'
+dateModified: '2015-12-21T22:07:59.800Z'
 sourcePath: _posts/2015-12-21-tackling-security-devops-style.md
 published: true
 inFeed: true
