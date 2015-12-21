@@ -4,15 +4,8 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 22:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 22:26:15 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[DevOps Culture (Part 1) - IT Revolution]]></title>
-            <description><![CDATA[<article><h1>DevOps Culture (Part 1) - IT Revolution</h1><p>After the first US based Devopsdays in Mountainview 2010 Damon Edwards (@damonedwards) and I coined the acronym CAMS, which stands for Culture, Automation, Measurement and Sharing. Jez Humble (@jezhumble) later added an L, standing for Lean, to form CALMS. In this post I wanted to start with an introduction and overview of what culture might look like in the DevOpsRead More...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/afd4300ab9ccce718cc73a9635b13a32ea96e77f.jpg"></article>]]></description>
-            <link>http://itrevolution.com/devops-culture-part-1/</link>
-            <guid isPermaLink="false">ba624cf5-99a4-4494-bbb2-161b459393b6</guid>
-            <pubDate>Mon, 21 Dec 2015 22:25:25 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[DevOps and the Myth of Efficiency, Part I]]></title>
             <description><![CDATA[<article><h1>DevOps and the Myth of Efficiency, Part I</h1><p>This post is for those of you working in large companies or "enterprises" and are exploring what "DevOps" really means and why you're struggling with it. I've decided to split this into a two-part post to make it easy to digest some of the thoughts here; I suspect I'll be writing a lot here and build upon some of my other posts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/496354fb1c720dec51914a617ad1d8e701295f42.png"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>7 signs you're doing devops wrong</h1><p>Devops is a transformative ethos that many companies are putting to their advantage. As with anything that hinges on culture, however, it can be too easy to slap together a few tools, sprinkle in new processes, and call yourself a devops-fueled organization.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a81460e4165a710e0ad42ac1ddba4a9f027ca97.jpg"></article>]]></description>
             <link>http://www.infoworld.com/article/3011631/devops/7-signs-youre-doing-devops-wrong.html</link>
             <guid isPermaLink="false">f79ba13a-5b61-4dc1-8067-54f9544bf564</guid>
+            <pubDate>Mon, 21 Dec 2015 22:25:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When APIs and DevOps Meet Cybersecurity]]></title>
+            <description><![CDATA[<article><h1>When APIs and DevOps Meet Cybersecurity</h1><p>Cybersecurity professionals often complain about the number of disparate tools they've deployed on their networks. Ask any enterprise CISOs, and he or she will come up with a list of around 60 to 80 various security tools from a myriad of distinct vendors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d97b0e2eecf24664e388dac50b577025bf83bf2d.png"></article>]]></description>
+            <link>http://www.networkworld.com/article/3013830/security/when-apis-and-devops-meet-cybersecurity.html</link>
+            <guid isPermaLink="false">aa5e8b53-6bfb-45c6-b170-08e1e37edc5a</guid>
             <pubDate>Mon, 21 Dec 2015 22:25:24 GMT</pubDate>
         </item>
     </channel>
