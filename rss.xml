@@ -7,6 +7,13 @@
         <lastBuildDate>Mon, 21 Dec 2015 22:26:05 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[sysadvent: Day 5 - ELK Operations and Administration]]></title>
+            <description><![CDATA[<article><h1>sysadvent: Day 5 - ELK Operations and Administration</h1><p>Written by: Katherine Daniels (@beerops) Edited by: Ben Cotton (@funnelfiasco) If you've ever had the misfortune of using a computer before, you've probably encountered what it's like when a computer does something wrong.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ae7e7a8d7e26ea61c4e5866cfe2d1da667eb652.png"></article>]]></description>
+            <link>http://sysadvent.blogspot.ca/2015/12/day-5-elk-operations-and-administration.html?m=1</link>
+            <guid isPermaLink="false">9466b4c3-7880-4dec-9cf3-30ace8aa4eef</guid>
+            <pubDate>Mon, 21 Dec 2015 22:25:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What is DevOps? - In Simple English]]></title>
             <description><![CDATA[<article><h1>What is DevOps? - In Simple English</h1><p>Simple explanation of DevOps without the complications and information overload. -- what do you think? Please share & comment! DevOps is a concept with different interpretations and definitions, but when you get down to it, it's all about developers and operations teams breaking down silos and working together to innovate faster.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d3c60851f7492f1674a484a7bc78fafa76eef46.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=_I94-tJlovg</link>
@@ -68,13 +75,6 @@
             <link>https://aws.amazon.com/blogs/aws/new-managed-nat-network-address-translation-gateway-for-aws/</link>
             <guid isPermaLink="false">ba8dc3e0-434d-4fbd-9c93-08953c462c48</guid>
             <pubDate>Mon, 21 Dec 2015 22:25:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tackling security, DevOps-style]]></title>
-            <description><![CDATA[<article><h1>Tackling security, DevOps-style</h1><p>DevOps, at its core, is about communication and shared responsibility. Working together makes both teams, Dev & Ops, better, and helps the company and community thrive. We now need to broaden the scope of DevOps and embrace another responsibility - Security. Web Security is fundamentally broken right now, operating from the outside and vastly understaffed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ed407512862788076107cdd20376273cb7ad146.jpg"></article>]]></description>
-            <link>https://www.oreilly.com/ideas/tackling-security-devops-style</link>
-            <guid isPermaLink="false">1575c9ae-8630-4bc0-876a-708596e86336</guid>
-            <pubDate>Mon, 21 Dec 2015 22:08:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
