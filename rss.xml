@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[truedax]]></title>
+        <description><![CDATA[truedax]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Dec 2015 21:59:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[High-performance Teams in DevOps - Computer Technology Review]]></title>
+            <description><![CDATA[<article><h1>High-performance Teams in DevOps - Computer Technology Review</h1><p>by Kris Bliesner The secret to DevOps maturity isn't technology or process, but people. It takes engaged leadership and all-for-one cooperation to achieve the kind of results that lead companies to superior IT performance. High-performing DevOps teams can recover 168 times faster from failures and have 60 times fewer failures due to changes, according to the 2015 State of DevOps report by Puppet Labs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35b4377bbc8b725f01d6f138869b54449fcfd59e.jpg"></article>]]></description>
+            <link>http://wwpi.com/high-performance-teams-in-devops/</link>
+            <guid isPermaLink="false">6ccace87-24a7-409d-8a89-972862c0532e</guid>
+            <pubDate>Mon, 21 Dec 2015 21:59:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
