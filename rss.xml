@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 22:01:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 22:08:00 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Tackling security, DevOps-style]]></title>
+            <description><![CDATA[<article><h1>Tackling security, DevOps-style</h1><p>DevOps, at its core, is about communication and shared responsibility. Working together makes both teams, Dev & Ops, better, and helps the company and community thrive. We now need to broaden the scope of DevOps and embrace another responsibility - Security. Web Security is fundamentally broken right now, operating from the outside and vastly understaffed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5cb80a067c955cb833cfc7180b948999374be2a1.jpg"></article>]]></description>
+            <link>https://www.oreilly.com/ideas/tackling-security-devops-style</link>
+            <guid isPermaLink="false">1575c9ae-8630-4bc0-876a-708596e86336</guid>
+            <pubDate>Mon, 21 Dec 2015 22:07:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Complete List of 250+ Tech, IT, and DevOps Conferences in 2016]]></title>
-            <description><![CDATA[<article><h1>The Complete List of 250+ Tech, IT, and DevOps Conferences in 2016</h1><p>Although it's cold and snowy in much of the world right now, it's never too early to start to plan your travels for next year! So, before you select your conferences for 2016, I wanted to introduce the first edition of The Complete List of Tech, IT, and DevOps Conferences, which will be an annual publication that will complement the general informational materials in our introductory What is DevOps?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c971b5e9b493cbd59ab988ef180cfd6e52247e50.png"></article>]]></description>
+            <description><![CDATA[<article><h1>The Complete List of 250+ Tech, IT, and DevOps Conferences in 2016</h1><p>Although it's cold and snowy in much of the world right now, it's never too early to start to plan your travels for next year! So, before you select your conferences for 2016, I wanted to introduce the first edition of The Complete List of Tech, IT, and DevOps Conferences, which will be an annual publication that will complement the general informational materials in our introductory What is DevOps?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/563d236276c88e685b2cc3d4d61d47f3c505b244.png"></article>]]></description>
             <link>http://logz.io/blog/tech-it-devops-conferences-2016/</link>
             <guid isPermaLink="false">ffdd814b-27ff-469d-81eb-90c70c30b106</guid>
             <pubDate>Mon, 21 Dec 2015 22:01:16 GMT</pubDate>
