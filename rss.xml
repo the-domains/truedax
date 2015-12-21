@@ -4,50 +4,8 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 22:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 22:26:07 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Role of Configuration Management in a Containerized World]]></title>
-            <description><![CDATA[<article><h1>The Role of Configuration Management in a Containerized World</h1><p>Docker has seen widespread adoption as an infrastructure automation tool and there has been a growing debate as to whether it supersedes configuration management (CM) tools. With most CM tools providing support for Docker, the consensus seems to be to use both CM and containers in tandem for without ditching one in favor of the other.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/103d9b7a4dbd0531ed906ab2a7ba742b5eb5855c.jpg"></article>]]></description>
-            <link>http://www.infoq.com/news/2015/12/containers-vs-config-mgmt</link>
-            <guid isPermaLink="false">f5d516d5-4d77-4e96-aad2-decb86d4d7be</guid>
-            <pubDate>Mon, 21 Dec 2015 22:25:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is VMware Building a DevOps Framework for the Masses?]]></title>
-            <description><![CDATA[<article><h1>Is VMware Building a DevOps Framework for the Masses?</h1><p>While Cloud Native Applications and DevOps are generating massive amounts of hype, the ability of IT organizations to execute on this vision outside of Silicon Valley is often being questioned. VMware's Cloud-Native Apps group is putting together an infrastructure framework that might just be the right model to bring DevOps interactions to the masses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/458a91651b3c11e47039477a5650f3aef302dacc.png"></article>]]></description>
-            <link>http://wikibon.com/is-vmware-building-a-devops-framework-for-the-masses/</link>
-            <guid isPermaLink="false">90e9c658-9061-4301-a6aa-924567840ef8</guid>
-            <pubDate>Mon, 21 Dec 2015 22:25:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DevOps Culture (Part 1) - IT Revolution]]></title>
-            <description><![CDATA[<article><h1>DevOps Culture (Part 1) - IT Revolution</h1><p>After the first US based Devopsdays in Mountainview 2010 Damon Edwards (@damonedwards) and I coined the acronym CAMS, which stands for Culture, Automation, Measurement and Sharing. Jez Humble (@jezhumble) later added an L, standing for Lean, to form CALMS. In this post I wanted to start with an introduction and overview of what culture might look like in the DevOpsRead More...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/afd4300ab9ccce718cc73a9635b13a32ea96e77f.jpg"></article>]]></description>
-            <link>http://itrevolution.com/devops-culture-part-1/</link>
-            <guid isPermaLink="false">ba624cf5-99a4-4494-bbb2-161b459393b6</guid>
-            <pubDate>Mon, 21 Dec 2015 22:25:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DevOps and the Myth of Efficiency, Part I]]></title>
-            <description><![CDATA[<article><h1>DevOps and the Myth of Efficiency, Part I</h1><p>This post is for those of you working in large companies or "enterprises" and are exploring what "DevOps" really means and why you're struggling with it. I've decided to split this into a two-part post to make it easy to digest some of the thoughts here; I suspect I'll be writing a lot here and build upon some of my other posts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/496354fb1c720dec51914a617ad1d8e701295f42.png"></article>]]></description>
-            <link>http://blog.christianposta.com/devops/devops-and-the-myth-of-efficiency-part-i/</link>
-            <guid isPermaLink="false">52b14c0c-1927-4773-b25e-a538b8c57218</guid>
-            <pubDate>Mon, 21 Dec 2015 22:25:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3 hottest cloud job skills for 2016]]></title>
-            <description><![CDATA[<article><h1>3 hottest cloud job skills for 2016</h1><p>I get this a lot: People approach me at conferences and ask about the hottest cloud skills. Why? Because they want to learn more, declare their expertise, and get a new and higher-paying gig. I can't blame them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87b19a7b8888bad8b9af5d03d22c4c5cc3470686.jpg"></article>]]></description>
-            <link>http://www.infoworld.com/article/3011916/it-jobs/3-hottest-cloud-job-skills-for-2016.html</link>
-            <guid isPermaLink="false">4bc41d6e-f478-49ed-82f0-e9cadff4b49a</guid>
-            <pubDate>Mon, 21 Dec 2015 22:25:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DEVOPSdigest]]></title>
-            <description><![CDATA[<article><h1>DEVOPSdigest</h1><p>I love the Bourne movies. Apart from the action, what I find fascinating is the uncanny abilities of the protagonist - Jason Bourne; his sixth-sense. He can quickly "weigh up" his surroundings and make detailed assessments of all dangers. This acute level of awareness gives him a distinct competitive advantage.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/21345722a0cdec3f5992eecbee59850500c69e46.jpg"></article>]]></description>
-            <link>http://www.devopsdigest.com/the-devops-supremacy</link>
-            <guid isPermaLink="false">10410122-ce23-4cf7-8681-c09d7a085610</guid>
-            <pubDate>Mon, 21 Dec 2015 22:25:25 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Human Brains Are Wired to Blame Rather Than Praise]]></title>
             <description><![CDATA[<article><h1>Human Brains Are Wired to Blame Rather Than Praise</h1><p>Ouch! Did you do that on purpose? Psychologists have long concluded that people tend to judge others more harshly for their negative actions-assigning fault and blame more often than praise or accolades. Now we know why. New research shows the human brain is wired to react more emotionally to the bad things people do.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/167eef2a56845b024f67a17dd4e1a0af3aa5171a.jpg"></article>]]></description>
@@ -75,6 +33,48 @@
             <link>http://agiletesting.blogspot.ca/2015/12/protecting-your-site-for-free-with-lets.html</link>
             <guid isPermaLink="false">047f73e1-0d50-4a5a-92cf-769097637e48</guid>
             <pubDate>Mon, 21 Dec 2015 22:25:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facebook to open-source AI hardware design]]></title>
+            <description><![CDATA[<article><h1>Facebook to open-source AI hardware design</h1><p>FAIR has achieved noted advancements in the development of AI training hardware considered to be among the best in the world. We have done this through a combination of hardware expertise, partner relationships with vendors, and a significant strategic investment in AI research.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55807d61c42ac46a8cc181907923c1ff729ce9c5.jpg"></article>]]></description>
+            <link>https://code.facebook.com/posts/1687861518126048/facebook-to-open-source-ai-hardware-design/</link>
+            <guid isPermaLink="false">c1bbc38b-1e27-49d5-9bd6-92c01759090d</guid>
+            <pubDate>Mon, 21 Dec 2015 22:25:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7 signs you're doing devops wrong]]></title>
+            <description><![CDATA[<article><h1>7 signs you're doing devops wrong</h1><p>Devops is a transformative ethos that many companies are putting to their advantage. As with anything that hinges on culture, however, it can be too easy to slap together a few tools, sprinkle in new processes, and call yourself a devops-fueled organization.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a81460e4165a710e0ad42ac1ddba4a9f027ca97.jpg"></article>]]></description>
+            <link>http://www.infoworld.com/article/3011631/devops/7-signs-youre-doing-devops-wrong.html</link>
+            <guid isPermaLink="false">f79ba13a-5b61-4dc1-8067-54f9544bf564</guid>
+            <pubDate>Mon, 21 Dec 2015 22:25:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When APIs and DevOps Meet Cybersecurity]]></title>
+            <description><![CDATA[<article><h1>When APIs and DevOps Meet Cybersecurity</h1><p>Cybersecurity professionals often complain about the number of disparate tools they've deployed on their networks. Ask any enterprise CISOs, and he or she will come up with a list of around 60 to 80 various security tools from a myriad of distinct vendors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d97b0e2eecf24664e388dac50b577025bf83bf2d.png"></article>]]></description>
+            <link>http://www.networkworld.com/article/3013830/security/when-apis-and-devops-meet-cybersecurity.html</link>
+            <guid isPermaLink="false">aa5e8b53-6bfb-45c6-b170-08e1e37edc5a</guid>
+            <pubDate>Mon, 21 Dec 2015 22:25:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will 2016 be the year to make or break DevOps? - TechRepublic]]></title>
+            <description><![CDATA[<article><h1>Will 2016 be the year to make or break DevOps? - TechRepublic</h1><p>If there were an award given for the most-used portmanteau in 2015, it would go to DevOps. While not entirely new, the mash-up of "development" and "operations" spawned countless IT meetup groups, dedicated products, and entire startup companies dedicated to its practice.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14fd941116eaf22bd0205228e6f27c6af494fa0e.jpg"></article>]]></description>
+            <link>http://www.techrepublic.com/article/will-2016-be-the-year-to-make-or-break-devops/</link>
+            <guid isPermaLink="false">554d2f31-fefa-42da-99a8-864e84cbd254</guid>
+            <pubDate>Mon, 21 Dec 2015 22:25:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IT managers: we're hurting for more cloud and DevOps skills | ZDNet]]></title>
+            <description><![CDATA[<article><h1>IT managers: we're hurting for more cloud and DevOps skills | ZDNet</h1><p>There's been a lot of talk lately about " two-speed" IT, in which one part of the job is to help with all the cool stuff, such as digital presence and data analytics, while the other part is to deal with the traditional IT maintenance stuff -- upgrades, patching, coding, security and so forth.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66b8e2a91b5dfbfdfdc23700ba414ed5fd1d8071.jpg"></article>]]></description>
+            <link>http://www.zdnet.com/article/it-managers-were-hurting-for-more-cloud-and-devops-skills/</link>
+            <guid isPermaLink="false">56a6f5b7-477e-47b2-94b5-585030804653</guid>
+            <pubDate>Mon, 21 Dec 2015 22:25:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can We Use Jenkins for That?]]></title>
+            <description><![CDATA[<article><h1>Can We Use Jenkins for That?</h1><p>At Simon we use Jenkins as our universal hammer. Its versatility is unparalleled, and we've gotten more mileage out of it than we ever imagined. Here's how we use it and what makes it great. You probably use a continuous integration application. Chances are you're using Jenkins.</p><img src="http://engineering.simondata.com/img/posts/jenkins_hammer.png"></article>]]></description>
+            <link>http://engineering.simondata.com/can-we-use-jenkins-for-that/</link>
+            <guid isPermaLink="false">c771756f-82bd-4bad-91ad-b9d2d34a2a42</guid>
+            <pubDate>Mon, 21 Dec 2015 22:25:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
