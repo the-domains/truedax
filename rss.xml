@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[truedax]]></title>
         <description><![CDATA[truedax]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 21:59:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Dec 2015 22:01:38 GMT</lastBuildDate>
+        <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Complete List of 250+ Tech, IT, and DevOps Conferences in 2016]]></title>
+            <description><![CDATA[<article><h1>The Complete List of 250+ Tech, IT, and DevOps Conferences in 2016</h1><p>Although it's cold and snowy in much of the world right now, it's never too early to start to plan your travels for next year! So, before you select your conferences for 2016, I wanted to introduce the first edition of The Complete List of Tech, IT, and DevOps Conferences, which will be an annual publication that will complement the general informational materials in our introductory What is DevOps?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c971b5e9b493cbd59ab988ef180cfd6e52247e50.png"></article>]]></description>
+            <link>http://logz.io/blog/tech-it-devops-conferences-2016/</link>
+            <guid isPermaLink="false">ffdd814b-27ff-469d-81eb-90c70c30b106</guid>
+            <pubDate>Mon, 21 Dec 2015 22:01:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[High-performance Teams in DevOps - Computer Technology Review]]></title>
-            <description><![CDATA[<article><h1>High-performance Teams in DevOps - Computer Technology Review</h1><p>by Kris Bliesner The secret to DevOps maturity isn't technology or process, but people. It takes engaged leadership and all-for-one cooperation to achieve the kind of results that lead companies to superior IT performance. High-performing DevOps teams can recover 168 times faster from failures and have 60 times fewer failures due to changes, according to the 2015 State of DevOps report by Puppet Labs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35b4377bbc8b725f01d6f138869b54449fcfd59e.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>High-performance Teams in DevOps - Computer Technology Review</h1><p>by Kris Bliesner The secret to DevOps maturity isn't technology or process, but people. It takes engaged leadership and all-for-one cooperation to achieve the kind of results that lead companies to superior IT performance. High-performing DevOps teams can recover 168 times faster from failures and have 60 times fewer failures due to changes, according to the 2015 State of DevOps report by Puppet Labs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a23f68079c7843216fea269a8b5d401004044eab.jpg"></article>]]></description>
             <link>http://wwpi.com/high-performance-teams-in-devops/</link>
             <guid isPermaLink="false">6ccace87-24a7-409d-8a89-972862c0532e</guid>
             <pubDate>Mon, 21 Dec 2015 21:59:35 GMT</pubDate>
