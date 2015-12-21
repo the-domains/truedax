@@ -4,8 +4,29 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 22:26:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 22:26:13 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[3 hottest cloud job skills for 2016]]></title>
+            <description><![CDATA[<article><h1>3 hottest cloud job skills for 2016</h1><p>I get this a lot: People approach me at conferences and ask about the hottest cloud skills. Why? Because they want to learn more, declare their expertise, and get a new and higher-paying gig. I can't blame them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87b19a7b8888bad8b9af5d03d22c4c5cc3470686.jpg"></article>]]></description>
+            <link>http://www.infoworld.com/article/3011916/it-jobs/3-hottest-cloud-job-skills-for-2016.html</link>
+            <guid isPermaLink="false">4bc41d6e-f478-49ed-82f0-e9cadff4b49a</guid>
+            <pubDate>Mon, 21 Dec 2015 22:25:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DEVOPSdigest]]></title>
+            <description><![CDATA[<article><h1>DEVOPSdigest</h1><p>I love the Bourne movies. Apart from the action, what I find fascinating is the uncanny abilities of the protagonist - Jason Bourne; his sixth-sense. He can quickly "weigh up" his surroundings and make detailed assessments of all dangers. This acute level of awareness gives him a distinct competitive advantage.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/21345722a0cdec3f5992eecbee59850500c69e46.jpg"></article>]]></description>
+            <link>http://www.devopsdigest.com/the-devops-supremacy</link>
+            <guid isPermaLink="false">10410122-ce23-4cf7-8681-c09d7a085610</guid>
+            <pubDate>Mon, 21 Dec 2015 22:25:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Human Brains Are Wired to Blame Rather Than Praise]]></title>
+            <description><![CDATA[<article><h1>Human Brains Are Wired to Blame Rather Than Praise</h1><p>Ouch! Did you do that on purpose? Psychologists have long concluded that people tend to judge others more harshly for their negative actions-assigning fault and blame more often than praise or accolades. Now we know why. New research shows the human brain is wired to react more emotionally to the bad things people do.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/167eef2a56845b024f67a17dd4e1a0af3aa5171a.jpg"></article>]]></description>
+            <link>http://fortune.com/2015/12/04/brain-wired-praise-blame/</link>
+            <guid isPermaLink="false">2717fd33-8eef-4439-a28d-4c4ecef44b33</guid>
+            <pubDate>Mon, 21 Dec 2015 22:25:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[sysadvent: Day 5 - ELK Operations and Administration]]></title>
             <description><![CDATA[<article><h1>sysadvent: Day 5 - ELK Operations and Administration</h1><p>Written by: Katherine Daniels (@beerops) Edited by: Ben Cotton (@funnelfiasco) If you've ever had the misfortune of using a computer before, you've probably encountered what it's like when a computer does something wrong.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ae7e7a8d7e26ea61c4e5866cfe2d1da667eb652.png"></article>]]></description>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><h1>Will 2016 be the year to make or break DevOps? - TechRepublic</h1><p>If there were an award given for the most-used portmanteau in 2015, it would go to DevOps. While not entirely new, the mash-up of "development" and "operations" spawned countless IT meetup groups, dedicated products, and entire startup companies dedicated to its practice.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14fd941116eaf22bd0205228e6f27c6af494fa0e.jpg"></article>]]></description>
             <link>http://www.techrepublic.com/article/will-2016-be-the-year-to-make-or-break-devops/</link>
             <guid isPermaLink="false">554d2f31-fefa-42da-99a8-864e84cbd254</guid>
-            <pubDate>Mon, 21 Dec 2015 22:25:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IT managers: we're hurting for more cloud and DevOps skills | ZDNet]]></title>
-            <description><![CDATA[<article><h1>IT managers: we're hurting for more cloud and DevOps skills | ZDNet</h1><p>There's been a lot of talk lately about " two-speed" IT, in which one part of the job is to help with all the cool stuff, such as digital presence and data analytics, while the other part is to deal with the traditional IT maintenance stuff -- upgrades, patching, coding, security and so forth.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66b8e2a91b5dfbfdfdc23700ba414ed5fd1d8071.jpg"></article>]]></description>
-            <link>http://www.zdnet.com/article/it-managers-were-hurting-for-more-cloud-and-devops-skills/</link>
-            <guid isPermaLink="false">56a6f5b7-477e-47b2-94b5-585030804653</guid>
-            <pubDate>Mon, 21 Dec 2015 22:25:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can We Use Jenkins for That?]]></title>
-            <description><![CDATA[<article><h1>Can We Use Jenkins for That?</h1><p>At Simon we use Jenkins as our universal hammer. Its versatility is unparalleled, and we've gotten more mileage out of it than we ever imagined. Here's how we use it and what makes it great. You probably use a continuous integration application. Chances are you're using Jenkins.</p><img src="http://engineering.simondata.com/img/posts/jenkins_hammer.png"></article>]]></description>
-            <link>http://engineering.simondata.com/can-we-use-jenkins-for-that/</link>
-            <guid isPermaLink="false">c771756f-82bd-4bad-91ad-b9d2d34a2a42</guid>
-            <pubDate>Mon, 21 Dec 2015 22:25:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New - Managed NAT (Network Address Translation) Gateway for AWS]]></title>
-            <description><![CDATA[<article><h1>New - Managed NAT (Network Address Translation) Gateway for AWS</h1><p>You can use Amazon Virtual Private Cloud to create a logically isolated section of the AWS Cloud. Within the VPC, you can define your desired IP address range, create subnets, configure route tables, and so forth. You can also use a virtual private gateway to connect the VPC to your existing on-premises network using a hardware Virtual Private Network (VPN) connection.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e15ee245a4836c51dae6faf64ccf592a574bf147.jpg"></article>]]></description>
-            <link>https://aws.amazon.com/blogs/aws/new-managed-nat-network-address-translation-gateway-for-aws/</link>
-            <guid isPermaLink="false">ba8dc3e0-434d-4fbd-9c93-08953c462c48</guid>
             <pubDate>Mon, 21 Dec 2015 22:25:24 GMT</pubDate>
         </item>
     </channel>
