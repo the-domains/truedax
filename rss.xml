@@ -4,8 +4,29 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 22:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 22:26:05 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Agile Testing]]></title>
+            <description><![CDATA[<article><h1>Agile Testing</h1><p>The buzz level around Let's Encrypt has been more elevated lately, due to their opening up their service as a public beta. If you don't know what Let's Encrypt is, it's a Certificate Authority which provides SSL certificates free of charge.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c91ff9870e1669445048b020b7780e8862b4c67.png"></article>]]></description>
+            <link>http://agiletesting.blogspot.ca/2015/12/protecting-your-site-for-free-with-lets.html</link>
+            <guid isPermaLink="false">047f73e1-0d50-4a5a-92cf-769097637e48</guid>
+            <pubDate>Mon, 21 Dec 2015 22:25:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facebook to open-source AI hardware design]]></title>
+            <description><![CDATA[<article><h1>Facebook to open-source AI hardware design</h1><p>FAIR has achieved noted advancements in the development of AI training hardware considered to be among the best in the world. We have done this through a combination of hardware expertise, partner relationships with vendors, and a significant strategic investment in AI research.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55807d61c42ac46a8cc181907923c1ff729ce9c5.jpg"></article>]]></description>
+            <link>https://code.facebook.com/posts/1687861518126048/facebook-to-open-source-ai-hardware-design/</link>
+            <guid isPermaLink="false">c1bbc38b-1e27-49d5-9bd6-92c01759090d</guid>
+            <pubDate>Mon, 21 Dec 2015 22:25:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7 signs you're doing devops wrong]]></title>
+            <description><![CDATA[<article><h1>7 signs you're doing devops wrong</h1><p>Devops is a transformative ethos that many companies are putting to their advantage. As with anything that hinges on culture, however, it can be too easy to slap together a few tools, sprinkle in new processes, and call yourself a devops-fueled organization.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a81460e4165a710e0ad42ac1ddba4a9f027ca97.jpg"></article>]]></description>
+            <link>http://www.infoworld.com/article/3011631/devops/7-signs-youre-doing-devops-wrong.html</link>
+            <guid isPermaLink="false">f79ba13a-5b61-4dc1-8067-54f9544bf564</guid>
+            <pubDate>Mon, 21 Dec 2015 22:25:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[When APIs and DevOps Meet Cybersecurity]]></title>
             <description><![CDATA[<article><h1>When APIs and DevOps Meet Cybersecurity</h1><p>Cybersecurity professionals often complain about the number of disparate tools they've deployed on their networks. Ask any enterprise CISOs, and he or she will come up with a list of around 60 to 80 various security tools from a myriad of distinct vendors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d97b0e2eecf24664e388dac50b577025bf83bf2d.png"></article>]]></description>
@@ -54,13 +75,6 @@
             <link>http://logz.io/blog/tech-it-devops-conferences-2016/</link>
             <guid isPermaLink="false">ffdd814b-27ff-469d-81eb-90c70c30b106</guid>
             <pubDate>Mon, 21 Dec 2015 22:01:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[High-performance Teams in DevOps - Computer Technology Review]]></title>
-            <description><![CDATA[<article><h1>High-performance Teams in DevOps - Computer Technology Review</h1><p>by Kris Bliesner The secret to DevOps maturity isn't technology or process, but people. It takes engaged leadership and all-for-one cooperation to achieve the kind of results that lead companies to superior IT performance. High-performing DevOps teams can recover 168 times faster from failures and have 60 times fewer failures due to changes, according to the 2015 State of DevOps report by Puppet Labs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a23f68079c7843216fea269a8b5d401004044eab.jpg"></article>]]></description>
-            <link>http://wwpi.com/high-performance-teams-in-devops/</link>
-            <guid isPermaLink="false">6ccace87-24a7-409d-8a89-972862c0532e</guid>
-            <pubDate>Mon, 21 Dec 2015 21:59:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
