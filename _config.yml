@@ -1,19 +1,4 @@
-name: truedax
-favicon: null
-layout_spectrum: 0.36162
-typography_spectrum: 0.64657
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#e3eaf2'
@@ -23,6 +8,11 @@ color:
     - '#816161'
   brandStrength: 0.5
   lightness: 0.25
-  saturation: 0.1875
   rhythmicContrast: 0
+  saturation: 0.1875
+cta: {}
+layout_spectrum: 0.296171
+name: truedax
+opengraph: {}
 purpose: []
+typography_spectrum: 0.64657
