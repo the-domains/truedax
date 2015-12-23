@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 03:27:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 00:45:45 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Oracle just bought a tiny, year-old cloud computing startup called StackEngine]]></title>
+            <description><![CDATA[<article><h1>Oracle just bought a tiny, year-old cloud computing startup called StackEngine</h1><p>Oracle just bought an Austin, Texas startup called StackEngine, according to documents Oracle filed with the SEC. StackEngine just publicly announced the purchase on its home page, too. The SEC filing doesn't say how much Oracle paid for the startup. It was founded in 2014 and had raised $4.5 million.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f87744962a8fbade6ce4bb0cc8204c600c911ca8.jpg"></article>]]></description>
+            <link>http://www.businessinsider.com/oracle-bought-stackengine-2015-12</link>
+            <guid isPermaLink="false">1561919b-c643-4997-a9ba-c5c5c30601d4</guid>
+            <pubDate>Wed, 23 Dec 2015 00:45:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Powering ITV's DevOps engine with the Elastic stack]]></title>
-            <description><![CDATA[<article><h1>Powering ITV's DevOps engine with the Elastic stack</h1><p>Powering ITV's DevOps Engine with the Elastic stack ITV is the oldest commercial TV network in the United Kingdom. It is an integrated producer broadcaster, operating the largest commercial family of channels in the UK. In addition to traditional broadcasting on our channels, we deliver our content on demand through numerous platforms, both directly and via the ITV Hub.</p><img src="https://www.elastic.co/assets/blt98f3fe0db443851e/itv_hub.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Powering ITV's DevOps engine with the Elastic stack</h1><p>Powering ITV's DevOps Engine with the Elastic stack ITV is the oldest commercial TV network in the United Kingdom. It is an integrated producer broadcaster, operating the largest commercial family of channels in the UK. In addition to traditional broadcasting on our channels, we deliver our content on demand through numerous platforms, both directly and via the ITV Hub.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c25f836b2082322187618cfb661c23fa9c52c819.jpg"></article>]]></description>
             <link>https://www.elastic.co/blog/powering-itvs-devops-engine-with-the-elastic-stack</link>
             <guid isPermaLink="false">0392c416-cec8-4854-9698-cb43ae6ce375</guid>
             <pubDate>Tue, 22 Dec 2015 03:26:29 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Human Brains Are Wired to Blame Rather Than Praise</h1><p>Ouch! Did you do that on purpose? Psychologists have long concluded that people tend to judge others more harshly for their negative actions-assigning fault and blame more often than praise or accolades. Now we know why. New research shows the human brain is wired to react more emotionally to the bad things people do.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0585c00ff792e0b11a17ca7bf5ded0a77c281fa9.jpg"></article>]]></description>
             <link>http://fortune.com/2015/12/04/brain-wired-praise-blame/</link>
             <guid isPermaLink="false">2717fd33-8eef-4439-a28d-4c4ecef44b33</guid>
-            <pubDate>Mon, 21 Dec 2015 22:25:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[sysadvent: Day 5 - ELK Operations and Administration]]></title>
-            <description><![CDATA[<article><h1>sysadvent: Day 5 - ELK Operations and Administration</h1><p>Written by: Katherine Daniels (@beerops) Edited by: Ben Cotton (@funnelfiasco) If you've ever had the misfortune of using a computer before, you've probably encountered what it's like when a computer does something wrong.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e79c11a1529260bcc500167c29bd3db012c2a5b.png"></article>]]></description>
-            <link>http://sysadvent.blogspot.ca/2015/12/day-5-elk-operations-and-administration.html?m=1</link>
-            <guid isPermaLink="false">9466b4c3-7880-4dec-9cf3-30ace8aa4eef</guid>
             <pubDate>Mon, 21 Dec 2015 22:25:25 GMT</pubDate>
         </item>
     </channel>
