@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 16:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 19:04:16 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[What is the MEAN Stack and Why is it Better than LAMP?]]></title>
+            <description><![CDATA[<article><h1>What is the MEAN Stack and Why is it Better than LAMP?</h1><p>For many years, the go-to infrastructure for Web-driven applications has been the LAMP stack. Now, there's a another stack that's widely considered as an alternative to LAMP; the MEAN stack. This article gives you an overview of both Web platforms including the advantages of the MEAN stack.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d907441bf551438609028adf81aa50048525c25f.jpg"></article>]]></description>
+            <link>http://www.programmableweb.com/news/what-mean-stack-and-why-it-better-lamp/analysis/2015/12/22</link>
+            <guid isPermaLink="false">8fe4322c-e238-46e5-aefd-324d375cea15</guid>
+            <pubDate>Wed, 23 Dec 2015 19:03:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[12 Days of DevOps]]></title>
-            <description><![CDATA[<article><h1>12 Days of DevOps</h1><p>'Tis the season. You know the tune. On the twelfth day of DevOps, our business gave to me... 12 GitHub repos, 11 Puppetmasters, 10 deploys a day, 9 Chefs a-knifing, 8 unicorns, 7 wastes of lean, 6 devs a-pairing, 5 golden images, 4 Jenkins servers, 3 DevOps ways, 2 AMIs, And 1 team to help...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db1cbb2d86a964aca0ec063bace356c039438f82.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>12 Days of DevOps</h1><p>'Tis the season. You know the tune. On the twelfth day of DevOps, our business gave to me... 12 GitHub repos, 11 Puppetmasters, 10 deploys a day, 9 Chefs a-knifing, 8 unicorns, 7 wastes of lean, 6 devs a-pairing, 5 golden images, 4 Jenkins servers, 3 DevOps ways, 2 AMIs, And 1 team to help...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dac125ca709c7d748483baa47755001c94e0f9b3.jpg"></article>]]></description>
             <link>http://itsanicelife.com/2015/12/22/12-days-of-devops/</link>
             <guid isPermaLink="false">4fb238e7-0927-4fd0-8f45-dda04394fe52</guid>
             <pubDate>Wed, 23 Dec 2015 16:29:04 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>3 hottest cloud job skills for 2016</h1><p>I get this a lot: People approach me at conferences and ask about the hottest cloud skills. Why? Because they want to learn more, declare their expertise, and get a new and higher-paying gig. I can't blame them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/582eb066f4f6c14e3055ad3d37c6fc1fa59696ab.jpg"></article>]]></description>
             <link>http://www.infoworld.com/article/3011916/it-jobs/3-hottest-cloud-job-skills-for-2016.html</link>
             <guid isPermaLink="false">4bc41d6e-f478-49ed-82f0-e9cadff4b49a</guid>
-            <pubDate>Mon, 21 Dec 2015 22:25:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DEVOPSdigest]]></title>
-            <description><![CDATA[<article><h1>DEVOPSdigest</h1><p>I love the Bourne movies. Apart from the action, what I find fascinating is the uncanny abilities of the protagonist - Jason Bourne; his sixth-sense. He can quickly "weigh up" his surroundings and make detailed assessments of all dangers. This acute level of awareness gives him a distinct competitive advantage.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d53522f1992d86255e92c65a4fd123b27b4a4a75.jpg"></article>]]></description>
-            <link>http://www.devopsdigest.com/the-devops-supremacy</link>
-            <guid isPermaLink="false">10410122-ce23-4cf7-8681-c09d7a085610</guid>
             <pubDate>Mon, 21 Dec 2015 22:25:25 GMT</pubDate>
         </item>
     </channel>
