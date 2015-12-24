@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 19:38:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 19:38:23 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[14 things successful people do before breakfast]]></title>
+            <description><![CDATA[<article><h1>14 things successful people do before breakfast</h1><p>"If it has to happen, then it has to happen first," writes Laura Vanderkam, a time-management expert and the author of " What the Most Successful People Do Before Breakfast." Those among us who have managed to find professional success and eke out a life actively embrace this philosophy.</p><img src="http://static4.businessinsider.com/image/56314278bd86ef14008c5896-1190-625/14-things-successful-people-do-before-breakfast.jpg"></article>]]></description>
+            <link>http://www.businessinsider.com/what-successful-people-do-before-breakfast-2015-10</link>
+            <guid isPermaLink="false">b7bfe761-a334-4b3f-879d-ce9431ace3cd</guid>
+            <pubDate>Thu, 24 Dec 2015 19:37:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This was the best #xmastree I could find in the lot #vancouver #christmas #yaletown #xmastreeofyaletown #charliebrownxmastree]]></title>
             <description><![CDATA[<article><h1>This was the best #xmastree I could find in the lot #vancouver #christmas #yaletown #xmastreeofyaletown #charliebrownxmastree</h1><img src="https://scontent.cdninstagram.com/hphotos-xft1/t51.2885-15/s640x640/sh0.08/e35/12331742_904112666362471_1455568445_n.jpg"></article>]]></description>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[12 Days of DevOps]]></title>
-            <description><![CDATA[<article><h1>12 Days of DevOps</h1><p>'Tis the season. You know the tune. On the twelfth day of DevOps, our business gave to me... 12 GitHub repos, 11 Puppetmasters, 10 deploys a day, 9 Chefs a-knifing, 8 unicorns, 7 wastes of lean, 6 devs a-pairing, 5 golden images, 4 Jenkins servers, 3 DevOps ways, 2 AMIs, And 1 team to help...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19cfb65b1c7c700648de1f097564039cf1cb749a.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>12 Days of DevOps</h1><p>'Tis the season. You know the tune. On the twelfth day of DevOps, our business gave to me... 12 GitHub repos, 11 Puppetmasters, 10 deploys a day, 9 Chefs a-knifing, 8 unicorns, 7 wastes of lean, 6 devs a-pairing, 5 golden images, 4 Jenkins servers, 3 DevOps ways, 2 AMIs, And 1 team to help...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6775644edf10075b41fb84e0f1de6c0d1d3bcf18.jpg"></article>]]></description>
             <link>http://itsanicelife.com/2015/12/22/12-days-of-devops/</link>
             <guid isPermaLink="false">4fb238e7-0927-4fd0-8f45-dda04394fe52</guid>
             <pubDate>Wed, 23 Dec 2015 16:29:04 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>DevOps Culture (Part 1) - IT Revolution</h1><p>After the first US based Devopsdays in Mountainview 2010 Damon Edwards (@damonedwards) and I coined the acronym CAMS, which stands for Culture, Automation, Measurement and Sharing. Jez Humble (@jezhumble) later added an L, standing for Lean, to form CALMS. In this post I wanted to start with an introduction and overview of what culture might look like in the DevOpsRead More...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8d275c2d2d68af71fd290b1e5ed2614ab11a02a.jpg"></article>]]></description>
             <link>http://itrevolution.com/devops-culture-part-1/</link>
             <guid isPermaLink="false">ba624cf5-99a4-4494-bbb2-161b459393b6</guid>
-            <pubDate>Mon, 21 Dec 2015 22:25:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DevOps and the Myth of Efficiency, Part I]]></title>
-            <description><![CDATA[<article><h1>DevOps and the Myth of Efficiency, Part I</h1><p>This post is for those of you working in large companies or "enterprises" and are exploring what "DevOps" really means and why you're struggling with it. I've decided to split this into a two-part post to make it easy to digest some of the thoughts here; I suspect I'll be writing a lot here and build upon some of my other posts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d85d1c3acc2b122d048e24954819b16fe99e5c8.png"></article>]]></description>
-            <link>http://blog.christianposta.com/devops/devops-and-the-myth-of-efficiency-part-i/</link>
-            <guid isPermaLink="false">52b14c0c-1927-4773-b25e-a538b8c57218</guid>
             <pubDate>Mon, 21 Dec 2015 22:25:25 GMT</pubDate>
         </item>
     </channel>
