@@ -4,18 +4,25 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 04:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jan 2016 00:08:55 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Azure Automation: Graphical and textual runbook authoring]]></title>
+            <description><![CDATA[<article><h1>Azure Automation: Graphical and textual runbook authoring</h1><p>Tuesday, January 5, 2016 In Azure Automation in the new Azure portal you can author runbooks using a graphical tool and a graphical programming model, with little or no code required. Simply insert activities from the library to the canvas, link them together into a workflow, and configure the properties in order to create useful runbooks that automate your IT processes.</p><img src="https://acom.azurecomcdn.net/80C57D/cdn/mediahandler/acomblog/media/Default/blog/iStock_000065116111_010416.jpg"></article>]]></description>
+            <link>https://azure.microsoft.com/en-us/blog/azure-automation-graphical-and-textual-runbook-authoring/</link>
+            <guid isPermaLink="false">a70eb3c9-69af-419f-b13d-163a8d20002f</guid>
+            <pubDate>Wed, 06 Jan 2016 00:08:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Year Ahead: What's in Store for Machine Learning? - The New Stack]]></title>
-            <description><![CDATA[<article><h1>The Year Ahead: What's in Store for Machine Learning? - The New Stack</h1><p>It's been a breakthrough year for machine learning. This form of artificial intelligence - which uses algorithms to provide computers with the ability to learn from data and make computational predictions without explicit programming - has long been confined to academia since the 1950s. But there's a noticeable shift in the air, as we're seeing ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c25d115b50b5dfaf7a4d3620f009da88947f26e4.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Year Ahead: What's in Store for Machine Learning? - The New Stack</h1><p>It's been a breakthrough year for machine learning. This form of artificial intelligence - which uses algorithms to provide computers with the ability to learn from data and make computational predictions without explicit programming - has long been confined to academia since the 1950s. But there's a noticeable shift in the air, as we're seeing ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d7f4d79be2b34fd6c902412f3752d886a1b988b.jpg"></article>]]></description>
             <link>http://thenewstack.io/whats-store-machine-learning-2016/</link>
             <guid isPermaLink="false">79037c1e-be25-4be5-82ee-02eff8fd2f86</guid>
             <pubDate>Mon, 04 Jan 2016 04:24:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Keep watch in 2016 on these Seattle startup stars]]></title>
-            <description><![CDATA[<article><h1>Keep watch in 2016 on these Seattle startup stars</h1><p>From a growing IT automation company to a developer of a 3-D laser printer, a number of companies are leading the Seattle area's vibrant startup scene. Amazon.com, Expedia and other local technology giants are growing with such increasing speed in the past several months that it's sometimes easy to forget that the Puget Sound region's scene of smaller companies is booming as well.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0ebead54c04c8a2c99cedbe2c2f4dea219d74af.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Keep watch in 2016 on these Seattle startup stars</h1><p>From a growing IT automation company to a developer of a 3-D laser printer, a number of companies are leading the Seattle area's vibrant startup scene. Amazon.com, Expedia and other local technology giants are growing with such increasing speed in the past several months that it's sometimes easy to forget that the Puget Sound region's scene of smaller companies is booming as well.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3669d050fbada3975c47dfbd3225e7904f25d47f.jpg"></article>]]></description>
             <link>http://www.seattletimes.com/business/technology/keep-watch-in-2016-on-these-seattle-startup-stars/</link>
             <guid isPermaLink="false">bbe8b6a7-87dc-404a-81c3-639bebd93dc6</guid>
             <pubDate>Mon, 04 Jan 2016 04:20:58 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.infoq.com/news/2015/12/containers-vs-config-mgmt</link>
             <guid isPermaLink="false">f5d516d5-4d77-4e96-aad2-decb86d4d7be</guid>
             <pubDate>Mon, 21 Dec 2015 22:25:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is VMware Building a DevOps Framework for the Masses?]]></title>
-            <description><![CDATA[<article><h1>Is VMware Building a DevOps Framework for the Masses?</h1><p>While Cloud Native Applications and DevOps are generating massive amounts of hype, the ability of IT organizations to execute on this vision outside of Silicon Valley is often being questioned. VMware's Cloud-Native Apps group is putting together an infrastructure framework that might just be the right model to bring DevOps interactions to the masses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49ec4cf320270dd98bfe34aa65cc62fae09b43d2.png"></article>]]></description>
-            <link>http://wikibon.com/is-vmware-building-a-devops-framework-for-the-masses/</link>
-            <guid isPermaLink="false">90e9c658-9061-4301-a6aa-924567840ef8</guid>
-            <pubDate>Mon, 21 Dec 2015 22:25:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
