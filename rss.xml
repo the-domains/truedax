@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 00:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2016 17:28:18 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Scalr Scores $7.35 Million to Keep an Eye on Customer Clouds]]></title>
+            <description><![CDATA[<article><h1>Scalr Scores $7.35 Million to Keep an Eye on Customer Clouds</h1><p>Scalr, which made its name monitoring the performance of multiple clouds for business customers, just raised $7.35 million in new funding from OpenView Venture Partners. While Amazon is the big daddy in public clouds-which pool tons of computer, networking, and storage to rent out to customers-many companies don't want to put all their jobs in one cloud basket.</p><img src="https://fortunedotcom.files.wordpress.com/2015/05/121330301.jpg?quality=80&w=1024"></article>]]></description>
+            <link>http://fortune.com/2016/01/11/scalr-snags-over-7-million/</link>
+            <guid isPermaLink="false">725f2951-47b5-4d8a-8382-03eafc5f6176</guid>
+            <pubDate>Tue, 12 Jan 2016 17:28:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Azure Automation: Graphical and textual runbook authoring]]></title>
-            <description><![CDATA[<article><h1>Azure Automation: Graphical and textual runbook authoring</h1><p>Tuesday, January 5, 2016 In Azure Automation in the new Azure portal you can author runbooks using a graphical tool and a graphical programming model, with little or no code required. Simply insert activities from the library to the canvas, link them together into a workflow, and configure the properties in order to create useful runbooks that automate your IT processes.</p><img src="https://acom.azurecomcdn.net/80C57D/cdn/mediahandler/acomblog/media/Default/blog/iStock_000065116111_010416.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Azure Automation: Graphical and textual runbook authoring</h1><p>Tuesday, January 5, 2016 In Azure Automation in the new Azure portal you can author runbooks using a graphical tool and a graphical programming model, with little or no code required. Simply insert activities from the library to the canvas, link them together into a workflow, and configure the properties in order to create useful runbooks that automate your IT processes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5bb816f275c07b44e3753bd7f44502d60ea308f.jpg"></article>]]></description>
             <link>https://azure.microsoft.com/en-us/blog/azure-automation-graphical-and-textual-runbook-authoring/</link>
             <guid isPermaLink="false">a70eb3c9-69af-419f-b13d-163a8d20002f</guid>
             <pubDate>Wed, 06 Jan 2016 00:08:54 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Connections: DevOps initiatives shouldn't just touch the new stuff</h1><p>Although I feel as if it's been dispelled to a significant degree, there lingers the misperception that DevOps [1] is mostly for companies that sport ping-pong tables and have free sushi for lunch. Firms that manufacture construction equipment and have large swaths of legacy computer code? Not so much.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4173124f511779673f0ded82818cfb2c97183a3.png"></article>]]></description>
             <link>http://bitmason.blogspot.ca/2015/11/devops-initiatives-shouldn-just-touch.html</link>
             <guid isPermaLink="false">d6196d3c-3a72-46ee-b7be-bfe5fbf3d560</guid>
-            <pubDate>Mon, 21 Dec 2015 22:25:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Role of Configuration Management in a Containerized World]]></title>
-            <description><![CDATA[<article><h1>The Role of Configuration Management in a Containerized World</h1><p>Docker has seen widespread adoption as an infrastructure automation tool and there has been a growing debate as to whether it supersedes configuration management (CM) tools. With most CM tools providing support for Docker, the consensus seems to be to use both CM and containers in tandem for without ditching one in favor of the other.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dadff9d458f25d696dd30a94a780fd774e27df81.jpg"></article>]]></description>
-            <link>http://www.infoq.com/news/2015/12/containers-vs-config-mgmt</link>
-            <guid isPermaLink="false">f5d516d5-4d77-4e96-aad2-decb86d4d7be</guid>
             <pubDate>Mon, 21 Dec 2015 22:25:49 GMT</pubDate>
         </item>
     </channel>
