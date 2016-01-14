@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 17:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2016 17:12:25 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Devops explained: Why culture is key to devops success]]></title>
+            <description><![CDATA[<article><h1>Devops explained: Why culture is key to devops success</h1><p>The term 'devops' has been bandied about for years, but without a rigid definition there's still plenty of confusion to the jargon - is devops a dated buzzphrase that's had its day, or is it actually new best practice for business? It seems the word on the lips of every enterprise going into 2016 is 'devops'.</p><img src="http://cdn1.computerworlduk.com/cmsdata/features/3633259/devops_january2016_2_thumb800.jpg"></article>]]></description>
+            <link>http://www.computerworlduk.com/it-management/devops-explained-what-it-is-why-you-should-care-3633259/</link>
+            <guid isPermaLink="false">cc812af0-dd4b-4c35-8c7c-608e219e2c34</guid>
+            <pubDate>Thu, 14 Jan 2016 17:12:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No, Agile does not 'equal' DevOps: Examining complexity and the long haul]]></title>
-            <description><![CDATA[<article><h1>No, Agile does not 'equal' DevOps: Examining complexity and the long haul</h1><p>Two of the hottest buzzwords in the industry at the moment are DevOps and microservices - both are riding high on the hype cycle and we're starting to see gurus emerge telling us that they will save the IT industry (or at least save the industry a great deal of money).</p><img src="https://regmedia.co.uk/2016/01/13/trucker_image_via_shutterstock.jpg?x=1200&y=794"></article>]]></description>
+            <description><![CDATA[<article><h1>No, Agile does not 'equal' DevOps: Examining complexity and the long haul</h1><p>Two of the hottest buzzwords in the industry at the moment are DevOps and microservices - both are riding high on the hype cycle and we're starting to see gurus emerge telling us that they will save the IT industry (or at least save the industry a great deal of money).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5bc7b9b80e283af53a478ba680654e9c87847983.jpg"></article>]]></description>
             <link>http://www.theregister.co.uk/2016/01/14/long_haul_to_devops/</link>
             <guid isPermaLink="false">32f4097e-72b4-4890-934b-489bbcf20071</guid>
             <pubDate>Thu, 14 Jan 2016 17:09:43 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.businessinsider.com/oracle-bought-stackengine-2015-12</link>
             <guid isPermaLink="false">1561919b-c643-4997-a9ba-c5c5c30601d4</guid>
             <pubDate>Wed, 23 Dec 2015 00:45:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Powering ITV's DevOps engine with the Elastic stack]]></title>
-            <description><![CDATA[<article><h1>Powering ITV's DevOps engine with the Elastic stack</h1><p>Powering ITV's DevOps Engine with the Elastic stack ITV is the oldest commercial TV network in the United Kingdom. It is an integrated producer broadcaster, operating the largest commercial family of channels in the UK. In addition to traditional broadcasting on our channels, we deliver our content on demand through numerous platforms, both directly and via the ITV Hub.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c25f836b2082322187618cfb661c23fa9c52c819.jpg"></article>]]></description>
-            <link>https://www.elastic.co/blog/powering-itvs-devops-engine-with-the-elastic-stack</link>
-            <guid isPermaLink="false">0392c416-cec8-4854-9698-cb43ae6ce375</guid>
-            <pubDate>Tue, 22 Dec 2015 03:26:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
