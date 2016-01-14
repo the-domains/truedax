@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 17:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2016 17:10:45 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No, Agile does not 'equal' DevOps: Examining complexity and the long haul]]></title>
+            <description><![CDATA[<article><h1>No, Agile does not 'equal' DevOps: Examining complexity and the long haul</h1><p>Two of the hottest buzzwords in the industry at the moment are DevOps and microservices - both are riding high on the hype cycle and we're starting to see gurus emerge telling us that they will save the IT industry (or at least save the industry a great deal of money).</p><img src="https://regmedia.co.uk/2016/01/13/trucker_image_via_shutterstock.jpg?x=1200&y=794"></article>]]></description>
+            <link>http://www.theregister.co.uk/2016/01/14/long_haul_to_devops/</link>
+            <guid isPermaLink="false">32f4097e-72b4-4890-934b-489bbcf20071</guid>
+            <pubDate>Thu, 14 Jan 2016 17:09:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scalr Scores $7.35 Million to Keep an Eye on Customer Clouds]]></title>
-            <description><![CDATA[<article><h1>Scalr Scores $7.35 Million to Keep an Eye on Customer Clouds</h1><p>Scalr, which made its name monitoring the performance of multiple clouds for business customers, just raised $7.35 million in new funding from OpenView Venture Partners. While Amazon is the big daddy in public clouds-which pool tons of computer, networking, and storage to rent out to customers-many companies don't want to put all their jobs in one cloud basket.</p><img src="https://fortunedotcom.files.wordpress.com/2015/05/121330301.jpg?quality=80&w=1024"></article>]]></description>
+            <description><![CDATA[<article><h1>Scalr Scores $7.35 Million to Keep an Eye on Customer Clouds</h1><p>Scalr, which made its name monitoring the performance of multiple clouds for business customers, just raised $7.35 million in new funding from OpenView Venture Partners. While Amazon is the big daddy in public clouds-which pool tons of computer, networking, and storage to rent out to customers-many companies don't want to put all their jobs in one cloud basket.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1034adfde39d72b605299a7461b4c020c20054ef.jpg"></article>]]></description>
             <link>http://fortune.com/2016/01/11/scalr-snags-over-7-million/</link>
             <guid isPermaLink="false">725f2951-47b5-4d8a-8382-03eafc5f6176</guid>
             <pubDate>Tue, 12 Jan 2016 17:28:10 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.elastic.co/blog/powering-itvs-devops-engine-with-the-elastic-stack</link>
             <guid isPermaLink="false">0392c416-cec8-4854-9698-cb43ae6ce375</guid>
             <pubDate>Tue, 22 Dec 2015 03:26:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Connections: DevOps initiatives shouldn't just touch the new stuff]]></title>
-            <description><![CDATA[<article><h1>Connections: DevOps initiatives shouldn't just touch the new stuff</h1><p>Although I feel as if it's been dispelled to a significant degree, there lingers the misperception that DevOps [1] is mostly for companies that sport ping-pong tables and have free sushi for lunch. Firms that manufacture construction equipment and have large swaths of legacy computer code? Not so much.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4173124f511779673f0ded82818cfb2c97183a3.png"></article>]]></description>
-            <link>http://bitmason.blogspot.ca/2015/11/devops-initiatives-shouldn-just-touch.html</link>
-            <guid isPermaLink="false">d6196d3c-3a72-46ee-b7be-bfe5fbf3d560</guid>
-            <pubDate>Mon, 21 Dec 2015 22:25:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
