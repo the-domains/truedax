@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 17:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jan 2016 22:15:23 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[You, yes YOU: DevOps' people problem]]></title>
+            <description><![CDATA[<article><h1>You, yes YOU: DevOps' people problem</h1><p>You've no doubt heard of DevOps. This is the process of getting developers and sysadmins working together closely on the same team to support a company's custom-written software. I know, I know, Dear Reader: you've been doing this ever since operating that AS/400; no one really needs weekly releases; and, of course, the favorite: "this is just the current way for consultants to make money."</p><img src="https://regmedia.co.uk/2016/01/13/baldie_selfie_image_via_shutterstock.jpg?x=1200&y=794"></article>]]></description>
+            <link>http://www.theregister.co.uk/2016/01/15/devops_people_problem/</link>
+            <guid isPermaLink="false">841945c0-b8a8-44d3-9702-b7d3564c847c</guid>
+            <pubDate>Fri, 15 Jan 2016 22:14:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Devops explained: Why culture is key to devops success]]></title>
-            <description><![CDATA[<article><h1>Devops explained: Why culture is key to devops success</h1><p>The term 'devops' has been bandied about for years, but without a rigid definition there's still plenty of confusion to the jargon - is devops a dated buzzphrase that's had its day, or is it actually new best practice for business? It seems the word on the lips of every enterprise going into 2016 is 'devops'.</p><img src="http://cdn1.computerworlduk.com/cmsdata/features/3633259/devops_january2016_2_thumb800.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Devops explained: Why culture is key to devops success</h1><p>The term 'devops' has been bandied about for years, but without a rigid definition there's still plenty of confusion to the jargon - is devops a dated buzzphrase that's had its day, or is it actually new best practice for business? It seems the word on the lips of every enterprise going into 2016 is 'devops'.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b73a5b05895b0bb43bc746c4866b7c0ab6944bb.jpg"></article>]]></description>
             <link>http://www.computerworlduk.com/it-management/devops-explained-what-it-is-why-you-should-care-3633259/</link>
             <guid isPermaLink="false">cc812af0-dd4b-4c35-8c7c-608e219e2c34</guid>
             <pubDate>Thu, 14 Jan 2016 17:12:23 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://itsanicelife.com/2015/12/22/12-days-of-devops/</link>
             <guid isPermaLink="false">4fb238e7-0927-4fd0-8f45-dda04394fe52</guid>
             <pubDate>Wed, 23 Dec 2015 16:29:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oracle just bought a tiny, year-old cloud computing startup called StackEngine]]></title>
-            <description><![CDATA[<article><h1>Oracle just bought a tiny, year-old cloud computing startup called StackEngine</h1><p>Oracle just bought an Austin, Texas startup called StackEngine, according to documents Oracle filed with the SEC. StackEngine just publicly announced the purchase on its home page, too. The SEC filing doesn't say how much Oracle paid for the startup. It was founded in 2014 and had raised $4.5 million.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f87744962a8fbade6ce4bb0cc8204c600c911ca8.jpg"></article>]]></description>
-            <link>http://www.businessinsider.com/oracle-bought-stackengine-2015-12</link>
-            <guid isPermaLink="false">1561919b-c643-4997-a9ba-c5c5c30601d4</guid>
-            <pubDate>Wed, 23 Dec 2015 00:45:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
