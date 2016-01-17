@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 22:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 19:14:01 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[DevOps helps car sharing service car2go lead the pack]]></title>
+            <description><![CDATA[<article><h1>DevOps helps car sharing service car2go lead the pack</h1><p>German automotive corporation Daimler AG knows cars. Whether you're financing, insuring, managing or servicing a vehicle - Daimler has got you covered. But when the company stumbled upon the bright idea for a new car sharing and mobility service, the motor giant knew it was speeding ahead into a new frontier..</p><img src="http://www.thoughtsoncloud.com/wp-content/uploads/2016/01/wpid-thumbnail-2f2f63e4469a5345e926730baeedb4a1.jpeg"></article>]]></description>
+            <link>http://www.thoughtsoncloud.com/2016/01/devops-helps-car-sharing-service-car2go-lead-the-pack/</link>
+            <guid isPermaLink="false">41131051-ebc5-40ef-b666-41c954ea3463</guid>
+            <pubDate>Sat, 16 Jan 2016 19:13:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[You, yes YOU: DevOps' people problem]]></title>
-            <description><![CDATA[<article><h1>You, yes YOU: DevOps' people problem</h1><p>You've no doubt heard of DevOps. This is the process of getting developers and sysadmins working together closely on the same team to support a company's custom-written software. I know, I know, Dear Reader: you've been doing this ever since operating that AS/400; no one really needs weekly releases; and, of course, the favorite: "this is just the current way for consultants to make money."</p><img src="https://regmedia.co.uk/2016/01/13/baldie_selfie_image_via_shutterstock.jpg?x=1200&y=794"></article>]]></description>
+            <description><![CDATA[<article><h1>You, yes YOU: DevOps' people problem</h1><p>You've no doubt heard of DevOps. This is the process of getting developers and sysadmins working together closely on the same team to support a company's custom-written software. I know, I know, Dear Reader: you've been doing this ever since operating that AS/400; no one really needs weekly releases; and, of course, the favorite: "this is just the current way for consultants to make money."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a27a88fa0d2f8746926b5dcc904f457b1e7a07c.jpg"></article>]]></description>
             <link>http://www.theregister.co.uk/2016/01/15/devops_people_problem/</link>
             <guid isPermaLink="false">841945c0-b8a8-44d3-9702-b7d3564c847c</guid>
             <pubDate>Fri, 15 Jan 2016 22:14:30 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.programmableweb.com/news/what-mean-stack-and-why-it-better-lamp/analysis/2015/12/22</link>
             <guid isPermaLink="false">8fe4322c-e238-46e5-aefd-324d375cea15</guid>
             <pubDate>Wed, 23 Dec 2015 19:03:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[12 Days of DevOps]]></title>
-            <description><![CDATA[<article><h1>12 Days of DevOps</h1><p>'Tis the season. You know the tune. On the twelfth day of DevOps, our business gave to me... 12 GitHub repos, 11 Puppetmasters, 10 deploys a day, 9 Chefs a-knifing, 8 unicorns, 7 wastes of lean, 6 devs a-pairing, 5 golden images, 4 Jenkins servers, 3 DevOps ways, 2 AMIs, And 1 team to help...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6775644edf10075b41fb84e0f1de6c0d1d3bcf18.jpg"></article>]]></description>
-            <link>http://itsanicelife.com/2015/12/22/12-days-of-devops/</link>
-            <guid isPermaLink="false">4fb238e7-0927-4fd0-8f45-dda04394fe52</guid>
-            <pubDate>Wed, 23 Dec 2015 16:29:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
