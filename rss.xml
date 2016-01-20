@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 19:47:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 04:34:14 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Improving Build Time of Java Builds on OpenShift - OpenShift Blog]]></title>
+            <description><![CDATA[<article><h1>Improving Build Time of Java Builds on OpenShift - OpenShift Blog</h1><p>Since we released OpenShift 3 back in July 2015, one of the most common questions I get from developers is how to get better build time for Java based builds. In this post, I will guide you through the process of speeding up Java Maven based builds, and will explain other options that can be taken to the ones that I'll be showing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85ce7bc47f6898272c712d6f639f1a912aa2accd.png"></article>]]></description>
+            <link>https://blog.openshift.com/improving-build-time-java-builds-openshift/</link>
+            <guid isPermaLink="false">03a95b68-7f28-4491-8b13-c885891ad758</guid>
+            <pubDate>Wed, 20 Jan 2016 04:33:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Foundations of DevOps]]></title>
             <description><![CDATA[<article><h1>Foundations of DevOps</h1><p>Debates about what DevOps is have been going on for several years. However, rather than being a static entity, with a single definition, DevOps may be closer to a practice, with some underlying principles that remain constant, and with forms and applications that vary according to the experiences of the practitioners.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.seattletimes.com/business/technology/keep-watch-in-2016-on-these-seattle-startup-stars/</link>
             <guid isPermaLink="false">bbe8b6a7-87dc-404a-81c3-639bebd93dc6</guid>
             <pubDate>Mon, 04 Jan 2016 04:20:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[14 things successful people do before breakfast]]></title>
-            <description><![CDATA[<article><h1>14 things successful people do before breakfast</h1><p>"If it has to happen, then it has to happen first," writes Laura Vanderkam, a time-management expert and the author of " What the Most Successful People Do Before Breakfast." Those among us who have managed to find professional success and eke out a life actively embrace this philosophy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0af6102171b0be852922cab2a2c29682f382aed.jpg"></article>]]></description>
-            <link>http://www.businessinsider.com/what-successful-people-do-before-breakfast-2015-10</link>
-            <guid isPermaLink="false">b7bfe761-a334-4b3f-879d-ce9431ace3cd</guid>
-            <pubDate>Thu, 24 Dec 2015 19:37:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
