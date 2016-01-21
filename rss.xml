@@ -4,18 +4,25 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 04:34:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jan 2016 00:22:23 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[5 cloud computing predictions for 2016]]></title>
+            <description><![CDATA[<article><h1>5 cloud computing predictions for 2016</h1><p>The salty tang in the air is the fragrance of a sea change in IT - a tidal shift that will change the role of IT and IT participants over the next five years.</p><img src="http://images.techhive.com/images/article/2015/06/cloud-computing-future-sdn-prediction-100591460-primary.idge.png"></article>]]></description>
+            <link>http://www.cio.com/article/3024329/cloud-computing/5-cloud-computing-predictions-for-2016.html</link>
+            <guid isPermaLink="false">45e79136-136e-4d35-95fe-76a8742970e8</guid>
+            <pubDate>Thu, 21 Jan 2016 00:22:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[2016: The Tipping Point for DevOps]]></title>
-            <description><![CDATA[<article><h1>2016: The Tipping Point for DevOps</h1><p>While 2015 was certainly a big year for us as we joined the Red Hat family, in many ways we're still right at home with our roots deeply planted in the ways of open source.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fce3cb60c1b8d8e10143b81fd55af05ac0f303e.png"></article>]]></description>
+            <description><![CDATA[<article><h1>2016: The Tipping Point for DevOps</h1><p>While 2015 was certainly a big year for us as we joined the Red Hat family, in many ways we're still right at home with our roots deeply planted in the ways of open source.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8cd8af77cfb8f3fea13d8b0fd518f0ae82bb2bc.png"></article>]]></description>
             <link>http://www.ansible.com/blog/2016-the-tipping-point-for-devops</link>
             <guid isPermaLink="false">a98ba97a-352c-4f49-a8b8-b2f806b6eb9a</guid>
             <pubDate>Wed, 20 Jan 2016 04:33:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Improving Build Time of Java Builds on OpenShift - OpenShift Blog]]></title>
-            <description><![CDATA[<article><h1>Improving Build Time of Java Builds on OpenShift - OpenShift Blog</h1><p>Since we released OpenShift 3 back in July 2015, one of the most common questions I get from developers is how to get better build time for Java based builds. In this post, I will guide you through the process of speeding up Java Maven based builds, and will explain other options that can be taken to the ones that I'll be showing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85ce7bc47f6898272c712d6f639f1a912aa2accd.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Improving Build Time of Java Builds on OpenShift - OpenShift Blog</h1><p>Since we released OpenShift 3 back in July 2015, one of the most common questions I get from developers is how to get better build time for Java based builds. In this post, I will guide you through the process of speeding up Java Maven based builds, and will explain other options that can be taken to the ones that I'll be showing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24cab90632b973f6a67ea4ce85f48a854eb08963.png"></article>]]></description>
             <link>https://blog.openshift.com/improving-build-time-java-builds-openshift/</link>
             <guid isPermaLink="false">03a95b68-7f28-4491-8b13-c885891ad758</guid>
             <pubDate>Wed, 20 Jan 2016 04:33:33 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://azure.microsoft.com/en-us/blog/azure-automation-graphical-and-textual-runbook-authoring/</link>
             <guid isPermaLink="false">a70eb3c9-69af-419f-b13d-163a8d20002f</guid>
             <pubDate>Wed, 06 Jan 2016 00:08:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Year Ahead: What's in Store for Machine Learning? - The New Stack]]></title>
-            <description><![CDATA[<article><h1>The Year Ahead: What's in Store for Machine Learning? - The New Stack</h1><p>It's been a breakthrough year for machine learning. This form of artificial intelligence - which uses algorithms to provide computers with the ability to learn from data and make computational predictions without explicit programming - has long been confined to academia since the 1950s. But there's a noticeable shift in the air, as we're seeing ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d7f4d79be2b34fd6c902412f3752d886a1b988b.jpg"></article>]]></description>
-            <link>http://thenewstack.io/whats-store-machine-learning-2016/</link>
-            <guid isPermaLink="false">79037c1e-be25-4be5-82ee-02eff8fd2f86</guid>
-            <pubDate>Mon, 04 Jan 2016 04:24:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
