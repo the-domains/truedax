@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 17:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 17:29:30 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Newly minted DevOps consultancy roams world, looking for CIOs in pain]]></title>
+            <description><![CDATA[<article><h1>Newly minted DevOps consultancy roams world, looking for CIOs in pain</h1><p>London-based DevOps consultancy Contino has merged with a US-based counterpart with the combined entity getting a $30m cash boost from investment group Columbia Capital. The combined group will be making a play for the digital transformation business that has become an increasingly lucrative part of the Agile and DevOps game, and which they reckon will be hitting the flush financial services sector anytime now.</p><img src="https://regmedia.co.uk/2015/09/01/handshake_648.jpg?x=1200&y=794"></article>]]></description>
+            <link>http://www.theregister.co.uk/2016/01/21/contino_clutch_merge_get_30m_funding/</link>
+            <guid isPermaLink="false">fa4541ad-8f71-4c75-8e5c-4a12beae6dff</guid>
+            <pubDate>Mon, 25 Jan 2016 17:28:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[9 hidden talents of devops ninjas]]></title>
             <description><![CDATA[<article><h1>9 hidden talents of devops ninjas</h1><p>Devops is all about culture, with groups of teams working in concert toward a common goal. But as opposed to some workplace cultures, there are certain traits and talents all devops team members must have in common.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfca848b8201cc19ea3fe73e50204dc8c67fd659.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.theregister.co.uk/2016/01/14/long_haul_to_devops/</link>
             <guid isPermaLink="false">32f4097e-72b4-4890-934b-489bbcf20071</guid>
             <pubDate>Thu, 14 Jan 2016 17:09:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scalr Scores $7.35 Million to Keep an Eye on Customer Clouds]]></title>
-            <description><![CDATA[<article><h1>Scalr Scores $7.35 Million to Keep an Eye on Customer Clouds</h1><p>Scalr, which made its name monitoring the performance of multiple clouds for business customers, just raised $7.35 million in new funding from OpenView Venture Partners. While Amazon is the big daddy in public clouds-which pool tons of computer, networking, and storage to rent out to customers-many companies don't want to put all their jobs in one cloud basket.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1034adfde39d72b605299a7461b4c020c20054ef.jpg"></article>]]></description>
-            <link>http://fortune.com/2016/01/11/scalr-snags-over-7-million/</link>
-            <guid isPermaLink="false">725f2951-47b5-4d8a-8382-03eafc5f6176</guid>
-            <pubDate>Tue, 12 Jan 2016 17:28:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
