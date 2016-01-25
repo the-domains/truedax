@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 00:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 17:24:07 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[9 hidden talents of devops ninjas]]></title>
+            <description><![CDATA[<article><h1>9 hidden talents of devops ninjas</h1><p>Devops is all about culture, with groups of teams working in concert toward a common goal. But as opposed to some workplace cultures, there are certain traits and talents all devops team members must have in common.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfca848b8201cc19ea3fe73e50204dc8c67fd659.jpg"></article>]]></description>
+            <link>http://www.infoworld.com/article/3024814/devops/9-hidden-talents-of-devops-ninjas.html</link>
+            <guid isPermaLink="false">9c56e658-66f2-4687-9cb4-ab595b66576e</guid>
+            <pubDate>Mon, 25 Jan 2016 17:24:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[5 cloud computing predictions for 2016]]></title>
-            <description><![CDATA[<article><h1>5 cloud computing predictions for 2016</h1><p>The salty tang in the air is the fragrance of a sea change in IT - a tidal shift that will change the role of IT and IT participants over the next five years.</p><img src="http://images.techhive.com/images/article/2015/06/cloud-computing-future-sdn-prediction-100591460-primary.idge.png"></article>]]></description>
+            <description><![CDATA[<article><h1>5 cloud computing predictions for 2016</h1><p>The salty tang in the air is the fragrance of a sea change in IT - a tidal shift that will change the role of IT and IT participants over the next five years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/686ae44c03993583c622e17b7ead324d0972b0a9.png"></article>]]></description>
             <link>http://www.cio.com/article/3024329/cloud-computing/5-cloud-computing-predictions-for-2016.html</link>
             <guid isPermaLink="false">45e79136-136e-4d35-95fe-76a8742970e8</guid>
             <pubDate>Thu, 21 Jan 2016 00:22:06 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://fortune.com/2016/01/11/scalr-snags-over-7-million/</link>
             <guid isPermaLink="false">725f2951-47b5-4d8a-8382-03eafc5f6176</guid>
             <pubDate>Tue, 12 Jan 2016 17:28:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Azure Automation: Graphical and textual runbook authoring]]></title>
-            <description><![CDATA[<article><h1>Azure Automation: Graphical and textual runbook authoring</h1><p>Tuesday, January 5, 2016 In Azure Automation in the new Azure portal you can author runbooks using a graphical tool and a graphical programming model, with little or no code required. Simply insert activities from the library to the canvas, link them together into a workflow, and configure the properties in order to create useful runbooks that automate your IT processes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5bb816f275c07b44e3753bd7f44502d60ea308f.jpg"></article>]]></description>
-            <link>https://azure.microsoft.com/en-us/blog/azure-automation-graphical-and-textual-runbook-authoring/</link>
-            <guid isPermaLink="false">a70eb3c9-69af-419f-b13d-163a8d20002f</guid>
-            <pubDate>Wed, 06 Jan 2016 00:08:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
