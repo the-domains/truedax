@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 17:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2016 19:42:34 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Love DevOps? Wait 'till you meet SRE]]></title>
+            <description><![CDATA[<article><h1>Love DevOps? Wait 'till you meet SRE</h1><p>You may have heard of a little company called Google. They invent cool stuff like driverless cars and elevators into outer space. Oh: and they develop massively successful applications like Gmail, Google Docs, and Google Maps. It's safe to say they know a thing or two about successful application development, right?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7cb105e0a453f8b9d2b3c2d3de8d8fb9bfcff77.jpg"></article>]]></description>
+            <link>https://www.atlassian.com/help-desk/site-reliability-engineering-sre/</link>
+            <guid isPermaLink="false">e4da3d60-4dd2-4f7f-a67f-cea38d6a6950</guid>
+            <pubDate>Tue, 26 Jan 2016 19:41:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Newly minted DevOps consultancy roams world, looking for CIOs in pain]]></title>
-            <description><![CDATA[<article><h1>Newly minted DevOps consultancy roams world, looking for CIOs in pain</h1><p>London-based DevOps consultancy Contino has merged with a US-based counterpart with the combined entity getting a $30m cash boost from investment group Columbia Capital. The combined group will be making a play for the digital transformation business that has become an increasingly lucrative part of the Agile and DevOps game, and which they reckon will be hitting the flush financial services sector anytime now.</p><img src="https://regmedia.co.uk/2015/09/01/handshake_648.jpg?x=1200&y=794"></article>]]></description>
+            <description><![CDATA[<article><h1>Newly minted DevOps consultancy roams world, looking for CIOs in pain</h1><p>London-based DevOps consultancy Contino has merged with a US-based counterpart with the combined entity getting a $30m cash boost from investment group Columbia Capital. The combined group will be making a play for the digital transformation business that has become an increasingly lucrative part of the Agile and DevOps game, and which they reckon will be hitting the flush financial services sector anytime now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4034f8d83eb2714e3b2e6f060b88743d0a303df7.jpg"></article>]]></description>
             <link>http://www.theregister.co.uk/2016/01/21/contino_clutch_merge_get_30m_funding/</link>
             <guid isPermaLink="false">fa4541ad-8f71-4c75-8e5c-4a12beae6dff</guid>
             <pubDate>Mon, 25 Jan 2016 17:28:38 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.computerworlduk.com/it-management/devops-explained-what-it-is-why-you-should-care-3633259/</link>
             <guid isPermaLink="false">cc812af0-dd4b-4c35-8c7c-608e219e2c34</guid>
             <pubDate>Thu, 14 Jan 2016 17:12:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No, Agile does not 'equal' DevOps: Examining complexity and the long haul]]></title>
-            <description><![CDATA[<article><h1>No, Agile does not 'equal' DevOps: Examining complexity and the long haul</h1><p>Two of the hottest buzzwords in the industry at the moment are DevOps and microservices - both are riding high on the hype cycle and we're starting to see gurus emerge telling us that they will save the IT industry (or at least save the industry a great deal of money).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5bc7b9b80e283af53a478ba680654e9c87847983.jpg"></article>]]></description>
-            <link>http://www.theregister.co.uk/2016/01/14/long_haul_to_devops/</link>
-            <guid isPermaLink="false">32f4097e-72b4-4890-934b-489bbcf20071</guid>
-            <pubDate>Thu, 14 Jan 2016 17:09:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
