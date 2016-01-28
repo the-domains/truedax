@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 19:42:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jan 2016 19:05:02 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[How to use customer feedback to drive your DevOps teams]]></title>
+            <description><![CDATA[<article><h1>How to use customer feedback to drive your DevOps teams</h1><p>DevOps and the cloud, the dominant topics in enterprise management discussions, are increasingly forcing R&D and operations leaders to rethink software delivery. Legacy methods just don't cut it anymore. They're too cumbersome, expensive, and disconnected from customers. So what do you do?</p><img src="http://techbeacon.com/sites/default/files/39_0.jpg"></article>]]></description>
+            <link>http://techbeacon.com/infuse-customer-feedback-devops</link>
+            <guid isPermaLink="false">81dae186-01f9-43ad-a483-31ab3621b509</guid>
+            <pubDate>Thu, 28 Jan 2016 19:04:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Love DevOps? Wait 'till you meet SRE]]></title>
-            <description><![CDATA[<article><h1>Love DevOps? Wait 'till you meet SRE</h1><p>You may have heard of a little company called Google. They invent cool stuff like driverless cars and elevators into outer space. Oh: and they develop massively successful applications like Gmail, Google Docs, and Google Maps. It's safe to say they know a thing or two about successful application development, right?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7cb105e0a453f8b9d2b3c2d3de8d8fb9bfcff77.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Love DevOps? Wait 'till you meet SRE</h1><p>You may have heard of a little company called Google. They invent cool stuff like driverless cars and elevators into outer space. Oh: and they develop massively successful applications like Gmail, Google Docs, and Google Maps. It's safe to say they know a thing or two about successful application development, right?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99fcb2bef2a81c55af56bd992638f68a29c3253a.jpg"></article>]]></description>
             <link>https://www.atlassian.com/help-desk/site-reliability-engineering-sre/</link>
             <guid isPermaLink="false">e4da3d60-4dd2-4f7f-a67f-cea38d6a6950</guid>
             <pubDate>Tue, 26 Jan 2016 19:41:40 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.theregister.co.uk/2016/01/15/devops_people_problem/</link>
             <guid isPermaLink="false">841945c0-b8a8-44d3-9702-b7d3564c847c</guid>
             <pubDate>Fri, 15 Jan 2016 22:14:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Devops explained: Why culture is key to devops success]]></title>
-            <description><![CDATA[<article><h1>Devops explained: Why culture is key to devops success</h1><p>The term 'devops' has been bandied about for years, but without a rigid definition there's still plenty of confusion to the jargon - is devops a dated buzzphrase that's had its day, or is it actually new best practice for business? It seems the word on the lips of every enterprise going into 2016 is 'devops'.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b73a5b05895b0bb43bc746c4866b7c0ab6944bb.jpg"></article>]]></description>
-            <link>http://www.computerworlduk.com/it-management/devops-explained-what-it-is-why-you-should-care-3633259/</link>
-            <guid isPermaLink="false">cc812af0-dd4b-4c35-8c7c-608e219e2c34</guid>
-            <pubDate>Thu, 14 Jan 2016 17:12:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
