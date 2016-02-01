@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 02:55:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2016 19:59:44 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[A Short Manual to Bring Change Successfully Into Your Team]]></title>
+            <description><![CDATA[<article><h1>A Short Manual to Bring Change Successfully Into Your Team</h1><p>A short manual to bring change successfully into your team Implementing the DevOps philosophy in a team means a lot more than just changing the general set-up of the actual working conditions. Bringing a number of tools into the team's workflow won't solve the individual issues, because a team exists and works thanks to the interaction between human beings, not tools.</p><img src="http://cdn.infoq.com/statics_s2_20160128-0241u2/resource/sponsorship/featuredcategory/6043/VCR_box_logo_2015.png"></article>]]></description>
+            <link>http://www.infoq.com/articles/bring-change-successfully-into-your-team</link>
+            <guid isPermaLink="false">70ef27b6-a383-4090-9658-7109808cd8f8</guid>
+            <pubDate>Mon, 01 Feb 2016 19:55:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[awslabs/aws-shell]]></title>
-            <description><![CDATA[<article><h1>awslabs/aws-shell</h1><p>aws-shell - An integrated shell for working with the AWS CLI.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73f89a53f741cb32286972bdf24075dd7fc0f8c8.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>awslabs/aws-shell</h1><p>aws-shell - An integrated shell for working with the AWS CLI.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f1d7fd7f2b1dc39b0165108c5d8848b5c9f1cc9.jpg"></article>]]></description>
             <link>https://github.com/awslabs/aws-shell</link>
             <guid isPermaLink="false">cc06250e-f3fd-4a92-9870-be08afc6747a</guid>
             <pubDate>Mon, 01 Feb 2016 02:55:48 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://blog.openshift.com/improving-build-time-java-builds-openshift/</link>
             <guid isPermaLink="false">03a95b68-7f28-4491-8b13-c885891ad758</guid>
             <pubDate>Wed, 20 Jan 2016 04:33:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Foundations of DevOps]]></title>
-            <description><![CDATA[<article><h1>Foundations of DevOps</h1><p>Debates about what DevOps is have been going on for several years. However, rather than being a static entity, with a single definition, DevOps may be closer to a practice, with some underlying principles that remain constant, and with forms and applications that vary according to the experiences of the practitioners.</p></article>]]></description>
-            <link>https://learn.chef.io/skills/foundations-of-devops/</link>
-            <guid isPermaLink="false">962270f8-ed57-4c62-bd3e-3b17cb1a4ee4</guid>
-            <pubDate>Mon, 18 Jan 2016 19:47:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
