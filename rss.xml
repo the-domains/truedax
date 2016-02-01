@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 19:06:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2016 02:55:51 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[awslabs/aws-shell]]></title>
+            <description><![CDATA[<article><h1>awslabs/aws-shell</h1><p>aws-shell - An integrated shell for working with the AWS CLI.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73f89a53f741cb32286972bdf24075dd7fc0f8c8.jpg"></article>]]></description>
+            <link>https://github.com/awslabs/aws-shell</link>
+            <guid isPermaLink="false">cc06250e-f3fd-4a92-9870-be08afc6747a</guid>
+            <pubDate>Mon, 01 Feb 2016 02:55:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Overcoming the business and technology barriers to DevOps adoption]]></title>
-            <description><![CDATA[<article><h1>Overcoming the business and technology barriers to DevOps adoption</h1><p>The topic of DevOps has dominated discussions at many of the major IT conferences this year, with suppliers and analysts lining up to warn enterprises about the business risks of failing to adopt a more agile approach to software development.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2973f63f704029fb26a81e4ad7c03f10126d703.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Overcoming the business and technology barriers to DevOps adoption</h1><p>The topic of DevOps has dominated discussions at many of the major IT conferences this year, with suppliers and analysts lining up to warn enterprises about the business risks of failing to adopt a more agile approach to software development.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/310161c14bfc688cca5bfa77f96cbb3d0b75433b.png"></article>]]></description>
             <link>http://www.computerweekly.com/feature/Overcoming-the-business-and-technology-barriers-to-DevOps-adoption</link>
             <guid isPermaLink="false">906aef3d-f206-4e13-a262-92143c971cf5</guid>
             <pubDate>Thu, 28 Jan 2016 19:06:20 GMT</pubDate>
@@ -36,7 +43,7 @@
         </item>
         <item>
             <title><![CDATA[9 hidden talents of devops ninjas]]></title>
-            <description><![CDATA[<article><h1>9 hidden talents of devops ninjas</h1><p>Devops is all about culture, with groups of teams working in concert toward a common goal. But as opposed to some workplace cultures, there are certain traits and talents all devops team members must have in common.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfca848b8201cc19ea3fe73e50204dc8c67fd659.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>9 hidden talents of devops ninjas</h1><p>Devops is all about culture, with groups of teams working in concert toward a common goal. But as opposed to some workplace cultures, there are certain traits and talents all devops team members must have in common.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b15e95fe33f0dd785bc9b3f35036f3e4cda178f4.jpg"></article>]]></description>
             <link>http://www.infoworld.com/article/3024814/devops/9-hidden-talents-of-devops-ninjas.html</link>
             <guid isPermaLink="false">9c56e658-66f2-4687-9cb4-ab595b66576e</guid>
             <pubDate>Mon, 25 Jan 2016 17:24:05 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://learn.chef.io/skills/foundations-of-devops/</link>
             <guid isPermaLink="false">962270f8-ed57-4c62-bd3e-3b17cb1a4ee4</guid>
             <pubDate>Mon, 18 Jan 2016 19:47:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DevOps helps car sharing service car2go lead the pack]]></title>
-            <description><![CDATA[<article><h1>DevOps helps car sharing service car2go lead the pack</h1><p>German automotive corporation Daimler AG knows cars. Whether you're financing, insuring, managing or servicing a vehicle - Daimler has got you covered. But when the company stumbled upon the bright idea for a new car sharing and mobility service, the motor giant knew it was speeding ahead into a new frontier..</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/458279156e36f4268957733d0bfe725ac56f26fa.jpg"></article>]]></description>
-            <link>http://www.thoughtsoncloud.com/2016/01/devops-helps-car-sharing-service-car2go-lead-the-pack/</link>
-            <guid isPermaLink="false">41131051-ebc5-40ef-b666-41c954ea3463</guid>
-            <pubDate>Sat, 16 Jan 2016 19:13:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
