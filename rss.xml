@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 21:44:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 21:48:52 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Containers as a Service (CaaS) as your new platform for application development and operations]]></title>
+            <description><![CDATA[<article><h1>Containers as a Service (CaaS) as your new platform for application development and operations</h1><p>Developers don't adopt locked down platforms. That one simple statement summarizes decades of tension between IT operations and development teams. Along the spectrum of control versus agility are the desires and needs of IT operations teams responsible for keeping environments up and running and compliant to regulations and the needs of developers who are responsible for building software to attract, engage and maintain customers.</p><img src="https://i1.wp.com/blog.docker.com/media/caas_diagram.png?resize=583%2C322"></article>]]></description>
+            <link>https://blog.docker.com/2016/02/containers-as-a-service-caas/</link>
+            <guid isPermaLink="false">2853b488-8236-462c-90ad-e7a488bb0181</guid>
+            <pubDate>Tue, 02 Feb 2016 21:45:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Continuous Delivery: Getting code where it needs to go - SD Times]]></title>
             <description><![CDATA[<article><h1>Continuous Delivery: Getting code where it needs to go - SD Times</h1><p>DevOps is about more than getting development and operation teams to work together. It is a philosophy to get teams to embrace collaboration, ship code faster, and be more responsive to the market. And just working together isn't enough to achieve that goal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b7d5c30bd22992b22914449c69090c47a83073f.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.cio.com/article/3024329/cloud-computing/5-cloud-computing-predictions-for-2016.html</link>
             <guid isPermaLink="false">45e79136-136e-4d35-95fe-76a8742970e8</guid>
             <pubDate>Thu, 21 Jan 2016 00:22:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2016: The Tipping Point for DevOps]]></title>
-            <description><![CDATA[<article><h1>2016: The Tipping Point for DevOps</h1><p>While 2015 was certainly a big year for us as we joined the Red Hat family, in many ways we're still right at home with our roots deeply planted in the ways of open source.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8cd8af77cfb8f3fea13d8b0fd518f0ae82bb2bc.png"></article>]]></description>
-            <link>http://www.ansible.com/blog/2016-the-tipping-point-for-devops</link>
-            <guid isPermaLink="false">a98ba97a-352c-4f49-a8b8-b2f806b6eb9a</guid>
-            <pubDate>Wed, 20 Jan 2016 04:33:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
