@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 21:48:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 17:59:16 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Rocana Offers 1TB of Free Daily IT Monitoring, Analytics - RTInsights]]></title>
+            <description><![CDATA[<article><h1>Rocana Offers 1TB of Free Daily IT Monitoring, Analytics - RTInsights</h1><p>A T-Mobile for IT monitoring? Rocana announced Feb. 2 that it will offer a free 1 TB of daily data volume for its IT monitoring and analytics platform, Rocana Ops. The company announced that the free 1 TB, available through Rocana One, will not be handicapped by functionality and scalability limits that come with other "free" offers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3112a48d15efe0d909a86adc3ae16d60b94ee11.jpg"></article>]]></description>
+            <link>http://www.rtinsights.com/rocana-offers-1tb-of-free-daily-it-monitoring-analytics/</link>
+            <guid isPermaLink="false">efaaad5b-21d2-48c2-959a-50d8f386f2c1</guid>
+            <pubDate>Wed, 03 Feb 2016 17:59:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Containers as a Service (CaaS) as your new platform for application development and operations]]></title>
-            <description><![CDATA[<article><h1>Containers as a Service (CaaS) as your new platform for application development and operations</h1><p>Developers don't adopt locked down platforms. That one simple statement summarizes decades of tension between IT operations and development teams. Along the spectrum of control versus agility are the desires and needs of IT operations teams responsible for keeping environments up and running and compliant to regulations and the needs of developers who are responsible for building software to attract, engage and maintain customers.</p><img src="https://i1.wp.com/blog.docker.com/media/caas_diagram.png?resize=583%2C322"></article>]]></description>
+            <description><![CDATA[<article><h1>Containers as a Service (CaaS) as your new platform for application development and operations</h1><p>Developers don't adopt locked down platforms. That one simple statement summarizes decades of tension between IT operations and development teams. Along the spectrum of control versus agility are the desires and needs of IT operations teams responsible for keeping environments up and running and compliant to regulations and the needs of developers who are responsible for building software to attract, engage and maintain customers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3f3de2e71323bf56db85e3c396994fa4e3d387a.png"></article>]]></description>
             <link>https://blog.docker.com/2016/02/containers-as-a-service-caas/</link>
             <guid isPermaLink="false">2853b488-8236-462c-90ad-e7a488bb0181</guid>
             <pubDate>Tue, 02 Feb 2016 21:45:30 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.infoworld.com/article/3024814/devops/9-hidden-talents-of-devops-ninjas.html</link>
             <guid isPermaLink="false">9c56e658-66f2-4687-9cb4-ab595b66576e</guid>
             <pubDate>Mon, 25 Jan 2016 17:24:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 cloud computing predictions for 2016]]></title>
-            <description><![CDATA[<article><h1>5 cloud computing predictions for 2016</h1><p>The salty tang in the air is the fragrance of a sea change in IT - a tidal shift that will change the role of IT and IT participants over the next five years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/686ae44c03993583c622e17b7ead324d0972b0a9.png"></article>]]></description>
-            <link>http://www.cio.com/article/3024329/cloud-computing/5-cloud-computing-predictions-for-2016.html</link>
-            <guid isPermaLink="false">45e79136-136e-4d35-95fe-76a8742970e8</guid>
-            <pubDate>Thu, 21 Jan 2016 00:22:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
