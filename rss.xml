@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 17:59:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 18:02:13 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CloudFormation to Build a CDN with (Free) Custom SSL -- Serverless Code]]></title>
+            <description><![CDATA[<article><h1>CloudFormation to Build a CDN with (Free) Custom SSL -- Serverless Code</h1><p>Recently, Amazon announced free SSL certs via AWS Certificate Manager, or ACM. This week, we'll use CloudFormation to provision ACM certificates automatically. I built my own custom ACM resource in Python. With this resource, you can configure a CloudFront distribution for your static content and get a custom SSL for your domain.</p></article>]]></description>
+            <link>https://serverlesscode.com/post/acm-certificates-in-cloudformation/</link>
+            <guid isPermaLink="false">d5544d0e-f76f-4f39-b375-786c3345cca8</guid>
+            <pubDate>Wed, 03 Feb 2016 18:01:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rocana Offers 1TB of Free Daily IT Monitoring, Analytics - RTInsights]]></title>
             <description><![CDATA[<article><h1>Rocana Offers 1TB of Free Daily IT Monitoring, Analytics - RTInsights</h1><p>A T-Mobile for IT monitoring? Rocana announced Feb. 2 that it will offer a free 1 TB of daily data volume for its IT monitoring and analytics platform, Rocana Ops. The company announced that the free 1 TB, available through Rocana One, will not be handicapped by functionality and scalability limits that come with other "free" offers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3112a48d15efe0d909a86adc3ae16d60b94ee11.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.theregister.co.uk/2016/01/21/contino_clutch_merge_get_30m_funding/</link>
             <guid isPermaLink="false">fa4541ad-8f71-4c75-8e5c-4a12beae6dff</guid>
             <pubDate>Mon, 25 Jan 2016 17:28:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[9 hidden talents of devops ninjas]]></title>
-            <description><![CDATA[<article><h1>9 hidden talents of devops ninjas</h1><p>Devops is all about culture, with groups of teams working in concert toward a common goal. But as opposed to some workplace cultures, there are certain traits and talents all devops team members must have in common.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b15e95fe33f0dd785bc9b3f35036f3e4cda178f4.jpg"></article>]]></description>
-            <link>http://www.infoworld.com/article/3024814/devops/9-hidden-talents-of-devops-ninjas.html</link>
-            <guid isPermaLink="false">9c56e658-66f2-4687-9cb4-ab595b66576e</guid>
-            <pubDate>Mon, 25 Jan 2016 17:24:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
