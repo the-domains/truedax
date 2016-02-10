@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 19:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 18:28:43 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Be My Business Valentine? Romancing with DevOps]]></title>
+            <description><![CDATA[<article><h1>Be My Business Valentine? Romancing with DevOps</h1><p>Building a Technology Trust Nest It's no surprise that Dev and Ops teams don't always get along. In one area, developers crank out code and play with all their new toys, while over in the Network Operations Center (NOC), IT operations teams are cursing behind monitoring consoles and dealing with the fall-out when defect-ridden software comes over the wall.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45268742b08e3eaec453b33ad2cac5abfc9755ab.png"></article>]]></description>
+            <link>http://rewrite.ca.com/us/articles/devops/be-my-business-valentine-romancing-with-devops.html?cid=GLOB-SMM-ABUS-AAR-000002-0000057-000000024&amp;mrm=425878</link>
+            <guid isPermaLink="false">d6830334-562a-4377-ad8a-1c48f57c235c</guid>
+            <pubDate>Wed, 10 Feb 2016 18:28:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[DevOps tools best practices: A 7-step guide]]></title>
-            <description><![CDATA[<article><h1>DevOps tools best practices: A 7-step guide</h1><p>Most developers have moved beyond understanding the business value of DevOps and on to how best to implement it. The former was easy to define, while the latter has been more difficult. Why? The number and types of problem domains differ greatly from one problem domain to the next.</p><img src="http://techbeacon.com/sites/default/files/devops-tools-how-select-best-practices-choosing-help-advice_0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>DevOps tools best practices: A 7-step guide</h1><p>Most developers have moved beyond understanding the business value of DevOps and on to how best to implement it. The former was easy to define, while the latter has been more difficult. Why? The number and types of problem domains differ greatly from one problem domain to the next.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92d6ef332589dbfb664075cf7dfdac0def33cd92.jpg"></article>]]></description>
             <link>http://techbeacon.com/7-steps-choosing-right-devops-tools</link>
             <guid isPermaLink="false">bcc44dac-74d3-438c-a637-842ea286bd1c</guid>
             <pubDate>Tue, 09 Feb 2016 19:11:00 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.computerweekly.com/feature/Overcoming-the-business-and-technology-barriers-to-DevOps-adoption</link>
             <guid isPermaLink="false">906aef3d-f206-4e13-a262-92143c971cf5</guid>
             <pubDate>Thu, 28 Jan 2016 19:06:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to use customer feedback to drive your DevOps teams]]></title>
-            <description><![CDATA[<article><h1>How to use customer feedback to drive your DevOps teams</h1><p>DevOps and the cloud, the dominant topics in enterprise management discussions, are increasingly forcing R&D and operations leaders to rethink software delivery. Legacy methods just don't cut it anymore. They're too cumbersome, expensive, and disconnected from customers. So what do you do?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/372ec5adf929d7cfb24080ecdf3ed4c7d8ac8618.jpg"></article>]]></description>
-            <link>http://techbeacon.com/infuse-customer-feedback-devops</link>
-            <guid isPermaLink="false">81dae186-01f9-43ad-a483-31ab3621b509</guid>
-            <pubDate>Thu, 28 Jan 2016 19:04:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
