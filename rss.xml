@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 18:28:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 18:30:58 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[7 Ways IT Will Change in 2016 to Bring DevOps Mainstream]]></title>
+            <description><![CDATA[<article><h1>7 Ways IT Will Change in 2016 to Bring DevOps Mainstream</h1><p>The Job of IT Will Change From Infrastructure to Innovation. In the past, IT has been about providing compute infrastructure and applications to run the internal workings of a company. But this has been radically shifting as digital transformation penetrates nearly every company of significance across the globe.</p><img src="https://www.chef.io/blog/wp-content/uploads/2016/02/bc-devops-2-01.jpg"></article>]]></description>
+            <link>https://www.chef.io/blog/2016/02/09/devops-mainstream-2016/</link>
+            <guid isPermaLink="false">8ba3b539-f611-47d0-8619-03872f32872e</guid>
+            <pubDate>Wed, 10 Feb 2016 18:30:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Be My Business Valentine? Romancing with DevOps]]></title>
             <description><![CDATA[<article><h1>Be My Business Valentine? Romancing with DevOps</h1><p>Building a Technology Trust Nest It's no surprise that Dev and Ops teams don't always get along. In one area, developers crank out code and play with all their new toys, while over in the Network Operations Center (NOC), IT operations teams are cursing behind monitoring consoles and dealing with the fall-out when defect-ridden software comes over the wall.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45268742b08e3eaec453b33ad2cac5abfc9755ab.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://github.com/awslabs/aws-shell</link>
             <guid isPermaLink="false">cc06250e-f3fd-4a92-9870-be08afc6747a</guid>
             <pubDate>Mon, 01 Feb 2016 02:55:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Overcoming the business and technology barriers to DevOps adoption]]></title>
-            <description><![CDATA[<article><h1>Overcoming the business and technology barriers to DevOps adoption</h1><p>The topic of DevOps has dominated discussions at many of the major IT conferences this year, with suppliers and analysts lining up to warn enterprises about the business risks of failing to adopt a more agile approach to software development.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/310161c14bfc688cca5bfa77f96cbb3d0b75433b.png"></article>]]></description>
-            <link>http://www.computerweekly.com/feature/Overcoming-the-business-and-technology-barriers-to-DevOps-adoption</link>
-            <guid isPermaLink="false">906aef3d-f206-4e13-a262-92143c971cf5</guid>
-            <pubDate>Thu, 28 Jan 2016 19:06:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
