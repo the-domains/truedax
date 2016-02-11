@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 18:30:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 17:40:31 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Sourcing Security Superheroes: Part II: How Policy Can Enhance, Rather Than Hinder, Breach Detection]]></title>
+            <description><![CDATA[<article><h1>Sourcing Security Superheroes: Part II: How Policy Can Enhance, Rather Than Hinder, Breach Detection</h1><p>With the recent attacks on U.S. organizations in the commercial and public sectors, many companies have asserted they have done everything in their power to prevent further incidents. Most of these claims are tied to adherence to regulatory compliance. In theory, security policies put standards in place to protect organizations, stakeholders, and users.</p><img src="http://cdn.infoq.com/statics_s2_20160209-0057/styles/i/logo-big.jpg"></article>]]></description>
+            <link>http://www.infoq.com/articles/Security-Staff-2</link>
+            <guid isPermaLink="false">2c99ca96-4fd4-401d-bbdd-5dbee421cc17</guid>
+            <pubDate>Thu, 11 Feb 2016 17:39:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[7 Ways IT Will Change in 2016 to Bring DevOps Mainstream]]></title>
-            <description><![CDATA[<article><h1>7 Ways IT Will Change in 2016 to Bring DevOps Mainstream</h1><p>The Job of IT Will Change From Infrastructure to Innovation. In the past, IT has been about providing compute infrastructure and applications to run the internal workings of a company. But this has been radically shifting as digital transformation penetrates nearly every company of significance across the globe.</p><img src="https://www.chef.io/blog/wp-content/uploads/2016/02/bc-devops-2-01.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>7 Ways IT Will Change in 2016 to Bring DevOps Mainstream</h1><p>The Job of IT Will Change From Infrastructure to Innovation. In the past, IT has been about providing compute infrastructure and applications to run the internal workings of a company. But this has been radically shifting as digital transformation penetrates nearly every company of significance across the globe.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15a1e27074e06847a4ff873550843496dcb8c20a.jpg"></article>]]></description>
             <link>https://www.chef.io/blog/2016/02/09/devops-mainstream-2016/</link>
             <guid isPermaLink="false">8ba3b539-f611-47d0-8619-03872f32872e</guid>
             <pubDate>Wed, 10 Feb 2016 18:30:12 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.infoq.com/articles/bring-change-successfully-into-your-team</link>
             <guid isPermaLink="false">70ef27b6-a383-4090-9658-7109808cd8f8</guid>
             <pubDate>Mon, 01 Feb 2016 19:55:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[awslabs/aws-shell]]></title>
-            <description><![CDATA[<article><h1>awslabs/aws-shell</h1><p>aws-shell - An integrated shell for working with the AWS CLI.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f1d7fd7f2b1dc39b0165108c5d8848b5c9f1cc9.jpg"></article>]]></description>
-            <link>https://github.com/awslabs/aws-shell</link>
-            <guid isPermaLink="false">cc06250e-f3fd-4a92-9870-be08afc6747a</guid>
-            <pubDate>Mon, 01 Feb 2016 02:55:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
