@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 17:42:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 17:56:17 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[8 more cool tools for devops success]]></title>
+            <description><![CDATA[<article><h1>8 more cool tools for devops success</h1><p>Ansible is an open source, command-line-driven automation platform for deploying applications and alleviating complexity. The accompanying Ansible Tower serves as a mission control for Ansible, providing control, security, and delegation, according to Justin Demmers, product marketing manager for Ansible Tower.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/941a04445327ce6f3d261f74be7e50831be5835e.jpg"></article>]]></description>
+            <link>http://www.infoworld.com/article/3031009/devops/8-more-cool-tools-for-devops-success.html</link>
+            <guid isPermaLink="false">0ae046e5-3464-4a09-85e2-48b028d09b7c</guid>
+            <pubDate>Thu, 11 Feb 2016 17:56:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DevOps workers, you mother was right: always bring a clean Underlay.]]></title>
             <description><![CDATA[<article><h1>DevOps workers, you mother was right: always bring a clean Underlay.</h1><p>Why did your mom care about underwear? She wanted you to have good hygiene. What is good Ops hygiene? It's not as simple as keeping up with the laundry, but the idea is similar. It means that we're not going to get surprised by something in our environment that we'd taken for granted.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5cf7dbfd157e619b70ec39ee5b9effbc3a055fad.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://blog.docker.com/2016/02/containers-as-a-service-caas/</link>
             <guid isPermaLink="false">2853b488-8236-462c-90ad-e7a488bb0181</guid>
             <pubDate>Tue, 02 Feb 2016 21:45:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Continuous Delivery: Getting code where it needs to go - SD Times]]></title>
-            <description><![CDATA[<article><h1>Continuous Delivery: Getting code where it needs to go - SD Times</h1><p>DevOps is about more than getting development and operation teams to work together. It is a philosophy to get teams to embrace collaboration, ship code faster, and be more responsive to the market. And just working together isn't enough to achieve that goal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b7d5c30bd22992b22914449c69090c47a83073f.jpg"></article>]]></description>
-            <link>http://sdtimes.com/continuous-delivery-getting-code-where-it-needs-to-go/</link>
-            <guid isPermaLink="false">e39a46f1-d20e-4d21-b514-c6bc9b4af3a8</guid>
-            <pubDate>Tue, 02 Feb 2016 21:43:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
