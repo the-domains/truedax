@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 17:32:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 17:34:55 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The History of DevOps (and what you need to do about it)]]></title>
+            <description><![CDATA[<article><h1>The History of DevOps (and what you need to do about it)</h1><p>Damon Edwards (DTO Solutions) presentation at Pink16 in Las Vegas on February 16, 2016.</p></article>]]></description>
+            <link>http://www.slideshare.net/dev2ops/the-history-of-devops-and-what-you-need-to-do-about-it</link>
+            <guid isPermaLink="false">366ed7e5-e227-4bc5-b36e-03fcc48f788a</guid>
+            <pubDate>Wed, 17 Feb 2016 17:34:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Orchestrating the DevOps Tool Chain - Freeform Dynamics]]></title>
             <description><![CDATA[<article><h1>Orchestrating the DevOps Tool Chain - Freeform Dynamics</h1><p>Continuous delivery for the Enterprise</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5126621a6d26333f5bbfa7c8450c5ef485379fab.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.infoq.com/articles/Security-Staff-2</link>
             <guid isPermaLink="false">2c99ca96-4fd4-401d-bbdd-5dbee421cc17</guid>
             <pubDate>Thu, 11 Feb 2016 17:39:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7 Ways IT Will Change in 2016 to Bring DevOps Mainstream]]></title>
-            <description><![CDATA[<article><h1>7 Ways IT Will Change in 2016 to Bring DevOps Mainstream</h1><p>The Job of IT Will Change From Infrastructure to Innovation. In the past, IT has been about providing compute infrastructure and applications to run the internal workings of a company. But this has been radically shifting as digital transformation penetrates nearly every company of significance across the globe.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15a1e27074e06847a4ff873550843496dcb8c20a.jpg"></article>]]></description>
-            <link>https://www.chef.io/blog/2016/02/09/devops-mainstream-2016/</link>
-            <guid isPermaLink="false">8ba3b539-f611-47d0-8619-03872f32872e</guid>
-            <pubDate>Wed, 10 Feb 2016 18:30:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
