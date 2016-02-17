@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 17:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 17:39:30 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Diagnosing Common Database Performance Hotspots in our Java Code]]></title>
+            <description><![CDATA[<article><h1>Diagnosing Common Database Performance Hotspots in our Java Code</h1><p>Java performance issues are most often attributable to bad database access patterns. In this article a top performance field engineer demonstrates his patterns for diagnosing database related issues.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9dec8de15da3c561c82c0fe580caf8519f8408c.jpg"></article>]]></description>
+            <link>http://www.infoq.com/articles/Diagnosing-Common-Java-Database-Performance-Hotspots</link>
+            <guid isPermaLink="false">8177cb83-1ca6-4266-8d75-b80362e0d23a</guid>
+            <pubDate>Wed, 17 Feb 2016 17:38:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The History of DevOps (and what you need to do about it)]]></title>
             <description><![CDATA[<article><h1>The History of DevOps (and what you need to do about it)</h1><p>Damon Edwards (DTO Solutions) presentation at Pink16 in Las Vegas on February 16, 2016.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://robhirschfeld.com/2016/02/10/devops-workers-you-mother-was-right-always-bring-a-clean-underlay/</link>
             <guid isPermaLink="false">996ca7a3-3f04-4b1b-a12d-2f4e4f064b7a</guid>
             <pubDate>Thu, 11 Feb 2016 17:42:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sourcing Security Superheroes: Part II: How Policy Can Enhance, Rather Than Hinder, Breach Detection]]></title>
-            <description><![CDATA[<article><h1>Sourcing Security Superheroes: Part II: How Policy Can Enhance, Rather Than Hinder, Breach Detection</h1><p>With the recent attacks on U.S. organizations in the commercial and public sectors, many companies have asserted they have done everything in their power to prevent further incidents. Most of these claims are tied to adherence to regulatory compliance. In theory, security policies put standards in place to protect organizations, stakeholders, and users.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38faa62417cb032a5ff74c894e34c3dcac1d543e.jpg"></article>]]></description>
-            <link>http://www.infoq.com/articles/Security-Staff-2</link>
-            <guid isPermaLink="false">2c99ca96-4fd4-401d-bbdd-5dbee421cc17</guid>
-            <pubDate>Thu, 11 Feb 2016 17:39:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
