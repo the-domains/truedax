@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 17:39:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 19:20:00 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Netflix Spinnaker: Enabling Global Deployments]]></title>
+            <description><![CDATA[<article><h1>Netflix Spinnaker: Enabling Global Deployments</h1><p>Netflix has released Spinnaker, their continuous delivery platform, as an open source project. Spinnaker allows you to build pipelines that represent a delivery process and execute them to produce a deployment. It's a compatible replacement for Asgard, so an all-or-nothing migration to Spinnaker isn't required. You start with the creation of a deployable unit (e.g.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d36669f18abc2e88428cf881a40f952b96b62e3e.jpg"></article>]]></description>
+            <link>http://www.infoq.com/news/2016/02/netflix-spinnaker</link>
+            <guid isPermaLink="false">be9ca3e8-b98e-40a9-9dfa-a48abb40c475</guid>
+            <pubDate>Thu, 18 Feb 2016 19:19:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Diagnosing Common Database Performance Hotspots in our Java Code]]></title>
-            <description><![CDATA[<article><h1>Diagnosing Common Database Performance Hotspots in our Java Code</h1><p>Java performance issues are most often attributable to bad database access patterns. In this article a top performance field engineer demonstrates his patterns for diagnosing database related issues.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9dec8de15da3c561c82c0fe580caf8519f8408c.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Diagnosing Common Database Performance Hotspots in our Java Code</h1><p>Java performance issues are most often attributable to bad database access patterns. In this article a top performance field engineer demonstrates his patterns for diagnosing database related issues.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fad614e906e630ccf3fd349b0f2bc59f54c83a4.jpg"></article>]]></description>
             <link>http://www.infoq.com/articles/Diagnosing-Common-Java-Database-Performance-Hotspots</link>
             <guid isPermaLink="false">8177cb83-1ca6-4266-8d75-b80362e0d23a</guid>
             <pubDate>Wed, 17 Feb 2016 17:38:35 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.infoworld.com/article/3031009/devops/8-more-cool-tools-for-devops-success.html</link>
             <guid isPermaLink="false">0ae046e5-3464-4a09-85e2-48b028d09b7c</guid>
             <pubDate>Thu, 11 Feb 2016 17:56:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DevOps workers, you mother was right: always bring a clean Underlay.]]></title>
-            <description><![CDATA[<article><h1>DevOps workers, you mother was right: always bring a clean Underlay.</h1><p>Why did your mom care about underwear? She wanted you to have good hygiene. What is good Ops hygiene? It's not as simple as keeping up with the laundry, but the idea is similar. It means that we're not going to get surprised by something in our environment that we'd taken for granted.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5cf7dbfd157e619b70ec39ee5b9effbc3a055fad.jpg"></article>]]></description>
-            <link>http://robhirschfeld.com/2016/02/10/devops-workers-you-mother-was-right-always-bring-a-clean-underlay/</link>
-            <guid isPermaLink="false">996ca7a3-3f04-4b1b-a12d-2f4e4f064b7a</guid>
-            <pubDate>Thu, 11 Feb 2016 17:42:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
