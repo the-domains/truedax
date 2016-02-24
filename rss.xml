@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 19:45:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 06:48:26 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[How to Get the Docker Datacenter Training You Need]]></title>
+            <description><![CDATA[<article><h1>How to Get the Docker Datacenter Training You Need</h1><p>Containers as a Service (CaaS) provides an IT managed and secured application environment of content and infrastructure where developers can build and deploy applications in a self service manner. With the release of Docker Datacenter (an integrated solution to power and on premises/VPC based CaaS), the Docker Training team is excited to announce the availability of the Docker Datacenter remote training series.</p><img src="https://blog.docker.com/wp-content/uploads/datacenter-title.png"></article>]]></description>
+            <link>https://blog.docker.com/2016/02/docker-datacenter-training/</link>
+            <guid isPermaLink="false">3924eb5a-0fa9-476f-a196-d20242c6e172</guid>
+            <pubDate>Wed, 24 Feb 2016 06:40:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Red Hat's Ansible brings networking to devops]]></title>
-            <description><![CDATA[<article><h1>Red Hat's Ansible brings networking to devops</h1><p>A new release issued this week from Red Hat Ansible - an open source project and commercial product for creating a devops environment - is enabling developers to control network infrastructure. The devops movement is focused on how to create a better IT environment for developers to provision their own infrastructure in order to create applications faster.</p><img src="http://images.techhive.com/images/article/2015/10/20151027-red-hat-cap-100625236-primary.idge.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Red Hat's Ansible brings networking to devops</h1><p>A new release issued this week from Red Hat Ansible - an open source project and commercial product for creating a devops environment - is enabling developers to control network infrastructure. The devops movement is focused on how to create a better IT environment for developers to provision their own infrastructure in order to create applications faster.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e196a02567bb6795f67c40bfc44ef2b5acea3f83.jpg"></article>]]></description>
             <link>http://www.networkworld.com/article/3035261/software/red-hat-s-ansible-brings-networking-to-devops.html</link>
             <guid isPermaLink="false">fdb7edfe-95ea-4003-a775-ad9504cda7fa</guid>
             <pubDate>Fri, 19 Feb 2016 19:44:22 GMT</pubDate>
@@ -50,7 +57,7 @@
         </item>
         <item>
             <title><![CDATA[Orchestrating the DevOps Tool Chain - Freeform Dynamics]]></title>
-            <description><![CDATA[<article><h1>Orchestrating the DevOps Tool Chain - Freeform Dynamics</h1><p>Continuous delivery for the Enterprise</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5126621a6d26333f5bbfa7c8450c5ef485379fab.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Orchestrating the DevOps Tool Chain - Freeform Dynamics</h1><p>Continuous delivery for the Enterprise</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98dad568f128cb62b5a243302152b5fc2eac49d5.png"></article>]]></description>
             <link>http://www.freeformdynamics.com/fullarticle.asp?aid=1853</link>
             <guid isPermaLink="false">8f1d9de3-f327-4557-a44d-dd03687faa1b</guid>
             <pubDate>Wed, 17 Feb 2016 17:32:14 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://motherboard.vice.com/read/how-white-hat-hackers-stole-crypto-keys-from-an-offline-laptop-in-another-room</link>
             <guid isPermaLink="false">2afdbbe3-2f09-44fd-b7dc-b006b9c01a57</guid>
             <pubDate>Tue, 16 Feb 2016 18:50:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Microservices Have Changed and Why They Matter - The New Stack]]></title>
-            <description><![CDATA[<article><h1>How Microservices Have Changed and Why They Matter - The New Stack</h1><p>The concept of microservices is fueled by the need to develop apps faster, be more resilient and offer a great experience for the customer. It's a concept equated with scaled-out, automated systems that run software on simple, commodity infrastructure. It's the economic efficiencies that containers provide that will make microservices such a major theme in ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c2682c63acf7f70579830d7332bbf358abe6058.jpg"></article>]]></description>
-            <link>http://thenewstack.io/microservices-changed-matter/</link>
-            <guid isPermaLink="false">af2114f8-4f28-40e7-a446-a68d71c2c2b6</guid>
-            <pubDate>Tue, 16 Feb 2016 00:44:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
