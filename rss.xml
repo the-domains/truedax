@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 16:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 16:35:11 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Ansible bridges traditional networking teams and DevOps]]></title>
+            <description><![CDATA[<article><h1>Ansible bridges traditional networking teams and DevOps</h1><p>In the everything is software-defined, everything is a service world, network virtualization is joining compute and storage virtualization to give DevOps even more control over the underlay networking. And now Red Hat has added the capabilities to control networking infrastructure to Ansible, its infrastructure automation software.</p><img src="http://images.techhive.com/images/article/2016/02/bridge-100646347-primary.idge.jpg"></article>]]></description>
+            <link>http://www.cio.com/article/3036644/cloud-computing/ansible-bridges-traditional-networking-teams-and-devops.html</link>
+            <guid isPermaLink="false">c027b861-dc0b-4e9f-88e3-24ccf7ef95c4</guid>
+            <pubDate>Wed, 24 Feb 2016 16:33:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Become an Andre Previn in your time: DevOps for star conductors]]></title>
-            <description><![CDATA[<article><h1>Become an Andre Previn in your time: DevOps for star conductors</h1><p>When we talk about "full stack" software, we are most commonly talking about the disciplines and elements (and their associated competencies) that span the complete smokestack of software application development as we typically define it.</p><img src="https://regmedia.co.uk/2016/02/22/andre_preview.jpg?x=1200&y=794"></article>]]></description>
+            <description><![CDATA[<article><h1>Become an Andre Previn in your time: DevOps for star conductors</h1><p>When we talk about "full stack" software, we are most commonly talking about the disciplines and elements (and their associated competencies) that span the complete smokestack of software application development as we typically define it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11de9f33e29f4101dd9b1a2b1146eed08d88f702.jpg"></article>]]></description>
             <link>http://www.theregister.co.uk/2016/02/23/devops_stack_pile_chain/</link>
             <guid isPermaLink="false">a8b6c75b-6a26-4fb8-ae5a-6b901cf92e9f</guid>
             <pubDate>Wed, 24 Feb 2016 16:32:12 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.slideshare.net/dev2ops/the-history-of-devops-and-what-you-need-to-do-about-it</link>
             <guid isPermaLink="false">366ed7e5-e227-4bc5-b36e-03fcc48f788a</guid>
             <pubDate>Wed, 17 Feb 2016 17:34:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Orchestrating the DevOps Tool Chain - Freeform Dynamics]]></title>
-            <description><![CDATA[<article><h1>Orchestrating the DevOps Tool Chain - Freeform Dynamics</h1><p>Continuous delivery for the Enterprise</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98dad568f128cb62b5a243302152b5fc2eac49d5.png"></article>]]></description>
-            <link>http://www.freeformdynamics.com/fullarticle.asp?aid=1853</link>
-            <guid isPermaLink="false">8f1d9de3-f327-4557-a44d-dd03687faa1b</guid>
-            <pubDate>Wed, 17 Feb 2016 17:32:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
