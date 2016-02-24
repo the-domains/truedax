@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 16:31:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 16:32:32 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Become an Andre Previn in your time: DevOps for star conductors]]></title>
+            <description><![CDATA[<article><h1>Become an Andre Previn in your time: DevOps for star conductors</h1><p>When we talk about "full stack" software, we are most commonly talking about the disciplines and elements (and their associated competencies) that span the complete smokestack of software application development as we typically define it.</p><img src="https://regmedia.co.uk/2016/02/22/andre_preview.jpg?x=1200&y=794"></article>]]></description>
+            <link>http://www.theregister.co.uk/2016/02/23/devops_stack_pile_chain/</link>
+            <guid isPermaLink="false">a8b6c75b-6a26-4fb8-ae5a-6b901cf92e9f</guid>
+            <pubDate>Wed, 24 Feb 2016 16:32:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Creating a good, secure Docker base image]]></title>
-            <description><![CDATA[<article><h1>Creating a good, secure Docker base image</h1><p>tl;dr: Build small, efficient images, use Alpine Linux as your foundation, build from there, add glibc if necessary, remove static/generated files and documentation, never run more than one process per container and use verified, trustworthy sources.</p><img src="https://www.gravatar.com/avatar/d490fa92eebb2f8a3dd7bb39cca4b632?s=200"></article>]]></description>
+            <description><![CDATA[<article><h1>Creating a good, secure Docker base image</h1><p>tl;dr: Build small, efficient images, use Alpine Linux as your foundation, build from there, add glibc if necessary, remove static/generated files and documentation, never run more than one process per container and use verified, trustworthy sources.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b83063af01ea6a2a3a0d8891f8607fff0ccfc10.jpg"></article>]]></description>
             <link>http://heiber.im/post/creating-a-solid-docker-base-image/</link>
             <guid isPermaLink="false">a5177f59-136a-4cb4-882f-163cb34dbcbb</guid>
             <pubDate>Wed, 24 Feb 2016 16:30:40 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.freeformdynamics.com/fullarticle.asp?aid=1853</link>
             <guid isPermaLink="false">8f1d9de3-f327-4557-a44d-dd03687faa1b</guid>
             <pubDate>Wed, 17 Feb 2016 17:32:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2016 Dev Predictions, Part 3: Mainstream Microservices, Reactive Streams and Containers-as-a-Service -- ADTmag]]></title>
-            <description><![CDATA[<article><h1>2016 Dev Predictions, Part 3: Mainstream Microservices, Reactive Streams and Containers-as-a-Service -- ADTmag</h1><p>I know, it's February, but I reached out to a lot of smart people last month for their thoughts on what lies ahead for enterprise developers in 2016 -- more than I could squeeze into parts 1 and 2. In addition to industry analysts, I connected with some of the thoughtful execs I spoke with last year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d50cc421043d5281b6bc2bb99096aae4bd2a68c5.jpg"></article>]]></description>
-            <link>https://adtmag.com/blogs/watersworks/2016/02/2016-dev-predictions-3.aspx?m=1</link>
-            <guid isPermaLink="false">77cfc3fe-a6bc-4007-8af2-2b61588050f0</guid>
-            <pubDate>Wed, 17 Feb 2016 17:29:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
