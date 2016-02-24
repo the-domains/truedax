@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 06:48:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 16:31:24 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Creating a good, secure Docker base image]]></title>
+            <description><![CDATA[<article><h1>Creating a good, secure Docker base image</h1><p>tl;dr: Build small, efficient images, use Alpine Linux as your foundation, build from there, add glibc if necessary, remove static/generated files and documentation, never run more than one process per container and use verified, trustworthy sources.</p><img src="https://www.gravatar.com/avatar/d490fa92eebb2f8a3dd7bb39cca4b632?s=200"></article>]]></description>
+            <link>http://heiber.im/post/creating-a-solid-docker-base-image/</link>
+            <guid isPermaLink="false">a5177f59-136a-4cb4-882f-163cb34dbcbb</guid>
+            <pubDate>Wed, 24 Feb 2016 16:30:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to Get the Docker Datacenter Training You Need]]></title>
-            <description><![CDATA[<article><h1>How to Get the Docker Datacenter Training You Need</h1><p>Containers as a Service (CaaS) provides an IT managed and secured application environment of content and infrastructure where developers can build and deploy applications in a self service manner. With the release of Docker Datacenter (an integrated solution to power and on premises/VPC based CaaS), the Docker Training team is excited to announce the availability of the Docker Datacenter remote training series.</p><img src="https://blog.docker.com/wp-content/uploads/datacenter-title.png"></article>]]></description>
+            <description><![CDATA[<article><h1>How to Get the Docker Datacenter Training You Need</h1><p>Containers as a Service (CaaS) provides an IT managed and secured application environment of content and infrastructure where developers can build and deploy applications in a self service manner. With the release of Docker Datacenter (an integrated solution to power and on premises/VPC based CaaS), the Docker Training team is excited to announce the availability of the Docker Datacenter remote training series.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a81bed9129a8e1ddec72ebc3e7e9b3f6ac1042b5.png"></article>]]></description>
             <link>https://blog.docker.com/2016/02/docker-datacenter-training/</link>
             <guid isPermaLink="false">3924eb5a-0fa9-476f-a196-d20242c6e172</guid>
             <pubDate>Wed, 24 Feb 2016 06:40:45 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://adtmag.com/blogs/watersworks/2016/02/2016-dev-predictions-3.aspx?m=1</link>
             <guid isPermaLink="false">77cfc3fe-a6bc-4007-8af2-2b61588050f0</guid>
             <pubDate>Wed, 17 Feb 2016 17:29:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How White Hat Hackers Stole Crypto Keys from an Offline Laptop in Another Room]]></title>
-            <description><![CDATA[<article><h1>How White Hat Hackers Stole Crypto Keys from an Offline Laptop in Another Room</h1><p>The experimental setup cost roughly $3000, researchers say. Image: Genkin et. al In recent years, air-gapped computers, which are disconnected from the internet so hackers can not remotely access their contents, have become a regular target for security researchers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9836e3f85374123f8160b041a067783fbc11e381.jpg"></article>]]></description>
-            <link>http://motherboard.vice.com/read/how-white-hat-hackers-stole-crypto-keys-from-an-offline-laptop-in-another-room</link>
-            <guid isPermaLink="false">2afdbbe3-2f09-44fd-b7dc-b006b9c01a57</guid>
-            <pubDate>Tue, 16 Feb 2016 18:50:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
