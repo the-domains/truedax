@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 05:46:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 05:47:35 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[RightScale Survey Highlights Cloud Trends: Multi-Cloud, Consolidated Governance, Skills Gap]]></title>
+            <description><![CDATA[<article><h1>RightScale Survey Highlights Cloud Trends: Multi-Cloud, Consolidated Governance, Skills Gap</h1><p>RightScale just released the results of their annual "State of the Cloud" survey which identifies trends in cloud adoption and usage. The key findings? Organizations are investing in both public and private clouds, security is no longer the number one challenge to adoption, Docker and Ansible are growing in popularity, and central IT departments are taking on a greater role in decision making.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5fc6b6206569b9455cb43d45b510ba0e3b2d2819.jpg"></article>]]></description>
+            <link>http://www.infoq.com/news/2016/02/rightscale-cloud-survey</link>
+            <guid isPermaLink="false">b8532241-b76d-4388-be15-acb9811cfdc2</guid>
+            <pubDate>Fri, 26 Feb 2016 05:44:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[DevOps principles for IT managers]]></title>
-            <description><![CDATA[<article><h1>DevOps principles for IT managers</h1><p>DevOps isn't a fixed methodology or process; it's a community of practice and a set of principles. DevOps advocates Damon Edwards and John Willis described DevOps in 2010 with the acronym CAMS: culture, automation, measurement and sharing. Here's a quick overview of these core elements of DevOps and why they're so important for IT managers who want to build an effective DevOps organization.</p><img src="http://puppetlabs.com/sites/all/themes/puppetlabs/images/pl_vertical_970x.png"></article>]]></description>
+            <description><![CDATA[<article><h1>DevOps principles for IT managers</h1><p>DevOps isn't a fixed methodology or process; it's a community of practice and a set of principles. DevOps advocates Damon Edwards and John Willis described DevOps in 2010 with the acronym CAMS: culture, automation, measurement and sharing. Here's a quick overview of these core elements of DevOps and why they're so important for IT managers who want to build an effective DevOps organization.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3fda666805ae50311066a593365c0717050b67d.png"></article>]]></description>
             <link>https://puppetlabs.com/blog/devops-principles-for-it-managers?ccn=integrated-devops-016&amp;cid=701G0000001Z87s&amp;ls=social-media&amp;pub=twitter</link>
             <guid isPermaLink="false">fcc06349-88b3-49d2-91f0-75f253502b25</guid>
             <pubDate>Fri, 26 Feb 2016 05:44:39 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://truedax.com/380e6506-20b6-4ed5-ad57-872954578684/index.html</link>
             <guid isPermaLink="false">380e6506-20b6-4ed5-ad57-872954578684</guid>
             <pubDate>Fri, 19 Feb 2016 17:39:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netflix Spinnaker: Enabling Global Deployments]]></title>
-            <description><![CDATA[<article><h1>Netflix Spinnaker: Enabling Global Deployments</h1><p>Netflix has released Spinnaker, their continuous delivery platform, as an open source project. Spinnaker allows you to build pipelines that represent a delivery process and execute them to produce a deployment. It's a compatible replacement for Asgard, so an all-or-nothing migration to Spinnaker isn't required. You start with the creation of a deployable unit (e.g.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d845cf825199d7293f8d42568a4e8ba8fd6fa455.jpg"></article>]]></description>
-            <link>http://www.infoq.com/news/2016/02/netflix-spinnaker</link>
-            <guid isPermaLink="false">be9ca3e8-b98e-40a9-9dfa-a48abb40c475</guid>
-            <pubDate>Thu, 18 Feb 2016 19:19:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
