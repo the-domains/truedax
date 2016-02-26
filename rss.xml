@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 05:45:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 05:46:45 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DevOps principles for IT managers]]></title>
+            <description><![CDATA[<article><h1>DevOps principles for IT managers</h1><p>DevOps isn't a fixed methodology or process; it's a community of practice and a set of principles. DevOps advocates Damon Edwards and John Willis described DevOps in 2010 with the acronym CAMS: culture, automation, measurement and sharing. Here's a quick overview of these core elements of DevOps and why they're so important for IT managers who want to build an effective DevOps organization.</p><img src="http://puppetlabs.com/sites/all/themes/puppetlabs/images/pl_vertical_970x.png"></article>]]></description>
+            <link>https://puppetlabs.com/blog/devops-principles-for-it-managers?ccn=integrated-devops-016&amp;cid=701G0000001Z87s&amp;ls=social-media&amp;pub=twitter</link>
+            <guid isPermaLink="false">fcc06349-88b3-49d2-91f0-75f253502b25</guid>
+            <pubDate>Fri, 26 Feb 2016 05:44:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Microsoft's Red Hat Ansible love-in gives birth to DevNetCLOps]]></title>
             <description><![CDATA[<article><h1>Microsoft's Red Hat Ansible love-in gives birth to DevNetCLOps</h1><p>As we know, Hell froze over a while ago: Red Hat and Microsoft are now friends. The latest chapter saw Red Hat point its newly acquired Ansible IT automation technologies towards networks, clouds and Windows environments, because who wouldn't want a slice of the Azure pie now that Microsoft loves Linux?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bd9e26846cc7f9c023bbbd09328063ba96f335f.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.infoq.com/news/2016/02/netflix-spinnaker</link>
             <guid isPermaLink="false">be9ca3e8-b98e-40a9-9dfa-a48abb40c475</guid>
             <pubDate>Thu, 18 Feb 2016 19:19:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Diagnosing Common Database Performance Hotspots in our Java Code]]></title>
-            <description><![CDATA[<article><h1>Diagnosing Common Database Performance Hotspots in our Java Code</h1><p>Java performance issues are most often attributable to bad database access patterns. In this article a top performance field engineer demonstrates his patterns for diagnosing database related issues.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fad614e906e630ccf3fd349b0f2bc59f54c83a4.jpg"></article>]]></description>
-            <link>http://www.infoq.com/articles/Diagnosing-Common-Java-Database-Performance-Hotspots</link>
-            <guid isPermaLink="false">8177cb83-1ca6-4266-8d75-b80362e0d23a</guid>
-            <pubDate>Wed, 17 Feb 2016 17:38:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
