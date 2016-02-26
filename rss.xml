@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 16:35:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 05:45:58 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Microsoft's Red Hat Ansible love-in gives birth to DevNetCLOps]]></title>
+            <description><![CDATA[<article><h1>Microsoft's Red Hat Ansible love-in gives birth to DevNetCLOps</h1><p>As we know, Hell froze over a while ago: Red Hat and Microsoft are now friends. The latest chapter saw Red Hat point its newly acquired Ansible IT automation technologies towards networks, clouds and Windows environments, because who wouldn't want a slice of the Azure pie now that Microsoft loves Linux?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bd9e26846cc7f9c023bbbd09328063ba96f335f.jpg"></article>]]></description>
+            <link>http://www.theregister.co.uk/2016/02/25/red_hat_ansible_azure_networks_devops/</link>
+            <guid isPermaLink="false">ff8bf624-4df0-4ec2-bd4a-5a64ba645b68</guid>
+            <pubDate>Fri, 26 Feb 2016 05:44:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ansible bridges traditional networking teams and DevOps]]></title>
-            <description><![CDATA[<article><h1>Ansible bridges traditional networking teams and DevOps</h1><p>In the everything is software-defined, everything is a service world, network virtualization is joining compute and storage virtualization to give DevOps even more control over the underlay networking. And now Red Hat has added the capabilities to control networking infrastructure to Ansible, its infrastructure automation software.</p><img src="http://images.techhive.com/images/article/2016/02/bridge-100646347-primary.idge.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Ansible bridges traditional networking teams and DevOps</h1><p>In the everything is software-defined, everything is a service world, network virtualization is joining compute and storage virtualization to give DevOps even more control over the underlay networking. And now Red Hat has added the capabilities to control networking infrastructure to Ansible, its infrastructure automation software.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9d285af247b5b58627af1d70e53c50edce3f6e6.jpg"></article>]]></description>
             <link>http://www.cio.com/article/3036644/cloud-computing/ansible-bridges-traditional-networking-teams-and-devops.html</link>
             <guid isPermaLink="false">c027b861-dc0b-4e9f-88e3-24ccf7ef95c4</guid>
             <pubDate>Wed, 24 Feb 2016 16:33:13 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.infoq.com/articles/Diagnosing-Common-Java-Database-Performance-Hotspots</link>
             <guid isPermaLink="false">8177cb83-1ca6-4266-8d75-b80362e0d23a</guid>
             <pubDate>Wed, 17 Feb 2016 17:38:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The History of DevOps (and what you need to do about it)]]></title>
-            <description><![CDATA[<article><h1>The History of DevOps (and what you need to do about it)</h1><p>Damon Edwards (DTO Solutions) presentation at Pink16 in Las Vegas on February 16, 2016.</p></article>]]></description>
-            <link>http://www.slideshare.net/dev2ops/the-history-of-devops-and-what-you-need-to-do-about-it</link>
-            <guid isPermaLink="false">366ed7e5-e227-4bc5-b36e-03fcc48f788a</guid>
-            <pubDate>Wed, 17 Feb 2016 17:34:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
