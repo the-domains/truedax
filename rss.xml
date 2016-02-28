@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 05:47:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2016 05:19:37 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Securing the Modern Software Delivery Lifecycle]]></title>
+            <description><![CDATA[<article><h1>Securing the Modern Software Delivery Lifecycle</h1><p>Information security practice has evolved to be pretty good at granting and managing access to confidential information - by people. But automation is taking over. Applications, servers, even networks are not configured and deployed by hand anymore. This is great; our systems and delivery pipelines are becoming faster and more robust.</p><img src="http://cdn.infoq.com/statics_s1_20160217-0123u3/resource/articles/secure-continuous-integration-delivery-lifecycle/en/resources/21.jpg"></article>]]></description>
+            <link>http://www.infoq.com/articles/secure-continuous-integration-delivery-lifecycle</link>
+            <guid isPermaLink="false">b39ca753-c6e5-4593-a94c-b439ddf91f74</guid>
+            <pubDate>Sun, 28 Feb 2016 05:16:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[RightScale Survey Highlights Cloud Trends: Multi-Cloud, Consolidated Governance, Skills Gap]]></title>
             <description><![CDATA[<article><h1>RightScale Survey Highlights Cloud Trends: Multi-Cloud, Consolidated Governance, Skills Gap</h1><p>RightScale just released the results of their annual "State of the Cloud" survey which identifies trends in cloud adoption and usage. The key findings? Organizations are investing in both public and private clouds, security is no longer the number one challenge to adoption, Docker and Ansible are growing in popularity, and central IT departments are taking on a greater role in decision making.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5fc6b6206569b9455cb43d45b510ba0e3b2d2819.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.crn.com/slide-shows/cloud/300079733/rightscale-2016-state-of-the-cloud-report-a-look-inside-the-devops-revolution.htm</link>
             <guid isPermaLink="false">8009f5f1-74e5-477b-9c47-956f42c0957e</guid>
             <pubDate>Fri, 19 Feb 2016 17:43:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://rewrite.ca.com/content/dam/rewrite/images/articles/Inline/Dev_Vs_Ops_R4_v1.jpg">]]></description>
-            <link>http://truedax.com/380e6506-20b6-4ed5-ad57-872954578684/index.html</link>
-            <guid isPermaLink="false">380e6506-20b6-4ed5-ad57-872954578684</guid>
-            <pubDate>Fri, 19 Feb 2016 17:39:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
