@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 22:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2016 22:24:13 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Creating Microservice Deployment Pipelines with Netflix's Spinnaker: A Perspective from Google]]></title>
+            <description><![CDATA[<article><h1>Creating Microservice Deployment Pipelines with Netflix's Spinnaker: A Perspective from Google</h1><p>At the microXchg 2016 conference, held in Berlin, Rick Buskens presented "Microservice Deployment Pipelines with Spinnaker", which discussed the collaboration between Netflix and Google on the Netflix-conceived Spinnaker continuous delivery platform. Spinnaker can be used to create build pipelines for safe and predictable deployment of microservice applications across multiple cloud providers.</p><img src="http://cdn.infoq.com/statics_s1_20160217-0123u3/resource/news/2016/02/microservice-deploys-spinnaker/en/resources/spinnaker_workflow.jpg"></article>]]></description>
+            <link>http://www.infoq.com/news/2016/02/microservice-deploys-spinnaker</link>
+            <guid isPermaLink="false">e27ad07c-fa15-49f1-91e6-3428375e1bd6</guid>
+            <pubDate>Sun, 28 Feb 2016 22:22:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Docker Inc Release 'Docker Datacenter' to Support On-Premise 'Containers as a Service' (CaaS)]]></title>
             <description><![CDATA[<article><h1>Docker Inc Release 'Docker Datacenter' to Support On-Premise 'Containers as a Service' (CaaS)</h1><p>Docker Inc, have released Docker Datacenter (DDC), a subscription-based platform and support service that enables organisations to run a Docker-based Containers as a Service (CaaS) for building, deploying and managing containerised applications and infrastructure. The DDC is comprised of Docker Universal Control Plane (UCP) and Docker Trusted Registry (DTR)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f37271f990eca2ee3d5be29f521addeceb257241.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://blog.docker.com/2016/02/docker-datacenter-training/</link>
             <guid isPermaLink="false">3924eb5a-0fa9-476f-a196-d20242c6e172</guid>
             <pubDate>Wed, 24 Feb 2016 06:40:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Red Hat's Ansible brings networking to devops]]></title>
-            <description><![CDATA[<article><h1>Red Hat's Ansible brings networking to devops</h1><p>A new release issued this week from Red Hat Ansible - an open source project and commercial product for creating a devops environment - is enabling developers to control network infrastructure. The devops movement is focused on how to create a better IT environment for developers to provision their own infrastructure in order to create applications faster.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e196a02567bb6795f67c40bfc44ef2b5acea3f83.jpg"></article>]]></description>
-            <link>http://www.networkworld.com/article/3035261/software/red-hat-s-ansible-brings-networking-to-devops.html</link>
-            <guid isPermaLink="false">fdb7edfe-95ea-4003-a775-ad9504cda7fa</guid>
-            <pubDate>Fri, 19 Feb 2016 19:44:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
