@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 05:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2016 22:22:56 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Docker Inc Release 'Docker Datacenter' to Support On-Premise 'Containers as a Service' (CaaS)]]></title>
+            <description><![CDATA[<article><h1>Docker Inc Release 'Docker Datacenter' to Support On-Premise 'Containers as a Service' (CaaS)</h1><p>Docker Inc, have released Docker Datacenter (DDC), a subscription-based platform and support service that enables organisations to run a Docker-based Containers as a Service (CaaS) for building, deploying and managing containerised applications and infrastructure. The DDC is comprised of Docker Universal Control Plane (UCP) and Docker Trusted Registry (DTR)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f37271f990eca2ee3d5be29f521addeceb257241.jpg"></article>]]></description>
+            <link>http://www.infoq.com/news/2016/02/docker-datacenter-caas</link>
+            <guid isPermaLink="false">4ffee3df-4944-457a-b948-1b99b6db0cc7</guid>
+            <pubDate>Sun, 28 Feb 2016 22:21:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Securing the Modern Software Delivery Lifecycle]]></title>
-            <description><![CDATA[<article><h1>Securing the Modern Software Delivery Lifecycle</h1><p>Information security practice has evolved to be pretty good at granting and managing access to confidential information - by people. But automation is taking over. Applications, servers, even networks are not configured and deployed by hand anymore. This is great; our systems and delivery pipelines are becoming faster and more robust.</p><img src="http://cdn.infoq.com/statics_s1_20160217-0123u3/resource/articles/secure-continuous-integration-delivery-lifecycle/en/resources/21.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Securing the Modern Software Delivery Lifecycle</h1><p>Information security practice has evolved to be pretty good at granting and managing access to confidential information - by people. But automation is taking over. Applications, servers, even networks are not configured and deployed by hand anymore. This is great; our systems and delivery pipelines are becoming faster and more robust.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/692c13e6898f1b5c6fb64f94f2a6ae9e12b23fa2.jpg"></article>]]></description>
             <link>http://www.infoq.com/articles/secure-continuous-integration-delivery-lifecycle</link>
             <guid isPermaLink="false">b39ca753-c6e5-4593-a94c-b439ddf91f74</guid>
             <pubDate>Sun, 28 Feb 2016 05:16:00 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.networkworld.com/article/3035261/software/red-hat-s-ansible-brings-networking-to-devops.html</link>
             <guid isPermaLink="false">fdb7edfe-95ea-4003-a775-ad9504cda7fa</guid>
             <pubDate>Fri, 19 Feb 2016 19:44:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RightScale 2016 State Of The Cloud Report: A Look Inside The DevOps Revolution]]></title>
-            <description><![CDATA[<article><h1>RightScale 2016 State Of The Cloud Report: A Look Inside The DevOps Revolution</h1><p>Email this CRN article The Survey RightScale, a cloud-management vendor based in Santa Barbara, Calif., polled 1,060 technical professionals in January from a broad cross-section of organizations about their adoption of cloud computing. Of the respondents, 433 represented enterprises, and 627 came from the SMB space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f74e749cc8d41b5a2004b3bbd3181284ca405dc2.jpg"></article>]]></description>
-            <link>http://www.crn.com/slide-shows/cloud/300079733/rightscale-2016-state-of-the-cloud-report-a-look-inside-the-devops-revolution.htm</link>
-            <guid isPermaLink="false">8009f5f1-74e5-477b-9c47-956f42c0957e</guid>
-            <pubDate>Fri, 19 Feb 2016 17:43:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
