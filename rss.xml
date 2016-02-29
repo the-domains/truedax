@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 22:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 19:29:04 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[The 13 developer skills you need to master now]]></title>
+            <description><![CDATA[<article><h1>The 13 developer skills you need to master now</h1><p>Heavy weighs the crown of the developer king. Yes, as software eats the world, demand for skilled developers remains high. But software's pervasiveness -- from the server to the cloud to the coming onslaught of wearable and IoT devices -- means far greater responsibilities for software engineers and the need to constantly expand your skills.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04e2b75c59e6f006470d6218fb9d1d70720cb624.jpg"></article>]]></description>
+            <link>http://www.infoworld.com/article/3038679/application-development/the-13-developer-skills-you-need-to-master-now.html</link>
+            <guid isPermaLink="false">80fe7cef-03c2-4932-862a-148457a490e6</guid>
+            <pubDate>Mon, 29 Feb 2016 19:27:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Creating Microservice Deployment Pipelines with Netflix's Spinnaker: A Perspective from Google]]></title>
-            <description><![CDATA[<article><h1>Creating Microservice Deployment Pipelines with Netflix's Spinnaker: A Perspective from Google</h1><p>At the microXchg 2016 conference, held in Berlin, Rick Buskens presented "Microservice Deployment Pipelines with Spinnaker", which discussed the collaboration between Netflix and Google on the Netflix-conceived Spinnaker continuous delivery platform. Spinnaker can be used to create build pipelines for safe and predictable deployment of microservice applications across multiple cloud providers.</p><img src="http://cdn.infoq.com/statics_s1_20160217-0123u3/resource/news/2016/02/microservice-deploys-spinnaker/en/resources/spinnaker_workflow.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Creating Microservice Deployment Pipelines with Netflix's Spinnaker: A Perspective from Google</h1><p>At the microXchg 2016 conference, held in Berlin, Rick Buskens presented "Microservice Deployment Pipelines with Spinnaker", which discussed the collaboration between Netflix and Google on the Netflix-conceived Spinnaker continuous delivery platform. Spinnaker can be used to create build pipelines for safe and predictable deployment of microservice applications across multiple cloud providers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1a635dceca187e2a2ba35ac8abad3c6f8ef5aa3.jpg"></article>]]></description>
             <link>http://www.infoq.com/news/2016/02/microservice-deploys-spinnaker</link>
             <guid isPermaLink="false">e27ad07c-fa15-49f1-91e6-3428375e1bd6</guid>
             <pubDate>Sun, 28 Feb 2016 22:22:18 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://heiber.im/post/creating-a-solid-docker-base-image/</link>
             <guid isPermaLink="false">a5177f59-136a-4cb4-882f-163cb34dbcbb</guid>
             <pubDate>Wed, 24 Feb 2016 16:30:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Get the Docker Datacenter Training You Need]]></title>
-            <description><![CDATA[<article><h1>How to Get the Docker Datacenter Training You Need</h1><p>Containers as a Service (CaaS) provides an IT managed and secured application environment of content and infrastructure where developers can build and deploy applications in a self service manner. With the release of Docker Datacenter (an integrated solution to power and on premises/VPC based CaaS), the Docker Training team is excited to announce the availability of the Docker Datacenter remote training series.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a81bed9129a8e1ddec72ebc3e7e9b3f6ac1042b5.png"></article>]]></description>
-            <link>https://blog.docker.com/2016/02/docker-datacenter-training/</link>
-            <guid isPermaLink="false">3924eb5a-0fa9-476f-a196-d20242c6e172</guid>
-            <pubDate>Wed, 24 Feb 2016 06:40:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
