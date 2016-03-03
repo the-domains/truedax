@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 19:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 21:21:46 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Using DevOps, app agility to rethink how you engage with customers]]></title>
+            <description><![CDATA[<article><h1>Using DevOps, app agility to rethink how you engage with customers</h1><p>In my last article, I talked about how cloud computing IT organizations to restructure the application life cycle to leverage agile development, quality assurance, artifacts, and operations. Cloud computing has reset expectations with regard to how fast applications should be delivered, DevOps is key, and only by re-examining every part of how IT does its business can your organization move at the speed of cloud.</p><img src="http://techbeacon.com/sites/default/files/how-devops-application-agile-agility-new-business-offerings-software.jpg"></article>]]></description>
+            <link>http://techbeacon.com/using-devops-app-agility-rethink-how-you-engage-customers</link>
+            <guid isPermaLink="false">1d65ba23-a113-4b08-9d32-d76fe0151d2b</guid>
+            <pubDate>Thu, 03 Mar 2016 21:19:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Career makeover: From ops to devops]]></title>
             <description><![CDATA[<article><h1>Career makeover: From ops to devops</h1><p>Long ago, in a IT operations model far, far away, businesses built their data centers. Rows and rows of server racks humming away in closets tangled with cables -- that was IT's lifeblood. It was a time when virtualization meant that thing a couple of gung-ho admins toyed with on an old HP DL360 server destined for the garbage bin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7524aa25306f375e974afa30d4f0337cce5ca315.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.infoq.com/news/2016/02/rightscale-cloud-survey</link>
             <guid isPermaLink="false">b8532241-b76d-4388-be15-acb9811cfdc2</guid>
             <pubDate>Fri, 26 Feb 2016 05:44:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DevOps principles for IT managers]]></title>
-            <description><![CDATA[<article><h1>DevOps principles for IT managers</h1><p>DevOps isn't a fixed methodology or process; it's a community of practice and a set of principles. DevOps advocates Damon Edwards and John Willis described DevOps in 2010 with the acronym CAMS: culture, automation, measurement and sharing. Here's a quick overview of these core elements of DevOps and why they're so important for IT managers who want to build an effective DevOps organization.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3fda666805ae50311066a593365c0717050b67d.png"></article>]]></description>
-            <link>https://puppetlabs.com/blog/devops-principles-for-it-managers?ccn=integrated-devops-016&amp;cid=701G0000001Z87s&amp;ls=social-media&amp;pub=twitter</link>
-            <guid isPermaLink="false">fcc06349-88b3-49d2-91f0-75f253502b25</guid>
-            <pubDate>Fri, 26 Feb 2016 05:44:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
