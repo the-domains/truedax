@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 17:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 19:14:15 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Career makeover: From ops to devops]]></title>
+            <description><![CDATA[<article><h1>Career makeover: From ops to devops</h1><p>Long ago, in a IT operations model far, far away, businesses built their data centers. Rows and rows of server racks humming away in closets tangled with cables -- that was IT's lifeblood. It was a time when virtualization meant that thing a couple of gung-ho admins toyed with on an old HP DL360 server destined for the garbage bin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7524aa25306f375e974afa30d4f0337cce5ca315.jpg"></article>]]></description>
+            <link>http://www.infoworld.com/article/3038324/devops/career-makeover-from-ops-to-devops.html</link>
+            <guid isPermaLink="false">68e080c2-518a-4612-bcdb-e82cd6869438</guid>
+            <pubDate>Thu, 03 Mar 2016 19:14:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Etsy CTO Q&A: We Need Software Engineers, Not Developers - The New Stack]]></title>
             <description><![CDATA[<article><h1>Etsy CTO Q&A: We Need Software Engineers, Not Developers - The New Stack</h1><p>When it comes to the practice of DevOps, few companies have been on the cutting edge as long as Etsy, which once famously asserted that its new engineer hires would commit code to production after the first day of work. Don't be fooled by the crafty look-and-feel of Etsy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82205ac18e1007767b2377aa3e75b1350446017b.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://puppetlabs.com/blog/devops-principles-for-it-managers?ccn=integrated-devops-016&amp;cid=701G0000001Z87s&amp;ls=social-media&amp;pub=twitter</link>
             <guid isPermaLink="false">fcc06349-88b3-49d2-91f0-75f253502b25</guid>
             <pubDate>Fri, 26 Feb 2016 05:44:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft's Red Hat Ansible love-in gives birth to DevNetCLOps]]></title>
-            <description><![CDATA[<article><h1>Microsoft's Red Hat Ansible love-in gives birth to DevNetCLOps</h1><p>As we know, Hell froze over a while ago: Red Hat and Microsoft are now friends. The latest chapter saw Red Hat point its newly acquired Ansible IT automation technologies towards networks, clouds and Windows environments, because who wouldn't want a slice of the Azure pie now that Microsoft loves Linux?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bd9e26846cc7f9c023bbbd09328063ba96f335f.jpg"></article>]]></description>
-            <link>http://www.theregister.co.uk/2016/02/25/red_hat_ansible_azure_networks_devops/</link>
-            <guid isPermaLink="false">ff8bf624-4df0-4ec2-bd4a-5a64ba645b68</guid>
-            <pubDate>Fri, 26 Feb 2016 05:44:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
