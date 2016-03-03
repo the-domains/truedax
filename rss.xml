@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 19:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 03:57:49 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SecOps: Put security in DevOps first, not as an add-on]]></title>
+            <description><![CDATA[<article><h1>SecOps: Put security in DevOps first, not as an add-on</h1><p>Most people don't think about security when it comes to DevOps, but the process involves many vulnerabilities. Data at rest and in flight is left unencrypted in many cases. Moreover, role-based security is often tossed out the window to allow for faster production. In this article, I'll explore the critical issues with DevOps security.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ecc21a6ee02daadf25649bfa7a6a3664191e04af.jpg"></article>]]></description>
+            <link>http://techbeacon.com/put-security-devops-first-not-add</link>
+            <guid isPermaLink="false">43c2ce66-25a1-48c0-bb7b-850d6d741e0f</guid>
+            <pubDate>Thu, 03 Mar 2016 03:56:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The 13 developer skills you need to master now]]></title>
             <description><![CDATA[<article><h1>The 13 developer skills you need to master now</h1><p>Heavy weighs the crown of the developer king. Yes, as software eats the world, demand for skilled developers remains high. But software's pervasiveness -- from the server to the cloud to the coming onslaught of wearable and IoT devices -- means far greater responsibilities for software engineers and the need to constantly expand your skills.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04e2b75c59e6f006470d6218fb9d1d70720cb624.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.theregister.co.uk/2016/02/23/devops_stack_pile_chain/</link>
             <guid isPermaLink="false">a8b6c75b-6a26-4fb8-ae5a-6b901cf92e9f</guid>
             <pubDate>Wed, 24 Feb 2016 16:32:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Creating a good, secure Docker base image]]></title>
-            <description><![CDATA[<article><h1>Creating a good, secure Docker base image</h1><p>tl;dr: Build small, efficient images, use Alpine Linux as your foundation, build from there, add glibc if necessary, remove static/generated files and documentation, never run more than one process per container and use verified, trustworthy sources.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b83063af01ea6a2a3a0d8891f8607fff0ccfc10.jpg"></article>]]></description>
-            <link>http://heiber.im/post/creating-a-solid-docker-base-image/</link>
-            <guid isPermaLink="false">a5177f59-136a-4cb4-882f-163cb34dbcbb</guid>
-            <pubDate>Wed, 24 Feb 2016 16:30:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
