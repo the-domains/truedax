@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 03:57:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 03:58:14 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Docker Networking Design Philosophy]]></title>
+            <description><![CDATA[<article><h1>Docker Networking Design Philosophy</h1><p>From the experimental networking in Docker 1.7 to the initial release in Docker 1.9, the reception from the community has been fantastic! First of all we want to thank you for all the discussions, evaluations, PRs and filed issues. As the networking capabilities evolving with every release, we wanted to spend some time explaining the guiding principles behind the design.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64c542b3952e88243e5265f52c4e023e0136c674.jpg"></article>]]></description>
+            <link>https://blog.docker.com/2016/03/docker-networking-design-philosophy/</link>
+            <guid isPermaLink="false">d98ad473-ff4d-4e1a-baac-8630532320ea</guid>
+            <pubDate>Thu, 03 Mar 2016 03:56:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SecOps: Put security in DevOps first, not as an add-on]]></title>
             <description><![CDATA[<article><h1>SecOps: Put security in DevOps first, not as an add-on</h1><p>Most people don't think about security when it comes to DevOps, but the process involves many vulnerabilities. Data at rest and in flight is left unencrypted in many cases. Moreover, role-based security is often tossed out the window to allow for faster production. In this article, I'll explore the critical issues with DevOps security.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ecc21a6ee02daadf25649bfa7a6a3664191e04af.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.cio.com/article/3036644/cloud-computing/ansible-bridges-traditional-networking-teams-and-devops.html</link>
             <guid isPermaLink="false">c027b861-dc0b-4e9f-88e3-24ccf7ef95c4</guid>
             <pubDate>Wed, 24 Feb 2016 16:33:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Become an Andre Previn in your time: DevOps for star conductors]]></title>
-            <description><![CDATA[<article><h1>Become an Andre Previn in your time: DevOps for star conductors</h1><p>When we talk about "full stack" software, we are most commonly talking about the disciplines and elements (and their associated competencies) that span the complete smokestack of software application development as we typically define it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11de9f33e29f4101dd9b1a2b1146eed08d88f702.jpg"></article>]]></description>
-            <link>http://www.theregister.co.uk/2016/02/23/devops_stack_pile_chain/</link>
-            <guid isPermaLink="false">a8b6c75b-6a26-4fb8-ae5a-6b901cf92e9f</guid>
-            <pubDate>Wed, 24 Feb 2016 16:32:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
