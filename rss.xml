@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 15:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 15:04:10 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[14 Open Source DevOps Tools We Use in Production - Logz.io]]></title>
+            <description><![CDATA[<article><h1>14 Open Source DevOps Tools We Use in Production - Logz.io</h1><p>We at Logz.io are an open source analytics company that develops Big Data technology around log data, and some of the challenges that we face are the same challenges that all next-generation, DevOps-driven organizations face. How do we manage our source code? How do we do continuous deployment?</p><img src="http://logz.io/wp-content/uploads/2016/03/devops-tools.jpg"></article>]]></description>
+            <link>http://logz.io/blog/devops-tools/</link>
+            <guid isPermaLink="false">6ee9ccd0-eb96-4dee-b55a-c4b9d7b703f8</guid>
+            <pubDate>Sat, 05 Mar 2016 15:02:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DevOps is good for your operations team]]></title>
             <description><![CDATA[<article><h1>DevOps is good for your operations team</h1><p>If you're managing IT operations, you've heard that DevOps has the power to help IT move faster, scale up quickly with less pain, and boost efficiency. Now you may be thinking about how DevOps might help you and your team cope with the increasing pace and quantity of work coming your way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3fda666805ae50311066a593365c0717050b67d.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.infoworld.com/article/3038679/application-development/the-13-developer-skills-you-need-to-master-now.html</link>
             <guid isPermaLink="false">80fe7cef-03c2-4932-862a-148457a490e6</guid>
             <pubDate>Mon, 29 Feb 2016 19:27:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Creating Microservice Deployment Pipelines with Netflix's Spinnaker: A Perspective from Google]]></title>
-            <description><![CDATA[<article><h1>Creating Microservice Deployment Pipelines with Netflix's Spinnaker: A Perspective from Google</h1><p>At the microXchg 2016 conference, held in Berlin, Rick Buskens presented "Microservice Deployment Pipelines with Spinnaker", which discussed the collaboration between Netflix and Google on the Netflix-conceived Spinnaker continuous delivery platform. Spinnaker can be used to create build pipelines for safe and predictable deployment of microservice applications across multiple cloud providers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1a635dceca187e2a2ba35ac8abad3c6f8ef5aa3.jpg"></article>]]></description>
-            <link>http://www.infoq.com/news/2016/02/microservice-deploys-spinnaker</link>
-            <guid isPermaLink="false">e27ad07c-fa15-49f1-91e6-3428375e1bd6</guid>
-            <pubDate>Sun, 28 Feb 2016 22:22:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
