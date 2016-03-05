@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 21:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 15:02:13 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Is DevOps just a 're-branding' of ops?]]></title>
+            <description><![CDATA[<article><h1>Is DevOps just a 're-branding' of ops?</h1><p>Interest in DevOps is intense, but have the roles and responsibilities, even within organisations that have adopted it, really changed? "Plus ça change, plus c'est la même chose," goes the old saying - the more things change, the more they stay the same.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9043a891d4fd1b176dbd99aa712438d1729ab159.png"></article>]]></description>
+            <link>http://www.computing.co.uk/ctg/news/2449569/is-devops-just-a-re-branding-of-ops</link>
+            <guid isPermaLink="false">6f76b046-b0cd-46b7-83fa-66a144e17ea1</guid>
+            <pubDate>Sat, 05 Mar 2016 15:01:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Using DevOps, app agility to rethink how you engage with customers]]></title>
-            <description><![CDATA[<article><h1>Using DevOps, app agility to rethink how you engage with customers</h1><p>In my last article, I talked about how cloud computing IT organizations to restructure the application life cycle to leverage agile development, quality assurance, artifacts, and operations. Cloud computing has reset expectations with regard to how fast applications should be delivered, DevOps is key, and only by re-examining every part of how IT does its business can your organization move at the speed of cloud.</p><img src="http://techbeacon.com/sites/default/files/how-devops-application-agile-agility-new-business-offerings-software.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Using DevOps, app agility to rethink how you engage with customers</h1><p>In my last article, I talked about how cloud computing IT organizations to restructure the application life cycle to leverage agile development, quality assurance, artifacts, and operations. Cloud computing has reset expectations with regard to how fast applications should be delivered, DevOps is key, and only by re-examining every part of how IT does its business can your organization move at the speed of cloud.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/beeec12aeda2b668955013813e792ecdcaaee4a1.jpg"></article>]]></description>
             <link>http://techbeacon.com/using-devops-app-agility-rethink-how-you-engage-customers</link>
             <guid isPermaLink="false">1d65ba23-a113-4b08-9d32-d76fe0151d2b</guid>
             <pubDate>Thu, 03 Mar 2016 21:19:18 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.infoq.com/articles/secure-continuous-integration-delivery-lifecycle</link>
             <guid isPermaLink="false">b39ca753-c6e5-4593-a94c-b439ddf91f74</guid>
             <pubDate>Sun, 28 Feb 2016 05:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RightScale Survey Highlights Cloud Trends: Multi-Cloud, Consolidated Governance, Skills Gap]]></title>
-            <description><![CDATA[<article><h1>RightScale Survey Highlights Cloud Trends: Multi-Cloud, Consolidated Governance, Skills Gap</h1><p>RightScale just released the results of their annual "State of the Cloud" survey which identifies trends in cloud adoption and usage. The key findings? Organizations are investing in both public and private clouds, security is no longer the number one challenge to adoption, Docker and Ansible are growing in popularity, and central IT departments are taking on a greater role in decision making.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5fc6b6206569b9455cb43d45b510ba0e3b2d2819.jpg"></article>]]></description>
-            <link>http://www.infoq.com/news/2016/02/rightscale-cloud-survey</link>
-            <guid isPermaLink="false">b8532241-b76d-4388-be15-acb9811cfdc2</guid>
-            <pubDate>Fri, 26 Feb 2016 05:44:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
