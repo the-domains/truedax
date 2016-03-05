@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 15:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 15:03:47 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DevOps is good for your operations team]]></title>
+            <description><![CDATA[<article><h1>DevOps is good for your operations team</h1><p>If you're managing IT operations, you've heard that DevOps has the power to help IT move faster, scale up quickly with less pain, and boost efficiency. Now you may be thinking about how DevOps might help you and your team cope with the increasing pace and quantity of work coming your way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3fda666805ae50311066a593365c0717050b67d.png"></article>]]></description>
+            <link>https://puppetlabs.com/blog/devops-good-your-operations-team?ccn=integrated-devops-2016&amp;cid=701G0000001Z87s&amp;ls=social-media&amp;pub=twitter</link>
+            <guid isPermaLink="false">7ab66f75-793f-417d-b8e7-cb6609319e7f</guid>
+            <pubDate>Sat, 05 Mar 2016 15:02:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What's up with Open Source Technology in 2016]]></title>
             <description><![CDATA[<article><h1>What's up with Open Source Technology in 2016</h1><p>I've recently had the opportunity to give talks at two open source conferences. At both events my topic was the tools and strategies the OpenStack® project's Infrastructure team uses to collaborate online. The first conference was the 14th Annual Southern California Linux Expo (SCALE 14x) in Pasaden...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7822c722d2c4ec0047ec83bf00f01e64aadcb2cc.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.infoq.com/news/2016/02/microservice-deploys-spinnaker</link>
             <guid isPermaLink="false">e27ad07c-fa15-49f1-91e6-3428375e1bd6</guid>
             <pubDate>Sun, 28 Feb 2016 22:22:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Docker Inc Release 'Docker Datacenter' to Support On-Premise 'Containers as a Service' (CaaS)]]></title>
-            <description><![CDATA[<article><h1>Docker Inc Release 'Docker Datacenter' to Support On-Premise 'Containers as a Service' (CaaS)</h1><p>Docker Inc, have released Docker Datacenter (DDC), a subscription-based platform and support service that enables organisations to run a Docker-based Containers as a Service (CaaS) for building, deploying and managing containerised applications and infrastructure. The DDC is comprised of Docker Universal Control Plane (UCP) and Docker Trusted Registry (DTR)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f37271f990eca2ee3d5be29f521addeceb257241.jpg"></article>]]></description>
-            <link>http://www.infoq.com/news/2016/02/docker-datacenter-caas</link>
-            <guid isPermaLink="false">4ffee3df-4944-457a-b948-1b99b6db0cc7</guid>
-            <pubDate>Sun, 28 Feb 2016 22:21:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
