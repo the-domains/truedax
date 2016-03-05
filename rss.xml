@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 15:02:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 15:03:09 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What's up with Open Source Technology in 2016]]></title>
+            <description><![CDATA[<article><h1>What's up with Open Source Technology in 2016</h1><p>I've recently had the opportunity to give talks at two open source conferences. At both events my topic was the tools and strategies the OpenStack® project's Infrastructure team uses to collaborate online. The first conference was the 14th Annual Southern California Linux Expo (SCALE 14x) in Pasaden...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7822c722d2c4ec0047ec83bf00f01e64aadcb2cc.jpg"></article>]]></description>
+            <link>http://community.hpe.com/t5/Grounded-in-the-Cloud/What-s-up-with-Open-Source-Technology-in-2016/ba-p/6838703#.VtrxUnNyjqB</link>
+            <guid isPermaLink="false">370748ee-7acd-47c1-b16d-b47875aba87f</guid>
+            <pubDate>Sat, 05 Mar 2016 15:02:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is DevOps just a 're-branding' of ops?]]></title>
             <description><![CDATA[<article><h1>Is DevOps just a 're-branding' of ops?</h1><p>Interest in DevOps is intense, but have the roles and responsibilities, even within organisations that have adopted it, really changed? "Plus ça change, plus c'est la même chose," goes the old saying - the more things change, the more they stay the same.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9043a891d4fd1b176dbd99aa712438d1729ab159.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.infoq.com/news/2016/02/docker-datacenter-caas</link>
             <guid isPermaLink="false">4ffee3df-4944-457a-b948-1b99b6db0cc7</guid>
             <pubDate>Sun, 28 Feb 2016 22:21:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Securing the Modern Software Delivery Lifecycle]]></title>
-            <description><![CDATA[<article><h1>Securing the Modern Software Delivery Lifecycle</h1><p>Information security practice has evolved to be pretty good at granting and managing access to confidential information - by people. But automation is taking over. Applications, servers, even networks are not configured and deployed by hand anymore. This is great; our systems and delivery pipelines are becoming faster and more robust.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/692c13e6898f1b5c6fb64f94f2a6ae9e12b23fa2.jpg"></article>]]></description>
-            <link>http://www.infoq.com/articles/secure-continuous-integration-delivery-lifecycle</link>
-            <guid isPermaLink="false">b39ca753-c6e5-4593-a94c-b439ddf91f74</guid>
-            <pubDate>Sun, 28 Feb 2016 05:16:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
