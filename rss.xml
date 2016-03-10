@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 19:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 21:27:09 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Go DevOps before your bosses force you to. It'll be easier that way]]></title>
+            <description><![CDATA[<article><h1>Go DevOps before your bosses force you to. It'll be easier that way</h1><p>Some people are making very bold claims about what DevOps can deliver. Here's one: "High-performing IT organizations deploy 30x more frequently with 200x shorter lead times; they have 60x fewer failures and recover 168x faster," according to the first bullet point of the 2015 annual Puppet Labs State of DevOps report.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd8903f2377fba503a3c601650b28a727a91f378.jpg"></article>]]></description>
+            <link>http://www.theregister.co.uk/2016/03/09/making_sure_your_bosses_get_devops/</link>
+            <guid isPermaLink="false">b8787918-503b-465b-9456-d9e8211e87cc</guid>
+            <pubDate>Thu, 10 Mar 2016 21:26:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who Needs GitHub? Run GitLab on a USB Stick with Docker]]></title>
             <description><![CDATA[<article><h1>Who Needs GitHub? Run GitLab on a USB Stick with Docker</h1><p>I use Git for everything. Some of those things aren't public (like books and courses I'm writing which are in-progress), and even when they are public I often work without Internet access. So I can't push changes to GitHub, but I don't want them stranded on my laptop.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/313904f5daba4eea32e44f968575dd8e8611c9ea.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://blog.docker.com/2016/03/docker-networking-design-philosophy/</link>
             <guid isPermaLink="false">d98ad473-ff4d-4e1a-baac-8630532320ea</guid>
             <pubDate>Thu, 03 Mar 2016 03:56:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SecOps: Put security in DevOps first, not as an add-on]]></title>
-            <description><![CDATA[<article><h1>SecOps: Put security in DevOps first, not as an add-on</h1><p>Most people don't think about security when it comes to DevOps, but the process involves many vulnerabilities. Data at rest and in flight is left unencrypted in many cases. Moreover, role-based security is often tossed out the window to allow for faster production. In this article, I'll explore the critical issues with DevOps security.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ecc21a6ee02daadf25649bfa7a6a3664191e04af.jpg"></article>]]></description>
-            <link>http://techbeacon.com/put-security-devops-first-not-add</link>
-            <guid isPermaLink="false">43c2ce66-25a1-48c0-bb7b-850d6d741e0f</guid>
-            <pubDate>Thu, 03 Mar 2016 03:56:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
