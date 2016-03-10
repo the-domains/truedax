@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 21:27:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 21:32:03 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Netflix Tech Blog: How We Build Code at Netflix]]></title>
+            <description><![CDATA[<article><h1>The Netflix Tech Blog: How We Build Code at Netflix</h1><p>How does Netflix build code before it's deployed to the cloud? While pieces of this story have been told in the past, we decided it was time we shared more details. In this post, we describe the tools and techniques used to go from source code to a deployed service serving movies and TV shows to more than 75 million global Netflix members.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29dccf8de389b3dfd24560248de16e574db86d82.jpg"></article>]]></description>
+            <link>http://techblog.netflix.com/2016/03/how-we-build-code-at-netflix.html</link>
+            <guid isPermaLink="false">5f88f2bd-304b-4815-900b-3754ea1ce8b4</guid>
+            <pubDate>Thu, 10 Mar 2016 21:30:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Go DevOps before your bosses force you to. It'll be easier that way]]></title>
             <description><![CDATA[<article><h1>Go DevOps before your bosses force you to. It'll be easier that way</h1><p>Some people are making very bold claims about what DevOps can deliver. Here's one: "High-performing IT organizations deploy 30x more frequently with 200x shorter lead times; they have 60x fewer failures and recover 168x faster," according to the first bullet point of the 2015 annual Puppet Labs State of DevOps report.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd8903f2377fba503a3c601650b28a727a91f378.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://thenewstack.io/etsy-cto-qa-need-software-engineers-not-developers/</link>
             <guid isPermaLink="false">20184eec-0466-499a-8ab1-70196dbe28ea</guid>
             <pubDate>Thu, 03 Mar 2016 17:47:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Docker Networking Design Philosophy]]></title>
-            <description><![CDATA[<article><h1>Docker Networking Design Philosophy</h1><p>From the experimental networking in Docker 1.7 to the initial release in Docker 1.9, the reception from the community has been fantastic! First of all we want to thank you for all the discussions, evaluations, PRs and filed issues. As the networking capabilities evolving with every release, we wanted to spend some time explaining the guiding principles behind the design.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64c542b3952e88243e5265f52c4e023e0136c674.jpg"></article>]]></description>
-            <link>https://blog.docker.com/2016/03/docker-networking-design-philosophy/</link>
-            <guid isPermaLink="false">d98ad473-ff4d-4e1a-baac-8630532320ea</guid>
-            <pubDate>Thu, 03 Mar 2016 03:56:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
