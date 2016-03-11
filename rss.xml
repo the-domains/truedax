@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 17:04:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 17:06:32 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stop running on the endless workload systems treadmill]]></title>
+            <description><![CDATA[<article><h1>Stop running on the endless workload systems treadmill</h1><p>When it comes to your company's workload, do you sometimes get the feeling like you're running on a non-stop treadmill? Scheduling multiple jobs for multiple applications with multiple views into how everything's working? Making the jump from homegrown systems to an enterprise-grade workload automation system can be a big leap for IT organizations.</p><img src="http://blogs.ca.com/wp-content/uploads/2016/03/shutterstock_299133422.jpg"></article>]]></description>
+            <link>http://blogs.ca.com/2016/03/10/stop-running-on-the-endless-workload-systems-treadmill/</link>
+            <guid isPermaLink="false">31f5e550-d7fd-4cb9-a008-8c115baa33d5</guid>
+            <pubDate>Fri, 11 Mar 2016 17:05:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://imgs.xkcd.com/comics/universal_install_script.png">]]></description>
@@ -68,13 +75,6 @@
             <link>http://techbeacon.com/using-devops-app-agility-rethink-how-you-engage-customers</link>
             <guid isPermaLink="false">1d65ba23-a113-4b08-9d32-d76fe0151d2b</guid>
             <pubDate>Thu, 03 Mar 2016 21:19:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Career makeover: From ops to devops]]></title>
-            <description><![CDATA[<article><h1>Career makeover: From ops to devops</h1><p>Long ago, in a IT operations model far, far away, businesses built their data centers. Rows and rows of server racks humming away in closets tangled with cables -- that was IT's lifeblood. It was a time when virtualization meant that thing a couple of gung-ho admins toyed with on an old HP DL360 server destined for the garbage bin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7524aa25306f375e974afa30d4f0337cce5ca315.jpg"></article>]]></description>
-            <link>http://www.infoworld.com/article/3038324/devops/career-makeover-from-ops-to-devops.html</link>
-            <guid isPermaLink="false">68e080c2-518a-4612-bcdb-e82cd6869438</guid>
-            <pubDate>Thu, 03 Mar 2016 19:14:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
