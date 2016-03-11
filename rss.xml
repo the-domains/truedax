@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 17:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 18:52:59 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Bulletproof DevOps Strategy to Ensure Success in the Cloud]]></title>
+            <description><![CDATA[<article><h1>A Bulletproof DevOps Strategy to Ensure Success in the Cloud</h1><p>DevOps and cloud computing are linked. This fact is well understood by organizations that stand up SaaS clouds or build applications in the cloud. The core component of this relationship is value through agility. DevOps provides the automation behind agile methods. Traditional target platforms require weeks or months of planning for the hardware and software required.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a992ac3ebe822ebb77a7940db087d5694a0e0f5.jpg"></article>]]></description>
+            <link>http://www.cloudtp.com/2016/03/09/bulletproof-devops-strategy-ensure-success-cloud/</link>
+            <guid isPermaLink="false">9862dbd3-bd26-474f-b20b-f278881c0155</guid>
+            <pubDate>Fri, 11 Mar 2016 18:52:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stop running on the endless workload systems treadmill]]></title>
             <description><![CDATA[<article><h1>Stop running on the endless workload systems treadmill</h1><p>When it comes to your company's workload, do you sometimes get the feeling like you're running on a non-stop treadmill? Scheduling multiple jobs for multiple applications with multiple views into how everything's working? Making the jump from homegrown systems to an enterprise-grade workload automation system can be a big leap for IT organizations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f287e4e273b5e0ce7c48d5cb3f5330871735db29.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.computing.co.uk/ctg/news/2449569/is-devops-just-a-re-branding-of-ops</link>
             <guid isPermaLink="false">6f76b046-b0cd-46b7-83fa-66a144e17ea1</guid>
             <pubDate>Sat, 05 Mar 2016 15:01:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using DevOps, app agility to rethink how you engage with customers]]></title>
-            <description><![CDATA[<article><h1>Using DevOps, app agility to rethink how you engage with customers</h1><p>In my last article, I talked about how cloud computing IT organizations to restructure the application life cycle to leverage agile development, quality assurance, artifacts, and operations. Cloud computing has reset expectations with regard to how fast applications should be delivered, DevOps is key, and only by re-examining every part of how IT does its business can your organization move at the speed of cloud.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/beeec12aeda2b668955013813e792ecdcaaee4a1.jpg"></article>]]></description>
-            <link>http://techbeacon.com/using-devops-app-agility-rethink-how-you-engage-customers</link>
-            <guid isPermaLink="false">1d65ba23-a113-4b08-9d32-d76fe0151d2b</guid>
-            <pubDate>Thu, 03 Mar 2016 21:19:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
