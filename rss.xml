@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 17:54:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 17:57:14 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Coffee Shop DevOps: Start small, but start somewhere]]></title>
+            <description><![CDATA[<article><h1>Coffee Shop DevOps: Start small, but start somewhere</h1><p>I was recently talking to an engineer friend of mine over of a cup of coffee at a conference. His company had been in "DevOps strategy planning" for over six months and they had settled on the task of automating the delivery of their software.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f2e649e260801cc8b5f335e95acd827e2ef999c.png"></article>]]></description>
+            <link>https://opensource.com/business/16/3/coffee-shop-devops-start-small-start-somewhere</link>
+            <guid isPermaLink="false">b0b469d3-1cf7-4935-b808-255279ff6573</guid>
+            <pubDate>Tue, 15 Mar 2016 17:57:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Can DevOps and ITIL co-exist? A story of two IT service philosophies: | ZDNet]]></title>
-            <description><![CDATA[<article><h1>Can DevOps and ITIL co-exist? A story of two IT service philosophies: | ZDNet</h1><p>Can ITIL and DevOps co-exist? That's the question recently put forth by Gareth Daine, who quizzed some 25 industry experts and observers on whether the two methodologies clash, or are compatible. ITIL, originally known as Information Technology Infrastructure Library, is a set of best practices which recognize and certify that IT functions are delivered as tangible services to organizations.</p><img src="http://zdnet1.cbsistatic.com/hub/i/r/2016/03/15/347644e9-199a-4064-97fe-ca99fa081c8e/thumbnail/770x578/552b265243476299356561c423bba06e/designs-from-cebit-cropped-march-2016-photo-by-joe-mckendrick.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Can DevOps and ITIL co-exist? A story of two IT service philosophies: | ZDNet</h1><p>Can ITIL and DevOps co-exist? That's the question recently put forth by Gareth Daine, who quizzed some 25 industry experts and observers on whether the two methodologies clash, or are compatible. ITIL, originally known as Information Technology Infrastructure Library, is a set of best practices which recognize and certify that IT functions are delivered as tangible services to organizations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d389adb0be084d14f241a7f688b943870a6db46b.jpg"></article>]]></description>
             <link>http://www.zdnet.com/article/can-devops-and-itil-co-exist-a-story-of-two-it-service-philosophies/</link>
             <guid isPermaLink="false">8a3e8557-2f96-4784-bbde-0f008415e452</guid>
             <pubDate>Tue, 15 Mar 2016 17:54:34 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://puppetlabs.com/blog/devops-good-your-operations-team?ccn=integrated-devops-2016&amp;cid=701G0000001Z87s&amp;ls=social-media&amp;pub=twitter</link>
             <guid isPermaLink="false">7ab66f75-793f-417d-b8e7-cb6609319e7f</guid>
             <pubDate>Sat, 05 Mar 2016 15:02:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What's up with Open Source Technology in 2016]]></title>
-            <description><![CDATA[<article><h1>What's up with Open Source Technology in 2016</h1><p>I've recently had the opportunity to give talks at two open source conferences. At both events my topic was the tools and strategies the OpenStack® project's Infrastructure team uses to collaborate online. The first conference was the 14th Annual Southern California Linux Expo (SCALE 14x) in Pasaden...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7822c722d2c4ec0047ec83bf00f01e64aadcb2cc.jpg"></article>]]></description>
-            <link>http://community.hpe.com/t5/Grounded-in-the-Cloud/What-s-up-with-Open-Source-Technology-in-2016/ba-p/6838703#.VtrxUnNyjqB</link>
-            <guid isPermaLink="false">370748ee-7acd-47c1-b16d-b47875aba87f</guid>
-            <pubDate>Sat, 05 Mar 2016 15:02:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
