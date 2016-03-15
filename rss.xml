@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 18:52:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 17:54:58 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Can DevOps and ITIL co-exist? A story of two IT service philosophies: | ZDNet]]></title>
+            <description><![CDATA[<article><h1>Can DevOps and ITIL co-exist? A story of two IT service philosophies: | ZDNet</h1><p>Can ITIL and DevOps co-exist? That's the question recently put forth by Gareth Daine, who quizzed some 25 industry experts and observers on whether the two methodologies clash, or are compatible. ITIL, originally known as Information Technology Infrastructure Library, is a set of best practices which recognize and certify that IT functions are delivered as tangible services to organizations.</p><img src="http://zdnet1.cbsistatic.com/hub/i/r/2016/03/15/347644e9-199a-4064-97fe-ca99fa081c8e/thumbnail/770x578/552b265243476299356561c423bba06e/designs-from-cebit-cropped-march-2016-photo-by-joe-mckendrick.jpg"></article>]]></description>
+            <link>http://www.zdnet.com/article/can-devops-and-itil-co-exist-a-story-of-two-it-service-philosophies/</link>
+            <guid isPermaLink="false">8a3e8557-2f96-4784-bbde-0f008415e452</guid>
+            <pubDate>Tue, 15 Mar 2016 17:54:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Bulletproof DevOps Strategy to Ensure Success in the Cloud]]></title>
             <description><![CDATA[<article><h1>A Bulletproof DevOps Strategy to Ensure Success in the Cloud</h1><p>DevOps and cloud computing are linked. This fact is well understood by organizations that stand up SaaS clouds or build applications in the cloud. The core component of this relationship is value through agility. DevOps provides the automation behind agile methods. Traditional target platforms require weeks or months of planning for the hardware and software required.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a992ac3ebe822ebb77a7940db087d5694a0e0f5.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://community.hpe.com/t5/Grounded-in-the-Cloud/What-s-up-with-Open-Source-Technology-in-2016/ba-p/6838703#.VtrxUnNyjqB</link>
             <guid isPermaLink="false">370748ee-7acd-47c1-b16d-b47875aba87f</guid>
             <pubDate>Sat, 05 Mar 2016 15:02:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is DevOps just a 're-branding' of ops?]]></title>
-            <description><![CDATA[<article><h1>Is DevOps just a 're-branding' of ops?</h1><p>Interest in DevOps is intense, but have the roles and responsibilities, even within organisations that have adopted it, really changed? "Plus ça change, plus c'est la même chose," goes the old saying - the more things change, the more they stay the same.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9043a891d4fd1b176dbd99aa712438d1729ab159.png"></article>]]></description>
-            <link>http://www.computing.co.uk/ctg/news/2449569/is-devops-just-a-re-branding-of-ops</link>
-            <guid isPermaLink="false">6f76b046-b0cd-46b7-83fa-66a144e17ea1</guid>
-            <pubDate>Sat, 05 Mar 2016 15:01:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
