@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 17:57:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 06:01:59 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[30 Must-Have Tools to Support DevOps - Part 1 | DEVOPSdigest]]></title>
+            <description><![CDATA[<article><h1>30 Must-Have Tools to Support DevOps - Part 1 | DEVOPSdigest</h1><p>DEVOPSdigest asked experts from across the industry for their recommendation on a key technology required for DevOps. According to the many experts who have contributed their opinions to this massive 5-part list, the DevOps toolkit includes a wide range of both traditional and cutting edge technologies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc3e21595a71d01f92168d5ec02054330d668fad.jpg"></article>]]></description>
+            <link>http://www.devopsdigest.com/30-devops-tools-1</link>
+            <guid isPermaLink="false">5c52753a-8ab0-43c0-a4ff-0e260570e6d9</guid>
+            <pubDate>Wed, 16 Mar 2016 06:01:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Coffee Shop DevOps: Start small, but start somewhere]]></title>
             <description><![CDATA[<article><h1>Coffee Shop DevOps: Start small, but start somewhere</h1><p>I was recently talking to an engineer friend of mine over of a cup of coffee at a conference. His company had been in "DevOps strategy planning" for over six months and they had settled on the task of automating the delivery of their software.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f2e649e260801cc8b5f335e95acd827e2ef999c.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://logz.io/blog/devops-tools/</link>
             <guid isPermaLink="false">6ee9ccd0-eb96-4dee-b55a-c4b9d7b703f8</guid>
             <pubDate>Sat, 05 Mar 2016 15:02:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DevOps is good for your operations team]]></title>
-            <description><![CDATA[<article><h1>DevOps is good for your operations team</h1><p>If you're managing IT operations, you've heard that DevOps has the power to help IT move faster, scale up quickly with less pain, and boost efficiency. Now you may be thinking about how DevOps might help you and your team cope with the increasing pace and quantity of work coming your way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3fda666805ae50311066a593365c0717050b67d.png"></article>]]></description>
-            <link>https://puppetlabs.com/blog/devops-good-your-operations-team?ccn=integrated-devops-2016&amp;cid=701G0000001Z87s&amp;ls=social-media&amp;pub=twitter</link>
-            <guid isPermaLink="false">7ab66f75-793f-417d-b8e7-cb6609319e7f</guid>
-            <pubDate>Sat, 05 Mar 2016 15:02:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
