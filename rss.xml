@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 06:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 06:02:39 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DEVOPSdigest]]></title>
+            <description><![CDATA[<article><h1>DEVOPSdigest</h1><p>DEVOPSdigest asked experts from across the industry for their recommendation on a key technology required for DevOps. Part 2 of the list covers automation and continuous integration. Start with 30 Must-Have Tools to Support DevOps - Part 1 Check back tomorrow for 30 Must-Have Tools to Support DevOps - Part 3, covering continuous delivery.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc3e21595a71d01f92168d5ec02054330d668fad.jpg"></article>]]></description>
+            <link>http://www.devopsdigest.com/30-devops-tools-2</link>
+            <guid isPermaLink="false">b662e62f-ec66-481a-9b8a-0aa2f967973b</guid>
+            <pubDate>Wed, 16 Mar 2016 06:01:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[30 Must-Have Tools to Support DevOps - Part 1 | DEVOPSdigest]]></title>
             <description><![CDATA[<article><h1>30 Must-Have Tools to Support DevOps - Part 1 | DEVOPSdigest</h1><p>DEVOPSdigest asked experts from across the industry for their recommendation on a key technology required for DevOps. According to the many experts who have contributed their opinions to this massive 5-part list, the DevOps toolkit includes a wide range of both traditional and cutting edge technologies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc3e21595a71d01f92168d5ec02054330d668fad.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://blog.sixeyed.com/run-gitlab-on-a-usb-stick-with-docker/</link>
             <guid isPermaLink="false">a4882e72-0312-4a69-ab22-ed87e1aa5418</guid>
             <pubDate>Wed, 09 Mar 2016 19:08:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[14 Open Source DevOps Tools We Use in Production - Logz.io]]></title>
-            <description><![CDATA[<article><h1>14 Open Source DevOps Tools We Use in Production - Logz.io</h1><p>We at Logz.io are an open source analytics company that develops Big Data technology around log data, and some of the challenges that we face are the same challenges that all next-generation, DevOps-driven organizations face. How do we manage our source code? How do we do continuous deployment?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee7130ae07cbec14e50381fb542f44989976ccb6.jpg"></article>]]></description>
-            <link>http://logz.io/blog/devops-tools/</link>
-            <guid isPermaLink="false">6ee9ccd0-eb96-4dee-b55a-c4b9d7b703f8</guid>
-            <pubDate>Sat, 05 Mar 2016 15:02:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
