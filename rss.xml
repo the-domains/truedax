@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 15:35:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 16:54:54 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Software automation and AI in DevOps aren't the fast track to Skynet]]></title>
+            <description><![CDATA[<article><h1>Software automation and AI in DevOps aren't the fast track to Skynet</h1><p>Software automation is becoming intelligent, going deep into systems and is even going "autonomic" and helping create self-healing systems. If we engineer too much automation into our new notion of intelligently provisioned DevOps, then are we at risk of breaking the Internet and causing global nuclear meltdown?</p><img src="https://regmedia.co.uk/2015/09/25/terminator_3.jpg?x=1200&y=794"></article>]]></description>
+            <link>http://www.theregister.co.uk/2016/03/29/dev_ops_robots_to_destroy_the_earth/</link>
+            <guid isPermaLink="false">9ca753e7-ec72-40e5-a985-f976add56a47</guid>
+            <pubDate>Tue, 29 Mar 2016 16:54:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[An Orchestrated Puppet Infrastucture with Docker and Rancher - Camptocamp]]></title>
-            <description><![CDATA[<article><h1>An Orchestrated Puppet Infrastucture with Docker and Rancher - Camptocamp</h1><p>Docker is changing the face of code packaging, delivery and infrastructure. While we have used Docker heavily for testing purposes for over a year now, using it to host production is yet another step. For us at Camptocamp, we seized that opportunity to move our whole Puppet infrastructure on top of Docker, with the help of the Rancher orchestrator.</p><img src="http://www.camptocamp.com/wp-content/uploads/puppet-rancher_150-550x354.png"></article>]]></description>
+            <description><![CDATA[<article><h1>An Orchestrated Puppet Infrastucture with Docker and Rancher - Camptocamp</h1><p>Docker is changing the face of code packaging, delivery and infrastructure. While we have used Docker heavily for testing purposes for over a year now, using it to host production is yet another step. For us at Camptocamp, we seized that opportunity to move our whole Puppet infrastructure on top of Docker, with the help of the Rancher orchestrator.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d17a420df385c1987c9a4145244594e099a107c.png"></article>]]></description>
             <link>http://www.camptocamp.com/en/actualite/an-orchestrated-puppet-infrastucture-with-docker-and-rancher/</link>
             <guid isPermaLink="false">a6e1df50-3588-454d-a567-f221c2033f29</guid>
             <pubDate>Wed, 23 Mar 2016 15:34:18 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://techblog.netflix.com/2016/03/how-we-build-code-at-netflix.html</link>
             <guid isPermaLink="false">5f88f2bd-304b-4815-900b-3754ea1ce8b4</guid>
             <pubDate>Thu, 10 Mar 2016 21:30:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Go DevOps before your bosses force you to. It'll be easier that way]]></title>
-            <description><![CDATA[<article><h1>Go DevOps before your bosses force you to. It'll be easier that way</h1><p>Some people are making very bold claims about what DevOps can deliver. Here's one: "High-performing IT organizations deploy 30x more frequently with 200x shorter lead times; they have 60x fewer failures and recover 168x faster," according to the first bullet point of the 2015 annual Puppet Labs State of DevOps report.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd8903f2377fba503a3c601650b28a727a91f378.jpg"></article>]]></description>
-            <link>http://www.theregister.co.uk/2016/03/09/making_sure_your_bosses_get_devops/</link>
-            <guid isPermaLink="false">b8787918-503b-465b-9456-d9e8211e87cc</guid>
-            <pubDate>Thu, 10 Mar 2016 21:26:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
