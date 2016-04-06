@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 17:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 19:35:51 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Here's How Google Makes Sure It (Almost) Never Goes Down]]></title>
+            <description><![CDATA[<article><h1>Here's How Google Makes Sure It (Almost) Never Goes Down</h1><p>When was the last time you needed to Google something and Google wasn't there? Odds are, you don't remember that ever happening. Sure, there are times when you can't reach Google because your internet connection is down. But Google's primary online services, from its search engine to Gmail to Google Docs and more, are nearly always accessible.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/330bb92e2245c8180971ed4428609f8d45974614.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/04/google-ensures-services-almost-never-go/</link>
+            <guid isPermaLink="false">ae82914c-874c-4966-84a1-7cd5e73e66cd</guid>
+            <pubDate>Wed, 06 Apr 2016 19:34:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Wanna be a DevOps expert? You'll have to be a Red Hat expert first...]]></title>
-            <description><![CDATA[<article><h1>Wanna be a DevOps expert? You'll have to be a Red Hat expert first...</h1><p>Red Hat has thrown out a slew of new qualifications it promises will show your DevOps chops - at least when it comes to its technologies and those of a few chosen partners.</p><img src="https://regmedia.co.uk/2015/06/23/red_hat_648.jpg?x=1200&y=794"></article>]]></description>
+            <description><![CDATA[<article><h1>Wanna be a DevOps expert? You'll have to be a Red Hat expert first...</h1><p>Red Hat has thrown out a slew of new qualifications it promises will show your DevOps chops - at least when it comes to its technologies and those of a few chosen partners.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92182d48af923990970c79481d2529ad5ab449a7.jpg"></article>]]></description>
             <link>http://www.theregister.co.uk/2016/04/06/red_hat_devops_training/</link>
             <guid isPermaLink="false">1ee1b16e-277b-4742-aa53-133fda1964c4</guid>
             <pubDate>Wed, 06 Apr 2016 17:10:33 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://blogs.ca.com/2016/03/10/stop-running-on-the-endless-workload-systems-treadmill/</link>
             <guid isPermaLink="false">31f5e550-d7fd-4cb9-a008-8c115baa33d5</guid>
             <pubDate>Fri, 11 Mar 2016 17:05:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://imgs.xkcd.com/comics/universal_install_script.png">]]></description>
-            <link>http://xkcd.com/1654/</link>
-            <guid isPermaLink="false">8b186ba4-c2a5-4fb9-b6db-4b1e33d79654</guid>
-            <pubDate>Fri, 11 Mar 2016 17:12:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
