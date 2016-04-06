@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 16:54:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 17:11:56 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Wanna be a DevOps expert? You'll have to be a Red Hat expert first...]]></title>
+            <description><![CDATA[<article><h1>Wanna be a DevOps expert? You'll have to be a Red Hat expert first...</h1><p>Red Hat has thrown out a slew of new qualifications it promises will show your DevOps chops - at least when it comes to its technologies and those of a few chosen partners.</p><img src="https://regmedia.co.uk/2015/06/23/red_hat_648.jpg?x=1200&y=794"></article>]]></description>
+            <link>http://www.theregister.co.uk/2016/04/06/red_hat_devops_training/</link>
+            <guid isPermaLink="false">1ee1b16e-277b-4742-aa53-133fda1964c4</guid>
+            <pubDate>Wed, 06 Apr 2016 17:10:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Software automation and AI in DevOps aren't the fast track to Skynet]]></title>
-            <description><![CDATA[<article><h1>Software automation and AI in DevOps aren't the fast track to Skynet</h1><p>Software automation is becoming intelligent, going deep into systems and is even going "autonomic" and helping create self-healing systems. If we engineer too much automation into our new notion of intelligently provisioned DevOps, then are we at risk of breaking the Internet and causing global nuclear meltdown?</p><img src="https://regmedia.co.uk/2015/09/25/terminator_3.jpg?x=1200&y=794"></article>]]></description>
+            <description><![CDATA[<article><h1>Software automation and AI in DevOps aren't the fast track to Skynet</h1><p>Software automation is becoming intelligent, going deep into systems and is even going "autonomic" and helping create self-healing systems. If we engineer too much automation into our new notion of intelligently provisioned DevOps, then are we at risk of breaking the Internet and causing global nuclear meltdown?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c833952ad8b22a57a52d40dc852180ab08f4d36.jpg"></article>]]></description>
             <link>http://www.theregister.co.uk/2016/03/29/dev_ops_robots_to_destroy_the_earth/</link>
             <guid isPermaLink="false">9ca753e7-ec72-40e5-a985-f976add56a47</guid>
             <pubDate>Tue, 29 Mar 2016 16:54:14 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://xkcd.com/1654/</link>
             <guid isPermaLink="false">8b186ba4-c2a5-4fb9-b6db-4b1e33d79654</guid>
             <pubDate>Fri, 11 Mar 2016 17:12:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Netflix Tech Blog: How We Build Code at Netflix]]></title>
-            <description><![CDATA[<article><h1>The Netflix Tech Blog: How We Build Code at Netflix</h1><p>How does Netflix build code before it's deployed to the cloud? While pieces of this story have been told in the past, we decided it was time we shared more details. In this post, we describe the tools and techniques used to go from source code to a deployed service serving movies and TV shows to more than 75 million global Netflix members.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29dccf8de389b3dfd24560248de16e574db86d82.jpg"></article>]]></description>
-            <link>http://techblog.netflix.com/2016/03/how-we-build-code-at-netflix.html</link>
-            <guid isPermaLink="false">5f88f2bd-304b-4815-900b-3754ea1ce8b4</guid>
-            <pubDate>Thu, 10 Mar 2016 21:30:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
