@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 19:35:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 18:12:17 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Linux is so grown up, it's ready for marriage with containers]]></title>
+            <description><![CDATA[<article><h1>Linux is so grown up, it's ready for marriage with containers</h1><p>Linux is all grown up. It has nothing left to prove. There's never been a year of the Linux desktop and there probably never will be, but it runs on the majority of the world's servers. It never took over the desktop, it did an end-run around it: there are more Linux-based client devices accessing those servers than there are Windows boxes.</p><img src="https://regmedia.co.uk/2016/03/15/penguin_wedding_cake_image_via_shutterstock.jpg?x=1200&y=794"></article>]]></description>
+            <link>http://www.theregister.co.uk/2016/04/07/containers_and_linux/</link>
+            <guid isPermaLink="false">333b0ef7-0d94-4559-b92f-f261c4cebab5</guid>
+            <pubDate>Thu, 07 Apr 2016 18:11:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Here's How Google Makes Sure It (Almost) Never Goes Down]]></title>
             <description><![CDATA[<article><h1>Here's How Google Makes Sure It (Almost) Never Goes Down</h1><p>When was the last time you needed to Google something and Google wasn't there? Odds are, you don't remember that ever happening. Sure, there are times when you can't reach Google because your internet connection is down. But Google's primary online services, from its search engine to Gmail to Google Docs and more, are nearly always accessible.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/330bb92e2245c8180971ed4428609f8d45974614.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.cloudtp.com/2016/03/09/bulletproof-devops-strategy-ensure-success-cloud/</link>
             <guid isPermaLink="false">9862dbd3-bd26-474f-b20b-f278881c0155</guid>
             <pubDate>Fri, 11 Mar 2016 18:52:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stop running on the endless workload systems treadmill]]></title>
-            <description><![CDATA[<article><h1>Stop running on the endless workload systems treadmill</h1><p>When it comes to your company's workload, do you sometimes get the feeling like you're running on a non-stop treadmill? Scheduling multiple jobs for multiple applications with multiple views into how everything's working? Making the jump from homegrown systems to an enterprise-grade workload automation system can be a big leap for IT organizations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f287e4e273b5e0ce7c48d5cb3f5330871735db29.jpg"></article>]]></description>
-            <link>http://blogs.ca.com/2016/03/10/stop-running-on-the-endless-workload-systems-treadmill/</link>
-            <guid isPermaLink="false">31f5e550-d7fd-4cb9-a008-8c115baa33d5</guid>
-            <pubDate>Fri, 11 Mar 2016 17:05:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
