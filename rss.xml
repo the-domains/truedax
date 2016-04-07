@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 18:27:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 21:40:02 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Managed services killed DevOps]]></title>
+            <description><![CDATA[<article><h1>Managed services killed DevOps</h1><p>DevOps, as we know it, is dead. Perhaps not many people agree with me, but the age of DevOps is just about over. Then again, perhaps this won't come as a surprise to some. While certain industries somehow manage to survive for years - decades, perhaps - without needing to make fundamental changes, that's absolutely not the case in the software world.</p><img src="https://tctechcrunch2011.files.wordpress.com/2015/01/code.jpg?w=764&h=400&crop=1"></article>]]></description>
+            <link>http://techcrunch.com/2016/04/07/devops-is-dead-long-live-devops/</link>
+            <guid isPermaLink="false">8e037063-362c-4d1e-afa1-e34c07dbeec3</guid>
+            <pubDate>Thu, 07 Apr 2016 21:38:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The next evolution of enterprise devops is to harden it]]></title>
-            <description><![CDATA[<article><h1>The next evolution of enterprise devops is to harden it</h1><p>In today's digital age, business innovation is largely driven by software. To win, serve, and retain their customers, enterprises must release application updates at an increasingly faster pace. A great idea, killer functionality and a robust technology are all as important as ever, but they don't mean much if you can't get your code to your end users in a fast, predictable manner with high quality.</p><img src="http://images.techhive.com/images/article/2016/03/itproportal-100653307-primary.idge.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The next evolution of enterprise devops is to harden it</h1><p>In today's digital age, business innovation is largely driven by software. To win, serve, and retain their customers, enterprises must release application updates at an increasingly faster pace. A great idea, killer functionality and a robust technology are all as important as ever, but they don't mean much if you can't get your code to your end users in a fast, predictable manner with high quality.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfc871199d040ddbfc122ec707bca81ef99f2cab.jpg"></article>]]></description>
             <link>http://www.infoworld.com/article/3049995/devops/the-next-evolution-of-enterprise-devops-is-to-harden-it.html</link>
             <guid isPermaLink="false">cb9f943f-5daa-457e-8a1f-4d6960d5a84f</guid>
             <pubDate>Thu, 07 Apr 2016 18:26:08 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://opensource.com/business/16/3/coffee-shop-devops-start-small-start-somewhere</link>
             <guid isPermaLink="false">b0b469d3-1cf7-4935-b808-255279ff6573</guid>
             <pubDate>Tue, 15 Mar 2016 17:57:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can DevOps and ITIL co-exist? A story of two IT service philosophies: | ZDNet]]></title>
-            <description><![CDATA[<article><h1>Can DevOps and ITIL co-exist? A story of two IT service philosophies: | ZDNet</h1><p>Can ITIL and DevOps co-exist? That's the question recently put forth by Gareth Daine, who quizzed some 25 industry experts and observers on whether the two methodologies clash, or are compatible. ITIL, originally known as Information Technology Infrastructure Library, is a set of best practices which recognize and certify that IT functions are delivered as tangible services to organizations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d389adb0be084d14f241a7f688b943870a6db46b.jpg"></article>]]></description>
-            <link>http://www.zdnet.com/article/can-devops-and-itil-co-exist-a-story-of-two-it-service-philosophies/</link>
-            <guid isPermaLink="false">8a3e8557-2f96-4784-bbde-0f008415e452</guid>
-            <pubDate>Tue, 15 Mar 2016 17:54:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
