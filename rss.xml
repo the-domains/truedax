@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 18:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 18:27:13 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[The next evolution of enterprise devops is to harden it]]></title>
+            <description><![CDATA[<article><h1>The next evolution of enterprise devops is to harden it</h1><p>In today's digital age, business innovation is largely driven by software. To win, serve, and retain their customers, enterprises must release application updates at an increasingly faster pace. A great idea, killer functionality and a robust technology are all as important as ever, but they don't mean much if you can't get your code to your end users in a fast, predictable manner with high quality.</p><img src="http://images.techhive.com/images/article/2016/03/itproportal-100653307-primary.idge.jpg"></article>]]></description>
+            <link>http://www.infoworld.com/article/3049995/devops/the-next-evolution-of-enterprise-devops-is-to-harden-it.html</link>
+            <guid isPermaLink="false">cb9f943f-5daa-457e-8a1f-4d6960d5a84f</guid>
+            <pubDate>Thu, 07 Apr 2016 18:26:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Linux is so grown up, it's ready for marriage with containers]]></title>
-            <description><![CDATA[<article><h1>Linux is so grown up, it's ready for marriage with containers</h1><p>Linux is all grown up. It has nothing left to prove. There's never been a year of the Linux desktop and there probably never will be, but it runs on the majority of the world's servers. It never took over the desktop, it did an end-run around it: there are more Linux-based client devices accessing those servers than there are Windows boxes.</p><img src="https://regmedia.co.uk/2016/03/15/penguin_wedding_cake_image_via_shutterstock.jpg?x=1200&y=794"></article>]]></description>
+            <description><![CDATA[<article><h1>Linux is so grown up, it's ready for marriage with containers</h1><p>Linux is all grown up. It has nothing left to prove. There's never been a year of the Linux desktop and there probably never will be, but it runs on the majority of the world's servers. It never took over the desktop, it did an end-run around it: there are more Linux-based client devices accessing those servers than there are Windows boxes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60e90f515bf5eef83d0362a121bcdecafca63f2e.jpg"></article>]]></description>
             <link>http://www.theregister.co.uk/2016/04/07/containers_and_linux/</link>
             <guid isPermaLink="false">333b0ef7-0d94-4559-b92f-f261c4cebab5</guid>
             <pubDate>Thu, 07 Apr 2016 18:11:08 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.zdnet.com/article/can-devops-and-itil-co-exist-a-story-of-two-it-service-philosophies/</link>
             <guid isPermaLink="false">8a3e8557-2f96-4784-bbde-0f008415e452</guid>
             <pubDate>Tue, 15 Mar 2016 17:54:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Bulletproof DevOps Strategy to Ensure Success in the Cloud]]></title>
-            <description><![CDATA[<article><h1>A Bulletproof DevOps Strategy to Ensure Success in the Cloud</h1><p>DevOps and cloud computing are linked. This fact is well understood by organizations that stand up SaaS clouds or build applications in the cloud. The core component of this relationship is value through agility. DevOps provides the automation behind agile methods. Traditional target platforms require weeks or months of planning for the hardware and software required.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a992ac3ebe822ebb77a7940db087d5694a0e0f5.jpg"></article>]]></description>
-            <link>http://www.cloudtp.com/2016/03/09/bulletproof-devops-strategy-ensure-success-cloud/</link>
-            <guid isPermaLink="false">9862dbd3-bd26-474f-b20b-f278881c0155</guid>
-            <pubDate>Fri, 11 Mar 2016 18:52:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
