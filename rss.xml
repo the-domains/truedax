@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 21:40:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 16:15:34 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[22 insults no developer wants to hear]]></title>
+            <description><![CDATA[<article><h1>22 insults no developer wants to hear</h1><p>The technology world is a bit different than the pretty, coiffed world of suits and salesdroids where everyone is polite, even when they hate your guts and think you're an idiot. Suit-clad managers may smile and hide their real message by the way they say you're doing "great, real great pal," but programmers often speak their minds, and when that mind has something unpleasant to say, look out, feelings.</p><img src="http://images.techhive.com/images/article/2016/04/1448178195_bff4bcd6c2_b-100654347-primary.idge.jpg"></article>]]></description>
+            <link>http://www.infoworld.com/article/3051626/application-development/22-insults-no-developer-wants-to-hear.html</link>
+            <guid isPermaLink="false">89ff52ea-2b2e-48ec-920a-581e83724f5d</guid>
+            <pubDate>Tue, 12 Apr 2016 16:15:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Managed services killed DevOps]]></title>
-            <description><![CDATA[<article><h1>Managed services killed DevOps</h1><p>DevOps, as we know it, is dead. Perhaps not many people agree with me, but the age of DevOps is just about over. Then again, perhaps this won't come as a surprise to some. While certain industries somehow manage to survive for years - decades, perhaps - without needing to make fundamental changes, that's absolutely not the case in the software world.</p><img src="https://tctechcrunch2011.files.wordpress.com/2015/01/code.jpg?w=764&h=400&crop=1"></article>]]></description>
+            <description><![CDATA[<article><h1>Managed services killed DevOps</h1><p>DevOps, as we know it, is dead. Perhaps not many people agree with me, but the age of DevOps is just about over. Then again, perhaps this won't come as a surprise to some. While certain industries somehow manage to survive for years - decades, perhaps - without needing to make fundamental changes, that's absolutely not the case in the software world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8c0fe86cf43e3e3156d0539903c60df1372dd26.jpg"></article>]]></description>
             <link>http://techcrunch.com/2016/04/07/devops-is-dead-long-live-devops/</link>
             <guid isPermaLink="false">8e037063-362c-4d1e-afa1-e34c07dbeec3</guid>
             <pubDate>Thu, 07 Apr 2016 21:38:21 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.devopsdigest.com/30-devops-tools-1</link>
             <guid isPermaLink="false">5c52753a-8ab0-43c0-a4ff-0e260570e6d9</guid>
             <pubDate>Wed, 16 Mar 2016 06:01:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coffee Shop DevOps: Start small, but start somewhere]]></title>
-            <description><![CDATA[<article><h1>Coffee Shop DevOps: Start small, but start somewhere</h1><p>I was recently talking to an engineer friend of mine over of a cup of coffee at a conference. His company had been in "DevOps strategy planning" for over six months and they had settled on the task of automating the delivery of their software.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f2e649e260801cc8b5f335e95acd827e2ef999c.png"></article>]]></description>
-            <link>https://opensource.com/business/16/3/coffee-shop-devops-start-small-start-somewhere</link>
-            <guid isPermaLink="false">b0b469d3-1cf7-4935-b808-255279ff6573</guid>
-            <pubDate>Tue, 15 Mar 2016 17:57:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
