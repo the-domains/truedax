@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 16:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 16:01:24 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Deploying GoCD using Docker Compose on Rancher]]></title>
+            <description><![CDATA[<article><h1>Deploying GoCD using Docker Compose on Rancher</h1><p>Raul Sanchez is a microservices and Dev0ps architect in the innovation department at BBVA, exploring new technologies, bringing them to the company and the production lifecycle. In his spare time, he is a developer who collaborates on open source projects. He's spent more than 20 years working on GNU/Linux and unix systems in different areas and sectors.</p><img src="http://cdn.rancher.com/wp-content/uploads/2016/04/06174916/Liebana-gocd-1-1024x534.png"></article>]]></description>
+            <link>http://rancher.com/deploying-gocd-using-docker-compose-on-rancher/</link>
+            <guid isPermaLink="false">25900525-2cd5-4a72-8f30-8bc2e4218009</guid>
+            <pubDate>Wed, 13 Apr 2016 16:01:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[22 insults no developer wants to hear]]></title>
-            <description><![CDATA[<article><h1>22 insults no developer wants to hear</h1><p>The technology world is a bit different than the pretty, coiffed world of suits and salesdroids where everyone is polite, even when they hate your guts and think you're an idiot. Suit-clad managers may smile and hide their real message by the way they say you're doing "great, real great pal," but programmers often speak their minds, and when that mind has something unpleasant to say, look out, feelings.</p><img src="http://images.techhive.com/images/article/2016/04/1448178195_bff4bcd6c2_b-100654347-primary.idge.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>22 insults no developer wants to hear</h1><p>The technology world is a bit different than the pretty, coiffed world of suits and salesdroids where everyone is polite, even when they hate your guts and think you're an idiot. Suit-clad managers may smile and hide their real message by the way they say you're doing "great, real great pal," but programmers often speak their minds, and when that mind has something unpleasant to say, look out, feelings.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/868f0cfe087642b6c2b1822efda9a0b969688985.jpg"></article>]]></description>
             <link>http://www.infoworld.com/article/3051626/application-development/22-insults-no-developer-wants-to-hear.html</link>
             <guid isPermaLink="false">89ff52ea-2b2e-48ec-920a-581e83724f5d</guid>
             <pubDate>Tue, 12 Apr 2016 16:15:27 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.devopsdigest.com/30-devops-tools-2</link>
             <guid isPermaLink="false">b662e62f-ec66-481a-9b8a-0aa2f967973b</guid>
             <pubDate>Wed, 16 Mar 2016 06:01:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[30 Must-Have Tools to Support DevOps - Part 1 | DEVOPSdigest]]></title>
-            <description><![CDATA[<article><h1>30 Must-Have Tools to Support DevOps - Part 1 | DEVOPSdigest</h1><p>DEVOPSdigest asked experts from across the industry for their recommendation on a key technology required for DevOps. According to the many experts who have contributed their opinions to this massive 5-part list, the DevOps toolkit includes a wide range of both traditional and cutting edge technologies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc3e21595a71d01f92168d5ec02054330d668fad.jpg"></article>]]></description>
-            <link>http://www.devopsdigest.com/30-devops-tools-1</link>
-            <guid isPermaLink="false">5c52753a-8ab0-43c0-a4ff-0e260570e6d9</guid>
-            <pubDate>Wed, 16 Mar 2016 06:01:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
