@@ -4,11 +4,25 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 16:01:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 16:06:18 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Continuous Deployment at Instagram]]></title>
+            <description><![CDATA[<article><h1>Continuous Deployment at Instagram</h1><p>At Instagram, we deploy our backend code 30-50 times a day... whenever engineers commit changes to master... with no human involvement in most cases. This may sound crazy, especially at our scale, but it works really well. This post talks about how we implemented this system and got it working smoothly.</p><img src="http://engineering.instagram.com/images/engsite/craft/og_image.jpg"></article>]]></description>
+            <link>http://engineering.instagram.com/posts/1125308487520335/continuous-deployment-at-instagram/</link>
+            <guid isPermaLink="false">a162e394-8c5b-4d60-9909-cb453f4cc9dc</guid>
+            <pubDate>Wed, 13 Apr 2016 16:05:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DevOps isn't just about the new: It's about cleaning up the old, too]]></title>
+            <description><![CDATA[<article><h1>DevOps isn't just about the new: It's about cleaning up the old, too</h1><p>As one of my coworkers used to say when confronted with The Latest Development Improvement Methodology: " Why don't you come down here and chum this stuff?" - except he used the language of a sailor. In trying to implement the latest breakfast cereal agenda, DevOps, one of the primary chumming tasks is dealing with all your "pre-DevOps" software and services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10e43ce3c57ea793c28d2308cabca7938a994285.jpg"></article>]]></description>
+            <link>http://www.theregister.co.uk/2016/04/12/land_the_legacy_big_fish/</link>
+            <guid isPermaLink="false">b3f743d0-030e-4920-9bdf-acac8e0281a0</guid>
+            <pubDate>Wed, 13 Apr 2016 16:04:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Deploying GoCD using Docker Compose on Rancher]]></title>
-            <description><![CDATA[<article><h1>Deploying GoCD using Docker Compose on Rancher</h1><p>Raul Sanchez is a microservices and Dev0ps architect in the innovation department at BBVA, exploring new technologies, bringing them to the company and the production lifecycle. In his spare time, he is a developer who collaborates on open source projects. He's spent more than 20 years working on GNU/Linux and unix systems in different areas and sectors.</p><img src="http://cdn.rancher.com/wp-content/uploads/2016/04/06174916/Liebana-gocd-1-1024x534.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Deploying GoCD using Docker Compose on Rancher</h1><p>Raul Sanchez is a microservices and Dev0ps architect in the innovation department at BBVA, exploring new technologies, bringing them to the company and the production lifecycle. In his spare time, he is a developer who collaborates on open source projects. He's spent more than 20 years working on GNU/Linux and unix systems in different areas and sectors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa2018893c97faf5a056052cb82126b285e39489.png"></article>]]></description>
             <link>http://rancher.com/deploying-gocd-using-docker-compose-on-rancher/</link>
             <guid isPermaLink="false">25900525-2cd5-4a72-8f30-8bc2e4218009</guid>
             <pubDate>Wed, 13 Apr 2016 16:01:17 GMT</pubDate>
@@ -61,20 +75,6 @@
             <link>http://www.theregister.co.uk/2016/03/29/dev_ops_robots_to_destroy_the_earth/</link>
             <guid isPermaLink="false">9ca753e7-ec72-40e5-a985-f976add56a47</guid>
             <pubDate>Tue, 29 Mar 2016 16:54:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An Orchestrated Puppet Infrastucture with Docker and Rancher - Camptocamp]]></title>
-            <description><![CDATA[<article><h1>An Orchestrated Puppet Infrastucture with Docker and Rancher - Camptocamp</h1><p>Docker is changing the face of code packaging, delivery and infrastructure. While we have used Docker heavily for testing purposes for over a year now, using it to host production is yet another step. For us at Camptocamp, we seized that opportunity to move our whole Puppet infrastructure on top of Docker, with the help of the Rancher orchestrator.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d17a420df385c1987c9a4145244594e099a107c.png"></article>]]></description>
-            <link>http://www.camptocamp.com/en/actualite/an-orchestrated-puppet-infrastucture-with-docker-and-rancher/</link>
-            <guid isPermaLink="false">a6e1df50-3588-454d-a567-f221c2033f29</guid>
-            <pubDate>Wed, 23 Mar 2016 15:34:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DEVOPSdigest]]></title>
-            <description><![CDATA[<article><h1>DEVOPSdigest</h1><p>DEVOPSdigest asked experts from across the industry for their recommendation on a key technology required for DevOps. Part 2 of the list covers automation and continuous integration. Start with 30 Must-Have Tools to Support DevOps - Part 1 Check back tomorrow for 30 Must-Have Tools to Support DevOps - Part 3, covering continuous delivery.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc3e21595a71d01f92168d5ec02054330d668fad.jpg"></article>]]></description>
-            <link>http://www.devopsdigest.com/30-devops-tools-2</link>
-            <guid isPermaLink="false">b662e62f-ec66-481a-9b8a-0aa2f967973b</guid>
-            <pubDate>Wed, 16 Mar 2016 06:01:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
