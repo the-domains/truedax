@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 16:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 21:21:18 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Security Think Tank: Allocate maintenance processes to each piece of key software]]></title>
+            <description><![CDATA[<article><h1>Security Think Tank: Allocate maintenance processes to each piece of key software</h1><p>Software developed and deployed to the internet today is built on the shoulders of giants. Even a simple " Hello World " web-page depends on hundreds of millions of lines of code. The surface area of modern systems is large.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2973f63f704029fb26a81e4ad7c03f10126d703.png"></article>]]></description>
+            <link>http://www.computerweekly.com/opinion/Security-Think-Tank-Allocate-maintenance-processes-to-each-piece-of-key-software</link>
+            <guid isPermaLink="false">f98a5859-b052-4d4b-b7c8-de44cfada392</guid>
+            <pubDate>Wed, 13 Apr 2016 21:21:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[HPE Is Moving to Microservices with Containers and Stackato - The New Stack]]></title>
-            <description><![CDATA[<article><h1>HPE Is Moving to Microservices with Containers and Stackato - The New Stack</h1><p>HPE practices what it preaches when it comes to cloud-native development, recently undertaking the task of migrating a set of monolithic information services applications to a microservice-based approach. "In many cases, we're actually using Stackato, Cloud Foundry, and Docker as the architectural principles that are underpinning those transformations.</p><img src="http://thenewstack.io/wp-content/uploads/2016/04/eucalyptus-flower-864518_640.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>HPE Is Moving to Microservices with Containers and Stackato - The New Stack</h1><p>HPE practices what it preaches when it comes to cloud-native development, recently undertaking the task of migrating a set of monolithic information services applications to a microservice-based approach. "In many cases, we're actually using Stackato, Cloud Foundry, and Docker as the architectural principles that are underpinning those transformations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/86ad8ff48ae0d6eb84a4783558ac935e7c263f35.jpg"></article>]]></description>
             <link>http://thenewstack.io/hpe-empowers-enterprise-developer-part-2-2/</link>
             <guid isPermaLink="false">84d36a65-ade6-4731-8dfa-1a700baaa874</guid>
             <pubDate>Wed, 13 Apr 2016 16:32:37 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.wired.com/2016/04/google-ensures-services-almost-never-go/</link>
             <guid isPermaLink="false">ae82914c-874c-4966-84a1-7cd5e73e66cd</guid>
             <pubDate>Wed, 06 Apr 2016 19:34:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wanna be a DevOps expert? You'll have to be a Red Hat expert first...]]></title>
-            <description><![CDATA[<article><h1>Wanna be a DevOps expert? You'll have to be a Red Hat expert first...</h1><p>Red Hat has thrown out a slew of new qualifications it promises will show your DevOps chops - at least when it comes to its technologies and those of a few chosen partners.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92182d48af923990970c79481d2529ad5ab449a7.jpg"></article>]]></description>
-            <link>http://www.theregister.co.uk/2016/04/06/red_hat_devops_training/</link>
-            <guid isPermaLink="false">1ee1b16e-277b-4742-aa53-133fda1964c4</guid>
-            <pubDate>Wed, 06 Apr 2016 17:10:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
