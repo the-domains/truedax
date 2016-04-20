@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 21:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 21:16:47 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Detecting the use of "curl | bash" server side]]></title>
+            <description><![CDATA[<article><h1>Detecting the use of "curl | bash" server side</h1><p>Published on by Installing software by piping from curl to bash is obviously a bad idea and a knowledgable user will most likely check the content first. So wouldn't it be great if a malicious payload would only render when piped to bash?</p><img src="https://www.idontplaydarts.com/images/tcpchart.png"></article>]]></description>
+            <link>https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/</link>
+            <guid isPermaLink="false">76fd1542-bae8-42aa-9b80-4c83bdd8b374</guid>
+            <pubDate>Wed, 20 Apr 2016 21:15:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Security Think Tank: Allocate maintenance processes to each piece of key software]]></title>
-            <description><![CDATA[<article><h1>Security Think Tank: Allocate maintenance processes to each piece of key software</h1><p>Software developed and deployed to the internet today is built on the shoulders of giants. Even a simple " Hello World " web-page depends on hundreds of millions of lines of code. The surface area of modern systems is large.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2973f63f704029fb26a81e4ad7c03f10126d703.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Security Think Tank: Allocate maintenance processes to each piece of key software</h1><p>Software developed and deployed to the internet today is built on the shoulders of giants. Even a simple " Hello World " web-page depends on hundreds of millions of lines of code. The surface area of modern systems is large.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/310161c14bfc688cca5bfa77f96cbb3d0b75433b.png"></article>]]></description>
             <link>http://www.computerweekly.com/opinion/Security-Think-Tank-Allocate-maintenance-processes-to-each-piece-of-key-software</link>
             <guid isPermaLink="false">f98a5859-b052-4d4b-b7c8-de44cfada392</guid>
             <pubDate>Wed, 13 Apr 2016 21:21:16 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.theregister.co.uk/2016/04/07/containers_and_linux/</link>
             <guid isPermaLink="false">333b0ef7-0d94-4559-b92f-f261c4cebab5</guid>
             <pubDate>Thu, 07 Apr 2016 18:11:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here's How Google Makes Sure It (Almost) Never Goes Down]]></title>
-            <description><![CDATA[<article><h1>Here's How Google Makes Sure It (Almost) Never Goes Down</h1><p>When was the last time you needed to Google something and Google wasn't there? Odds are, you don't remember that ever happening. Sure, there are times when you can't reach Google because your internet connection is down. But Google's primary online services, from its search engine to Gmail to Google Docs and more, are nearly always accessible.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/330bb92e2245c8180971ed4428609f8d45974614.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/04/google-ensures-services-almost-never-go/</link>
-            <guid isPermaLink="false">ae82914c-874c-4966-84a1-7cd5e73e66cd</guid>
-            <pubDate>Wed, 06 Apr 2016 19:34:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
