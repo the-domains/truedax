@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 21:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 16:02:41 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[DEVOPSdigest]]></title>
+            <description><![CDATA[<article><h1>DEVOPSdigest</h1><p>DEVOPSdigest asked experts from across the industry for their opinions on the most significant advantages of DevOps. Part 3, covers innovation and quality ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc3e21595a71d01f92168d5ec02054330d668fad.jpg"></article>]]></description>
+            <link>http://www.devopsdigest.com/devops-advantages-3</link>
+            <guid isPermaLink="false">98b5e053-e06c-45e3-b4ff-6843e76d644e</guid>
+            <pubDate>Fri, 22 Apr 2016 16:02:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Detecting the use of "curl | bash" server side]]></title>
-            <description><![CDATA[<article><h1>Detecting the use of "curl | bash" server side</h1><p>Published on by Installing software by piping from curl to bash is obviously a bad idea and a knowledgable user will most likely check the content first. So wouldn't it be great if a malicious payload would only render when piped to bash?</p><img src="https://www.idontplaydarts.com/images/tcpchart.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Detecting the use of "curl | bash" server side</h1><p>Published on by Installing software by piping from curl to bash is obviously a bad idea and a knowledgable user will most likely check the content first. So wouldn't it be great if a malicious payload would only render when piped to bash?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/997e598a98df0b6d9a1b14d7b67e4fbec4be7743.png"></article>]]></description>
             <link>https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/</link>
             <guid isPermaLink="false">76fd1542-bae8-42aa-9b80-4c83bdd8b374</guid>
             <pubDate>Wed, 20 Apr 2016 21:15:43 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.infoworld.com/article/3049995/devops/the-next-evolution-of-enterprise-devops-is-to-harden-it.html</link>
             <guid isPermaLink="false">cb9f943f-5daa-457e-8a1f-4d6960d5a84f</guid>
             <pubDate>Thu, 07 Apr 2016 18:26:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Linux is so grown up, it's ready for marriage with containers]]></title>
-            <description><![CDATA[<article><h1>Linux is so grown up, it's ready for marriage with containers</h1><p>Linux is all grown up. It has nothing left to prove. There's never been a year of the Linux desktop and there probably never will be, but it runs on the majority of the world's servers. It never took over the desktop, it did an end-run around it: there are more Linux-based client devices accessing those servers than there are Windows boxes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60e90f515bf5eef83d0362a121bcdecafca63f2e.jpg"></article>]]></description>
-            <link>http://www.theregister.co.uk/2016/04/07/containers_and_linux/</link>
-            <guid isPermaLink="false">333b0ef7-0d94-4559-b92f-f261c4cebab5</guid>
-            <pubDate>Thu, 07 Apr 2016 18:11:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
