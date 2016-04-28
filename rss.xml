@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 18:43:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 18:50:09 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://image.slidesharecdn.com/another7tools-160427092300/95/another-7-tools-for-your-devops-stack-1-638.jpg?cb=1461749249">]]></description>
+            <link>http://truedax.com/d3187f26-7426-4edb-b750-301f7fbaf680/index.html</link>
+            <guid isPermaLink="false">d3187f26-7426-4edb-b750-301f7fbaf680</guid>
+            <pubDate>Thu, 28 Apr 2016 18:49:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Migrating your Gitlab infrastructure into Docker]]></title>
             <description><![CDATA[<article><h1>Migrating your Gitlab infrastructure into Docker</h1><p>To see how quickly you can annoy your developers you just need to bring your Gitlab down. If you did that already, you now how sensitive your build environment is and you should do everything you can to make it healthy and stable.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af75bb8b367fba230d3b141194b575e3f2c25669.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.theregister.co.uk/2016/04/12/land_the_legacy_big_fish/</link>
             <guid isPermaLink="false">b3f743d0-030e-4920-9bdf-acac8e0281a0</guid>
             <pubDate>Wed, 13 Apr 2016 16:04:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deploying GoCD using Docker Compose on Rancher]]></title>
-            <description><![CDATA[<article><h1>Deploying GoCD using Docker Compose on Rancher</h1><p>Raul Sanchez is a microservices and Dev0ps architect in the innovation department at BBVA, exploring new technologies, bringing them to the company and the production lifecycle. In his spare time, he is a developer who collaborates on open source projects. He's spent more than 20 years working on GNU/Linux and unix systems in different areas and sectors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa2018893c97faf5a056052cb82126b285e39489.png"></article>]]></description>
-            <link>http://rancher.com/deploying-gocd-using-docker-compose-on-rancher/</link>
-            <guid isPermaLink="false">25900525-2cd5-4a72-8f30-8bc2e4218009</guid>
-            <pubDate>Wed, 13 Apr 2016 16:01:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
