@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 16:02:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 18:27:48 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Structured logging with Filebeat]]></title>
+            <description><![CDATA[<article><h1>Structured logging with Filebeat</h1><p>The idea behind structured logging is simple: instead of having applications write logs that need to be parsed via regular expressions into JSON objects that you index into Elasticsearch, you make the application write JSON objects directly. To exemplify, let's say you are writing a Python web application, and you are using the standard library for logging.</p><img src="https://www.elastic.co/assets/blt140b4beafeceb13d/logs-woodpile.jpg"></article>]]></description>
+            <link>https://www.elastic.co/blog/structured-logging-filebeat</link>
+            <guid isPermaLink="false">fd17d547-35fc-4ad9-b167-e8be8b24a7ee</guid>
+            <pubDate>Thu, 28 Apr 2016 18:27:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DEVOPSdigest]]></title>
             <description><![CDATA[<article><h1>DEVOPSdigest</h1><p>DEVOPSdigest asked experts from across the industry for their opinions on the most significant advantages of DevOps. Part 3, covers innovation and quality ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc3e21595a71d01f92168d5ec02054330d668fad.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://techcrunch.com/2016/04/07/devops-is-dead-long-live-devops/</link>
             <guid isPermaLink="false">8e037063-362c-4d1e-afa1-e34c07dbeec3</guid>
             <pubDate>Thu, 07 Apr 2016 21:38:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The next evolution of enterprise devops is to harden it]]></title>
-            <description><![CDATA[<article><h1>The next evolution of enterprise devops is to harden it</h1><p>In today's digital age, business innovation is largely driven by software. To win, serve, and retain their customers, enterprises must release application updates at an increasingly faster pace. A great idea, killer functionality and a robust technology are all as important as ever, but they don't mean much if you can't get your code to your end users in a fast, predictable manner with high quality.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfc871199d040ddbfc122ec707bca81ef99f2cab.jpg"></article>]]></description>
-            <link>http://www.infoworld.com/article/3049995/devops/the-next-evolution-of-enterprise-devops-is-to-harden-it.html</link>
-            <guid isPermaLink="false">cb9f943f-5daa-457e-8a1f-4d6960d5a84f</guid>
-            <pubDate>Thu, 07 Apr 2016 18:26:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
