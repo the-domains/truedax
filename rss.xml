@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 18:27:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 18:43:03 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[There's No C in DevOps | @DevOpsSummit @XebiaLabs #DevOps #Microservices | IBM Cloud]]></title>
+            <description><![CDATA[<article><h1>There's No C in DevOps | @DevOpsSummit @XebiaLabs #DevOps #Microservices | IBM Cloud</h1><p>I confess to often talking about the need for culture-change in software development organizations</p><img src="http://blog.xebialabs.com/wp-content/uploads/2016/04/shutterstock_309062636.jpeg"></article>]]></description>
+            <link>http://websphere.sys-con.com/node/3758879</link>
+            <guid isPermaLink="false">fd8c7be9-74dd-4ac8-a145-4fca60f09797</guid>
+            <pubDate>Thu, 28 Apr 2016 18:41:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Structured logging with Filebeat]]></title>
-            <description><![CDATA[<article><h1>Structured logging with Filebeat</h1><p>The idea behind structured logging is simple: instead of having applications write logs that need to be parsed via regular expressions into JSON objects that you index into Elasticsearch, you make the application write JSON objects directly. To exemplify, let's say you are writing a Python web application, and you are using the standard library for logging.</p><img src="https://www.elastic.co/assets/blt140b4beafeceb13d/logs-woodpile.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Structured logging with Filebeat</h1><p>The idea behind structured logging is simple: instead of having applications write logs that need to be parsed via regular expressions into JSON objects that you index into Elasticsearch, you make the application write JSON objects directly. To exemplify, let's say you are writing a Python web application, and you are using the standard library for logging.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fbd6f0cb9145fc51636119c0319c26eba4e43673.jpg"></article>]]></description>
             <link>https://www.elastic.co/blog/structured-logging-filebeat</link>
             <guid isPermaLink="false">fd17d547-35fc-4ad9-b167-e8be8b24a7ee</guid>
             <pubDate>Thu, 28 Apr 2016 18:27:01 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.infoworld.com/article/3051626/application-development/22-insults-no-developer-wants-to-hear.html</link>
             <guid isPermaLink="false">89ff52ea-2b2e-48ec-920a-581e83724f5d</guid>
             <pubDate>Tue, 12 Apr 2016 16:15:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Managed services killed DevOps]]></title>
-            <description><![CDATA[<article><h1>Managed services killed DevOps</h1><p>DevOps, as we know it, is dead. Perhaps not many people agree with me, but the age of DevOps is just about over. Then again, perhaps this won't come as a surprise to some. While certain industries somehow manage to survive for years - decades, perhaps - without needing to make fundamental changes, that's absolutely not the case in the software world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8c0fe86cf43e3e3156d0539903c60df1372dd26.jpg"></article>]]></description>
-            <link>http://techcrunch.com/2016/04/07/devops-is-dead-long-live-devops/</link>
-            <guid isPermaLink="false">8e037063-362c-4d1e-afa1-e34c07dbeec3</guid>
-            <pubDate>Thu, 07 Apr 2016 21:38:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
