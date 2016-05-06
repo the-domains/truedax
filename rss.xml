@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 17:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 17:21:35 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[DevOps means Test Automation (too)]]></title>
+            <description><![CDATA[<article><h1>DevOps means Test Automation (too)</h1><p>You have started down the road to DevOps. You have re-structured your teams and you are experimenting with DevOps tools and processes. You now understand that DevOps is a continuum that starts with planning and development and ends with deployment into operations. So where do you start your DevOps initiative?</p><img src="http://betanews.com/wp-content/uploads/2016/05/Devops.jpg"></article>]]></description>
+            <link>http://betanews.com/2016/05/06/devops-means-test-automation-too/</link>
+            <guid isPermaLink="false">cbf99ffa-82f1-4185-8291-51c5063fe0b0</guid>
+            <pubDate>Fri, 06 May 2016 17:21:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[2016 Open Source Jobs Report: Developers, DevOps, and certifications wanted]]></title>
-            <description><![CDATA[<article><h1>2016 Open Source Jobs Report: Developers, DevOps, and certifications wanted</h1><p>The Linux Foundation and Dice.com partnered to survey almost 5,000 open source professionals, and this week they unveiled the 2016 Open Source Jobs Report. The 2016 survey includes responses from more than 400 hiring managers and 4,500 open source professionals worldwide.</p><img src="https://opensource.com/sites/default/files/images/business/BUSINESS_incentives.png"></article>]]></description>
+            <description><![CDATA[<article><h1>2016 Open Source Jobs Report: Developers, DevOps, and certifications wanted</h1><p>The Linux Foundation and Dice.com partnered to survey almost 5,000 open source professionals, and this week they unveiled the 2016 Open Source Jobs Report. The 2016 survey includes responses from more than 400 hiring managers and 4,500 open source professionals worldwide.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85a4d9f8d65fa490ad136c9ddc2d76c495959496.png"></article>]]></description>
             <link>https://opensource.com/business/16/5/2016-open-source-jobs-report</link>
             <guid isPermaLink="false">fe692b3d-e158-4054-9b40-7de1b81daf4e</guid>
             <pubDate>Fri, 06 May 2016 17:19:56 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://thenewstack.io/hpe-empowers-enterprise-developer-part-2-2/</link>
             <guid isPermaLink="false">84d36a65-ade6-4731-8dfa-1a700baaa874</guid>
             <pubDate>Wed, 13 Apr 2016 16:32:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Continuous Deployment at Instagram]]></title>
-            <description><![CDATA[<article><h1>Continuous Deployment at Instagram</h1><p>At Instagram, we deploy our backend code 30-50 times a day... whenever engineers commit changes to master... with no human involvement in most cases. This may sound crazy, especially at our scale, but it works really well. This post talks about how we implemented this system and got it working smoothly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f91fdda25de95c7ea0624200ef701b02a20a2aec.jpg"></article>]]></description>
-            <link>http://engineering.instagram.com/posts/1125308487520335/continuous-deployment-at-instagram/</link>
-            <guid isPermaLink="false">a162e394-8c5b-4d60-9909-cb453f4cc9dc</guid>
-            <pubDate>Wed, 13 Apr 2016 16:05:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
