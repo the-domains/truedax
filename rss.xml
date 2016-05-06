@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 18:50:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 17:20:03 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2016 Open Source Jobs Report: Developers, DevOps, and certifications wanted]]></title>
+            <description><![CDATA[<article><h1>2016 Open Source Jobs Report: Developers, DevOps, and certifications wanted</h1><p>The Linux Foundation and Dice.com partnered to survey almost 5,000 open source professionals, and this week they unveiled the 2016 Open Source Jobs Report. The 2016 survey includes responses from more than 400 hiring managers and 4,500 open source professionals worldwide.</p><img src="https://opensource.com/sites/default/files/images/business/BUSINESS_incentives.png"></article>]]></description>
+            <link>https://opensource.com/business/16/5/2016-open-source-jobs-report</link>
+            <guid isPermaLink="false">fe692b3d-e158-4054-9b40-7de1b81daf4e</guid>
+            <pubDate>Fri, 06 May 2016 17:19:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://image.slidesharecdn.com/another7tools-160427092300/95/another-7-tools-for-your-devops-stack-1-638.jpg?cb=1461749249">]]></description>
@@ -68,13 +75,6 @@
             <link>http://engineering.instagram.com/posts/1125308487520335/continuous-deployment-at-instagram/</link>
             <guid isPermaLink="false">a162e394-8c5b-4d60-9909-cb453f4cc9dc</guid>
             <pubDate>Wed, 13 Apr 2016 16:05:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DevOps isn't just about the new: It's about cleaning up the old, too]]></title>
-            <description><![CDATA[<article><h1>DevOps isn't just about the new: It's about cleaning up the old, too</h1><p>As one of my coworkers used to say when confronted with The Latest Development Improvement Methodology: " Why don't you come down here and chum this stuff?" - except he used the language of a sailor. In trying to implement the latest breakfast cereal agenda, DevOps, one of the primary chumming tasks is dealing with all your "pre-DevOps" software and services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10e43ce3c57ea793c28d2308cabca7938a994285.jpg"></article>]]></description>
-            <link>http://www.theregister.co.uk/2016/04/12/land_the_legacy_big_fish/</link>
-            <guid isPermaLink="false">b3f743d0-030e-4920-9bdf-acac8e0281a0</guid>
-            <pubDate>Wed, 13 Apr 2016 16:04:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
