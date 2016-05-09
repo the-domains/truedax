@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 16:45:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 16:49:29 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Container Orchestration with Mesos Marathon]]></title>
+            <description><![CDATA[<article><h1>Container Orchestration with Mesos Marathon</h1><p>Marathon, Apache Mesos's framework for managing containers, can make your life much easier. (That may be surprising when you consider that the first guy to run a marathon died at the end of it, at least according to the ancient Greek story, but I digress.)</p><img src="https://www.sumologic.com/wp-content/uploads/2016/05/mesos.png"></article>]]></description>
+            <link>https://www.sumologic.com/2016/05/06/container-orchestration-mesos-marathon/</link>
+            <guid isPermaLink="false">5cd8ffcc-5322-4723-a276-5e5c080f2489</guid>
+            <pubDate>Mon, 09 May 2016 16:48:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cron best practices | Arabesque]]></title>
             <description><![CDATA[<article><h1>Cron best practices | Arabesque</h1><p>To the extent that is practical, you should run the task as a user with only the privileges it needs to run, and nothing else. This can sometimes make it worthwhile to create a dedicated system user purely for running scheduled tasks relevant to your application.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/</link>
             <guid isPermaLink="false">76fd1542-bae8-42aa-9b80-4c83bdd8b374</guid>
             <pubDate>Wed, 20 Apr 2016 21:15:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Security Think Tank: Allocate maintenance processes to each piece of key software]]></title>
-            <description><![CDATA[<article><h1>Security Think Tank: Allocate maintenance processes to each piece of key software</h1><p>Software developed and deployed to the internet today is built on the shoulders of giants. Even a simple " Hello World " web-page depends on hundreds of millions of lines of code. The surface area of modern systems is large.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/310161c14bfc688cca5bfa77f96cbb3d0b75433b.png"></article>]]></description>
-            <link>http://www.computerweekly.com/opinion/Security-Think-Tank-Allocate-maintenance-processes-to-each-piece-of-key-software</link>
-            <guid isPermaLink="false">f98a5859-b052-4d4b-b7c8-de44cfada392</guid>
-            <pubDate>Wed, 13 Apr 2016 21:21:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
