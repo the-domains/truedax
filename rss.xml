@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 16:49:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 17:12:47 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[How to Stealthily Figure Out if a Company Really Does Believe in Work-Life Balance]]></title>
+            <description><![CDATA[<article><h1>How to Stealthily Figure Out if a Company Really Does Believe in Work-Life Balance</h1><p>Fact: Occasionally working late, heading into the office on a Saturday, and going above and beyond your job description is par for the course when you care about advancing your career. However, that doesn't negate this other fact: You deserve to work for a company that values your personal life, understands the importance of flexibility, and most of all believes spending time with your family matters.</p><img src="https://tm-prod.global.ssl.fastly.net/uploaded/attachments/20962.jpg?v=6331ae4e963de9a98d54bee88a55aca23881267caf390dd968a007c59f41adf7"></article>]]></description>
+            <link>https://www.themuse.com/advice/how-to-stealthily-figure-out-if-a-company-really-does-believe-in-worklife-balance</link>
+            <guid isPermaLink="false">539f55ee-3ad4-4652-ad52-268e968387d8</guid>
+            <pubDate>Mon, 09 May 2016 17:12:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Container Orchestration with Mesos Marathon]]></title>
-            <description><![CDATA[<article><h1>Container Orchestration with Mesos Marathon</h1><p>Marathon, Apache Mesos's framework for managing containers, can make your life much easier. (That may be surprising when you consider that the first guy to run a marathon died at the end of it, at least according to the ancient Greek story, but I digress.)</p><img src="https://www.sumologic.com/wp-content/uploads/2016/05/mesos.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Container Orchestration with Mesos Marathon</h1><p>Marathon, Apache Mesos's framework for managing containers, can make your life much easier. (That may be surprising when you consider that the first guy to run a marathon died at the end of it, at least according to the ancient Greek story, but I digress.)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b5d50ff0d814e2348afec1761c0c3a5b8c5d5fa.png"></article>]]></description>
             <link>https://www.sumologic.com/2016/05/06/container-orchestration-mesos-marathon/</link>
             <guid isPermaLink="false">5cd8ffcc-5322-4723-a276-5e5c080f2489</guid>
             <pubDate>Mon, 09 May 2016 16:48:59 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.devopsdigest.com/devops-advantages-3</link>
             <guid isPermaLink="false">98b5e053-e06c-45e3-b4ff-6843e76d644e</guid>
             <pubDate>Fri, 22 Apr 2016 16:02:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Detecting the use of "curl | bash" server side]]></title>
-            <description><![CDATA[<article><h1>Detecting the use of "curl | bash" server side</h1><p>Published on by Installing software by piping from curl to bash is obviously a bad idea and a knowledgable user will most likely check the content first. So wouldn't it be great if a malicious payload would only render when piped to bash?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/997e598a98df0b6d9a1b14d7b67e4fbec4be7743.png"></article>]]></description>
-            <link>https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/</link>
-            <guid isPermaLink="false">76fd1542-bae8-42aa-9b80-4c83bdd8b374</guid>
-            <pubDate>Wed, 20 Apr 2016 21:15:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
