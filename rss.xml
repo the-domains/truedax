@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 17:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 16:45:56 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Cron best practices | Arabesque]]></title>
+            <description><![CDATA[<article><h1>Cron best practices | Arabesque</h1><p>To the extent that is practical, you should run the task as a user with only the privileges it needs to run, and nothing else. This can sometimes make it worthwhile to create a dedicated system user purely for running scheduled tasks relevant to your application.</p></article>]]></description>
+            <link>https://sanctum.geek.nz/arabesque/cron-best-practices/</link>
+            <guid isPermaLink="false">a6ea8571-074f-4694-9d11-96e1e466db8d</guid>
+            <pubDate>Mon, 09 May 2016 16:45:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[DevOps means Test Automation (too)]]></title>
-            <description><![CDATA[<article><h1>DevOps means Test Automation (too)</h1><p>You have started down the road to DevOps. You have re-structured your teams and you are experimenting with DevOps tools and processes. You now understand that DevOps is a continuum that starts with planning and development and ends with deployment into operations. So where do you start your DevOps initiative?</p><img src="http://betanews.com/wp-content/uploads/2016/05/Devops.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>DevOps means Test Automation (too)</h1><p>You have started down the road to DevOps. You have re-structured your teams and you are experimenting with DevOps tools and processes. You now understand that DevOps is a continuum that starts with planning and development and ends with deployment into operations. So where do you start your DevOps initiative?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9db5ee0d59d499c652d4e85ccd448a0e06115461.jpg"></article>]]></description>
             <link>http://betanews.com/2016/05/06/devops-means-test-automation-too/</link>
             <guid isPermaLink="false">cbf99ffa-82f1-4185-8291-51c5063fe0b0</guid>
             <pubDate>Fri, 06 May 2016 17:21:25 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.computerweekly.com/opinion/Security-Think-Tank-Allocate-maintenance-processes-to-each-piece-of-key-software</link>
             <guid isPermaLink="false">f98a5859-b052-4d4b-b7c8-de44cfada392</guid>
             <pubDate>Wed, 13 Apr 2016 21:21:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HPE Is Moving to Microservices with Containers and Stackato - The New Stack]]></title>
-            <description><![CDATA[<article><h1>HPE Is Moving to Microservices with Containers and Stackato - The New Stack</h1><p>HPE practices what it preaches when it comes to cloud-native development, recently undertaking the task of migrating a set of monolithic information services applications to a microservice-based approach. "In many cases, we're actually using Stackato, Cloud Foundry, and Docker as the architectural principles that are underpinning those transformations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/86ad8ff48ae0d6eb84a4783558ac935e7c263f35.jpg"></article>]]></description>
-            <link>http://thenewstack.io/hpe-empowers-enterprise-developer-part-2-2/</link>
-            <guid isPermaLink="false">84d36a65-ade6-4731-8dfa-1a700baaa874</guid>
-            <pubDate>Wed, 13 Apr 2016 16:32:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
