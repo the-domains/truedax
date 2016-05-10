@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 15:48:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 18:06:47 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Docker Security Scanning safeguards the container content lifecycle]]></title>
+            <description><![CDATA[<article><h1>Docker Security Scanning safeguards the container content lifecycle</h1><p>written by Lily Guo, Toli Kuznets and Nandhini Santhanam Today we announced the general availability of Docker Security Scanning, formerly known as Project Nautilus. Available today as an add-on service to Docker Cloud private repos, Security Scanning provides a detailed security profile of your Docker images for proactive risk management and to streamline software compliance.</p><img src="http://img.scoop.it/N-em8LmpTPqf9UO-_Qd30bnTzqrqzN7Y9aBZTaXoQ8Q="></article>]]></description>
+            <link>https://blog.docker.com/2016/05/docker-secure-scanning/</link>
+            <guid isPermaLink="false">eb87c801-8d59-4bd7-8e91-f19fe9f6aec6</guid>
+            <pubDate>Tue, 10 May 2016 18:06:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Architecting a Serverless Web Application in AWS]]></title>
-            <description><![CDATA[<article><h1>Architecting a Serverless Web Application in AWS</h1><p>For some time, we've been using AWS Lambda with SNS topics and votebots, but we hadn't tried anything big with it. Until now. The Serverless framework gave us the push we needed. Our goal? To power an application useful to a business function via an API built with AWS Lambda and API Gateway, harming no EC2 instances in the process.</p><img src="https://blog.fugue.co/assets/images/serverless_webapp.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Architecting a Serverless Web Application in AWS</h1><p>For some time, we've been using AWS Lambda with SNS topics and votebots, but we hadn't tried anything big with it. Until now. The Serverless framework gave us the push we needed. Our goal? To power an application useful to a business function via an API built with AWS Lambda and API Gateway, harming no EC2 instances in the process.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bac1456d6c800c59885f9c56ab7fd73754556d3e.png"></article>]]></description>
             <link>https://blog.fugue.co/2016-05-05-architecting-a-serverless-web-application-in-aws.html</link>
             <guid isPermaLink="false">32926024-7ae9-4c20-9762-852d0afe40ce</guid>
             <pubDate>Tue, 10 May 2016 15:48:16 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://websphere.sys-con.com/node/3758879</link>
             <guid isPermaLink="false">fd8c7be9-74dd-4ac8-a145-4fca60f09797</guid>
             <pubDate>Thu, 28 Apr 2016 18:41:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Structured logging with Filebeat]]></title>
-            <description><![CDATA[<article><h1>Structured logging with Filebeat</h1><p>The idea behind structured logging is simple: instead of having applications write logs that need to be parsed via regular expressions into JSON objects that you index into Elasticsearch, you make the application write JSON objects directly. To exemplify, let's say you are writing a Python web application, and you are using the standard library for logging.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fbd6f0cb9145fc51636119c0319c26eba4e43673.jpg"></article>]]></description>
-            <link>https://www.elastic.co/blog/structured-logging-filebeat</link>
-            <guid isPermaLink="false">fd17d547-35fc-4ad9-b167-e8be8b24a7ee</guid>
-            <pubDate>Thu, 28 Apr 2016 18:27:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
