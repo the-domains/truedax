@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 17:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 15:48:29 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Architecting a Serverless Web Application in AWS]]></title>
+            <description><![CDATA[<article><h1>Architecting a Serverless Web Application in AWS</h1><p>For some time, we've been using AWS Lambda with SNS topics and votebots, but we hadn't tried anything big with it. Until now. The Serverless framework gave us the push we needed. Our goal? To power an application useful to a business function via an API built with AWS Lambda and API Gateway, harming no EC2 instances in the process.</p><img src="https://blog.fugue.co/assets/images/serverless_webapp.png"></article>]]></description>
+            <link>https://blog.fugue.co/2016-05-05-architecting-a-serverless-web-application-in-aws.html</link>
+            <guid isPermaLink="false">32926024-7ae9-4c20-9762-852d0afe40ce</guid>
+            <pubDate>Tue, 10 May 2016 15:48:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to Stealthily Figure Out if a Company Really Does Believe in Work-Life Balance]]></title>
-            <description><![CDATA[<article><h1>How to Stealthily Figure Out if a Company Really Does Believe in Work-Life Balance</h1><p>Fact: Occasionally working late, heading into the office on a Saturday, and going above and beyond your job description is par for the course when you care about advancing your career. However, that doesn't negate this other fact: You deserve to work for a company that values your personal life, understands the importance of flexibility, and most of all believes spending time with your family matters.</p><img src="https://tm-prod.global.ssl.fastly.net/uploaded/attachments/20962.jpg?v=6331ae4e963de9a98d54bee88a55aca23881267caf390dd968a007c59f41adf7"></article>]]></description>
+            <description><![CDATA[<article><h1>How to Stealthily Figure Out if a Company Really Does Believe in Work-Life Balance</h1><p>Fact: Occasionally working late, heading into the office on a Saturday, and going above and beyond your job description is par for the course when you care about advancing your career. However, that doesn't negate this other fact: You deserve to work for a company that values your personal life, understands the importance of flexibility, and most of all believes spending time with your family matters.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b90077f7413ccea779f89fef02f606ff79838a7.jpg"></article>]]></description>
             <link>https://www.themuse.com/advice/how-to-stealthily-figure-out-if-a-company-really-does-believe-in-worklife-balance</link>
             <guid isPermaLink="false">539f55ee-3ad4-4652-ad52-268e968387d8</guid>
             <pubDate>Mon, 09 May 2016 17:12:34 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.elastic.co/blog/structured-logging-filebeat</link>
             <guid isPermaLink="false">fd17d547-35fc-4ad9-b167-e8be8b24a7ee</guid>
             <pubDate>Thu, 28 Apr 2016 18:27:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DEVOPSdigest]]></title>
-            <description><![CDATA[<article><h1>DEVOPSdigest</h1><p>DEVOPSdigest asked experts from across the industry for their opinions on the most significant advantages of DevOps. Part 3, covers innovation and quality ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc3e21595a71d01f92168d5ec02054330d668fad.jpg"></article>]]></description>
-            <link>http://www.devopsdigest.com/devops-advantages-3</link>
-            <guid isPermaLink="false">98b5e053-e06c-45e3-b4ff-6843e76d644e</guid>
-            <pubDate>Fri, 22 Apr 2016 16:02:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
