@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 18:06:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 16:50:28 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Docker gains enterprise DevOps traction | ZDNet]]></title>
+            <description><![CDATA[<article><h1>Docker gains enterprise DevOps traction | ZDNet</h1><p>Chef, Puppet and Docker are the three most popular DevOps tools for large companies and SMBs, but 38 percent of enterprises are expected to use Docker in the future.</p><img src="http://zdnet3.cbsistatic.com/hub/i/r/2016/05/10/41062920-3d23-49b6-b7dc-ffd7dc580071/thumbnail/770x578/ead0f68328f04dc162c2ee8295ddf83d/rightscale-containers-1.jpg"></article>]]></description>
+            <link>http://www.zdnet.com/article/docker-gains-enterprise-devops-traction/</link>
+            <guid isPermaLink="false">268068b9-a67f-426c-93a5-d0d54d2a1268</guid>
+            <pubDate>Wed, 11 May 2016 16:50:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Docker Security Scanning safeguards the container content lifecycle]]></title>
-            <description><![CDATA[<article><h1>Docker Security Scanning safeguards the container content lifecycle</h1><p>written by Lily Guo, Toli Kuznets and Nandhini Santhanam Today we announced the general availability of Docker Security Scanning, formerly known as Project Nautilus. Available today as an add-on service to Docker Cloud private repos, Security Scanning provides a detailed security profile of your Docker images for proactive risk management and to streamline software compliance.</p><img src="http://img.scoop.it/N-em8LmpTPqf9UO-_Qd30bnTzqrqzN7Y9aBZTaXoQ8Q="></article>]]></description>
+            <description><![CDATA[<article><h1>Docker Security Scanning safeguards the container content lifecycle</h1><p>written by Lily Guo, Toli Kuznets and Nandhini Santhanam Today we announced the general availability of Docker Security Scanning, formerly known as Project Nautilus. Available today as an add-on service to Docker Cloud private repos, Security Scanning provides a detailed security profile of your Docker images for proactive risk management and to streamline software compliance.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bb33dd96e23716b810d3c257275b1939/croprotate?cropheight=450&cropwidth=1478&degrees=0&input=http%3A%2F%2Fimg.scoop.it%2FN-em8LmpTPqf9UO-_Qd30bnTzqrqzN7Y9aBZTaXoQ8Q%3D&x=45&y=92"></article>]]></description>
             <link>https://blog.docker.com/2016/05/docker-secure-scanning/</link>
             <guid isPermaLink="false">eb87c801-8d59-4bd7-8e91-f19fe9f6aec6</guid>
             <pubDate>Tue, 10 May 2016 18:06:32 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://blog.jscrambler.com/migrating-your-gitlab-infrastructure-into-docker/</link>
             <guid isPermaLink="false">0e5767db-b89f-43c7-9ac4-b753fbae6d8f</guid>
             <pubDate>Thu, 28 Apr 2016 18:43:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There's No C in DevOps | @DevOpsSummit @XebiaLabs #DevOps #Microservices | IBM Cloud]]></title>
-            <description><![CDATA[<article><h1>There's No C in DevOps | @DevOpsSummit @XebiaLabs #DevOps #Microservices | IBM Cloud</h1><p>I confess to often talking about the need for culture-change in software development organizations</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/006ce3d03258e55e1d816b2f08b068524b998a46.jpg"></article>]]></description>
-            <link>http://websphere.sys-con.com/node/3758879</link>
-            <guid isPermaLink="false">fd8c7be9-74dd-4ac8-a145-4fca60f09797</guid>
-            <pubDate>Thu, 28 Apr 2016 18:41:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
