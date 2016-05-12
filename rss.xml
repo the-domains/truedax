@@ -4,11 +4,25 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 16:50:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 23:16:35 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[The Best Industries for Benefits - Glassdoor Economic Research]]></title>
+            <description><![CDATA[<article><h1>The Best Industries for Benefits - Glassdoor Economic Research</h1><p>When it comes to compensation, most job seekers focus on salary. But wages and salaries are only part of the picture. According to a recent Glassdoor survey, 3 in 5 people consider benefits and perks among their top considerations before applying for a job. Benefits like health insurance, paid leave and retirement plans today make ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5535d09d9f949fee094eb09a1c604713d3529afe.png"></article>]]></description>
+            <link>https://www.glassdoor.com/research/studies/best-industries-for-benefits/</link>
+            <guid isPermaLink="false">6766b03c-30cf-4067-bdd7-36c9331c3e35</guid>
+            <pubDate>Thu, 12 May 2016 23:16:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DevOps 2.0]]></title>
+            <description><![CDATA[<article><h1>DevOps 2.0</h1><p>Decoupling feature rollout from code deployment and the rise of user-centered deployments The Origin of DevOps In 2008, Patrick Debois laid the foundations for DevOps at an Agile conference in Toronto. He was trying to come up with a solution for the inherent conflicts between developers and system admins.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5464db53498d5d76efb9ba596e93c8206554a5aa.jpg"></article>]]></description>
+            <link>http://blog.launchdarkly.com/devops2/</link>
+            <guid isPermaLink="false">a2af1c44-a2d5-4ba2-9e10-dbe31aeeeb38</guid>
+            <pubDate>Thu, 12 May 2016 16:55:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Docker gains enterprise DevOps traction | ZDNet]]></title>
-            <description><![CDATA[<article><h1>Docker gains enterprise DevOps traction | ZDNet</h1><p>Chef, Puppet and Docker are the three most popular DevOps tools for large companies and SMBs, but 38 percent of enterprises are expected to use Docker in the future.</p><img src="http://zdnet3.cbsistatic.com/hub/i/r/2016/05/10/41062920-3d23-49b6-b7dc-ffd7dc580071/thumbnail/770x578/ead0f68328f04dc162c2ee8295ddf83d/rightscale-containers-1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Docker gains enterprise DevOps traction | ZDNet</h1><p>Chef, Puppet and Docker are the three most popular DevOps tools for large companies and SMBs, but 38 percent of enterprises are expected to use Docker in the future.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf0256e54b30ddb3fcb8ad2a851c0f399fbd5598.jpg"></article>]]></description>
             <link>http://www.zdnet.com/article/docker-gains-enterprise-devops-traction/</link>
             <guid isPermaLink="false">268068b9-a67f-426c-93a5-d0d54d2a1268</guid>
             <pubDate>Wed, 11 May 2016 16:50:18 GMT</pubDate>
@@ -61,20 +75,6 @@
             <link>https://opensource.com/business/16/5/2016-open-source-jobs-report</link>
             <guid isPermaLink="false">fe692b3d-e158-4054-9b40-7de1b81daf4e</guid>
             <pubDate>Fri, 06 May 2016 17:19:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://image.slidesharecdn.com/another7tools-160427092300/95/another-7-tools-for-your-devops-stack-1-638.jpg?cb=1461749249">]]></description>
-            <link>http://truedax.com/d3187f26-7426-4edb-b750-301f7fbaf680/index.html</link>
-            <guid isPermaLink="false">d3187f26-7426-4edb-b750-301f7fbaf680</guid>
-            <pubDate>Thu, 28 Apr 2016 18:49:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Migrating your Gitlab infrastructure into Docker]]></title>
-            <description><![CDATA[<article><h1>Migrating your Gitlab infrastructure into Docker</h1><p>To see how quickly you can annoy your developers you just need to bring your Gitlab down. If you did that already, you now how sensitive your build environment is and you should do everything you can to make it healthy and stable.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af75bb8b367fba230d3b141194b575e3f2c25669.png"></article>]]></description>
-            <link>https://blog.jscrambler.com/migrating-your-gitlab-infrastructure-into-docker/</link>
-            <guid isPermaLink="false">0e5767db-b89f-43c7-9ac4-b753fbae6d8f</guid>
-            <pubDate>Thu, 28 Apr 2016 18:43:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
