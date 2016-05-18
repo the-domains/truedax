@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 23:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 18:51:41 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[X1 Instances for EC2 - Ready for Your Memory-Intensive Workloads]]></title>
+            <description><![CDATA[<article><h1>X1 Instances for EC2 - Ready for Your Memory-Intensive Workloads</h1><p>Many AWS customers are running memory-intensive big data, caching, and analytics workloads and have been asking us for EC2 instances with ever-increasing amounts of memory. Last fall, I first told you about our plans for the new X1 instance type. Today, we are announcing availability of this instance type with the launch of the x1.32xlarge instance size.</p><img src="https://media.amazonwebservices.com/blog/2016/x1_lscpu_1.png"></article>]]></description>
+            <link>https://aws.amazon.com/blogs/aws/x1-instances-for-ec2-ready-for-your-memory-intensive-workloads/</link>
+            <guid isPermaLink="false">05d557b2-d363-45d6-8650-5c99cbed7eb0</guid>
+            <pubDate>Wed, 18 May 2016 18:51:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Best Industries for Benefits - Glassdoor Economic Research]]></title>
             <description><![CDATA[<article><h1>The Best Industries for Benefits - Glassdoor Economic Research</h1><p>When it comes to compensation, most job seekers focus on salary. But wages and salaries are only part of the picture. According to a recent Glassdoor survey, 3 in 5 people consider benefits and perks among their top considerations before applying for a job. Benefits like health insurance, paid leave and retirement plans today make ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5535d09d9f949fee094eb09a1c604713d3529afe.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://betanews.com/2016/05/06/devops-means-test-automation-too/</link>
             <guid isPermaLink="false">cbf99ffa-82f1-4185-8291-51c5063fe0b0</guid>
             <pubDate>Fri, 06 May 2016 17:21:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2016 Open Source Jobs Report: Developers, DevOps, and certifications wanted]]></title>
-            <description><![CDATA[<article><h1>2016 Open Source Jobs Report: Developers, DevOps, and certifications wanted</h1><p>The Linux Foundation and Dice.com partnered to survey almost 5,000 open source professionals, and this week they unveiled the 2016 Open Source Jobs Report. The 2016 survey includes responses from more than 400 hiring managers and 4,500 open source professionals worldwide.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85a4d9f8d65fa490ad136c9ddc2d76c495959496.png"></article>]]></description>
-            <link>https://opensource.com/business/16/5/2016-open-source-jobs-report</link>
-            <guid isPermaLink="false">fe692b3d-e158-4054-9b40-7de1b81daf4e</guid>
-            <pubDate>Fri, 06 May 2016 17:19:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
