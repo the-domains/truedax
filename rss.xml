@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 18:51:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 17:52:37 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Beyond Jenkins: 7 devops tools]]></title>
+            <description><![CDATA[<article><h1>Beyond Jenkins: 7 devops tools</h1><p>The need for speed in the software development cycle has given rise to a number of valuable automation tools for developers. Chief among these tools are those aimed at facilitating the continuous integration and continuous delivery of software projects. Through these CI/CD tools, development teams can keep software up-to-date and quickly put it into production.</p><img src="http://images.techhive.com/images/article/2016/01/marketing-automation-100638792-primary.idge.jpeg"></article>]]></description>
+            <link>http://www.infoworld.com/article/3070454/application-development/beyond-jenkins-7-devops-tools.html</link>
+            <guid isPermaLink="false">9663961f-e3bd-4448-a988-a21799bbb6dd</guid>
+            <pubDate>Thu, 19 May 2016 17:52:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[X1 Instances for EC2 - Ready for Your Memory-Intensive Workloads]]></title>
-            <description><![CDATA[<article><h1>X1 Instances for EC2 - Ready for Your Memory-Intensive Workloads</h1><p>Many AWS customers are running memory-intensive big data, caching, and analytics workloads and have been asking us for EC2 instances with ever-increasing amounts of memory. Last fall, I first told you about our plans for the new X1 instance type. Today, we are announcing availability of this instance type with the launch of the x1.32xlarge instance size.</p><img src="https://media.amazonwebservices.com/blog/2016/x1_lscpu_1.png"></article>]]></description>
+            <description><![CDATA[<article><h1>X1 Instances for EC2 - Ready for Your Memory-Intensive Workloads</h1><p>Many AWS customers are running memory-intensive big data, caching, and analytics workloads and have been asking us for EC2 instances with ever-increasing amounts of memory. Last fall, I first told you about our plans for the new X1 instance type. Today, we are announcing availability of this instance type with the launch of the x1.32xlarge instance size.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/70d04a0466185f8732825076868a370210bfed54.png"></article>]]></description>
             <link>https://aws.amazon.com/blogs/aws/x1-instances-for-ec2-ready-for-your-memory-intensive-workloads/</link>
             <guid isPermaLink="false">05d557b2-d363-45d6-8650-5c99cbed7eb0</guid>
             <pubDate>Wed, 18 May 2016 18:51:11 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://sanctum.geek.nz/arabesque/cron-best-practices/</link>
             <guid isPermaLink="false">a6ea8571-074f-4694-9d11-96e1e466db8d</guid>
             <pubDate>Mon, 09 May 2016 16:45:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DevOps means Test Automation (too)]]></title>
-            <description><![CDATA[<article><h1>DevOps means Test Automation (too)</h1><p>You have started down the road to DevOps. You have re-structured your teams and you are experimenting with DevOps tools and processes. You now understand that DevOps is a continuum that starts with planning and development and ends with deployment into operations. So where do you start your DevOps initiative?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9db5ee0d59d499c652d4e85ccd448a0e06115461.jpg"></article>]]></description>
-            <link>http://betanews.com/2016/05/06/devops-means-test-automation-too/</link>
-            <guid isPermaLink="false">cbf99ffa-82f1-4185-8291-51c5063fe0b0</guid>
-            <pubDate>Fri, 06 May 2016 17:21:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
