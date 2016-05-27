@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 17:52:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 16:43:02 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[You're Thinking Cloud, But Not APIs? Seriously?]]></title>
+            <description><![CDATA[<article><h1>You're Thinking Cloud, But Not APIs? Seriously?</h1><p>The principles of cloud computing might be decades old, but it wasn't until 2006, when Amazon entered the cloud market, that the modern cloud era really began. Like the processor virtualization market a decade earlier, cost, benefit and flexibility are providing the basis for an ever-increasing pace of enterprise cloud adoption.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca36de1360faba25a7473acf89513b5be1c1ac8a.jpg"></article>]]></description>
+            <link>http://www.huffingtonpost.com/anant-jhingran/youre-thinking-cloud-but-_b_10135076.html</link>
+            <guid isPermaLink="false">4930b32d-7874-493a-b078-38054e402e1c</guid>
+            <pubDate>Fri, 27 May 2016 16:42:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Beyond Jenkins: 7 devops tools]]></title>
-            <description><![CDATA[<article><h1>Beyond Jenkins: 7 devops tools</h1><p>The need for speed in the software development cycle has given rise to a number of valuable automation tools for developers. Chief among these tools are those aimed at facilitating the continuous integration and continuous delivery of software projects. Through these CI/CD tools, development teams can keep software up-to-date and quickly put it into production.</p><img src="http://images.techhive.com/images/article/2016/01/marketing-automation-100638792-primary.idge.jpeg"></article>]]></description>
+            <description><![CDATA[<article><h1>Beyond Jenkins: 7 devops tools</h1><p>The need for speed in the software development cycle has given rise to a number of valuable automation tools for developers. Chief among these tools are those aimed at facilitating the continuous integration and continuous delivery of software projects. Through these CI/CD tools, development teams can keep software up-to-date and quickly put it into production.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/346974f4a998c35d348dc45d2ced564cfa301a0a.jpg"></article>]]></description>
             <link>http://www.infoworld.com/article/3070454/application-development/beyond-jenkins-7-devops-tools.html</link>
             <guid isPermaLink="false">9663961f-e3bd-4448-a988-a21799bbb6dd</guid>
             <pubDate>Thu, 19 May 2016 17:52:20 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.sumologic.com/2016/05/06/container-orchestration-mesos-marathon/</link>
             <guid isPermaLink="false">5cd8ffcc-5322-4723-a276-5e5c080f2489</guid>
             <pubDate>Mon, 09 May 2016 16:48:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cron best practices | Arabesque]]></title>
-            <description><![CDATA[<article><h1>Cron best practices | Arabesque</h1><p>To the extent that is practical, you should run the task as a user with only the privileges it needs to run, and nothing else. This can sometimes make it worthwhile to create a dedicated system user purely for running scheduled tasks relevant to your application.</p></article>]]></description>
-            <link>https://sanctum.geek.nz/arabesque/cron-best-practices/</link>
-            <guid isPermaLink="false">a6ea8571-074f-4694-9d11-96e1e466db8d</guid>
-            <pubDate>Mon, 09 May 2016 16:45:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
