@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 16:43:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 16:47:32 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introducing Blue Ocean: a new user experience for Jenkins]]></title>
+            <description><![CDATA[<article><h1>Introducing Blue Ocean: a new user experience for Jenkins</h1><p>Published on 2016-05-26 by James Dumay In recent years developers have become rapidly attracted to tools that are not only functional but are designed to fit into their workflow seamlessly and are a joy to use. This shift represents a higher standard of design and user experience that Jenkins needs to rise to meet.</p><img src="https://jenkins.io/images/post-images/blueocean/pipeline-dashboard.png"></article>]]></description>
+            <link>https://jenkins.io/blog/2016/05/26/introducing-blue-ocean/</link>
+            <guid isPermaLink="false">e1598ccd-5e24-435c-89d7-79facd6c7dca</guid>
+            <pubDate>Fri, 27 May 2016 16:46:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[You're Thinking Cloud, But Not APIs? Seriously?]]></title>
             <description><![CDATA[<article><h1>You're Thinking Cloud, But Not APIs? Seriously?</h1><p>The principles of cloud computing might be decades old, but it wasn't until 2006, when Amazon entered the cloud market, that the modern cloud era really began. Like the processor virtualization market a decade earlier, cost, benefit and flexibility are providing the basis for an ever-increasing pace of enterprise cloud adoption.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca36de1360faba25a7473acf89513b5be1c1ac8a.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.themuse.com/advice/how-to-stealthily-figure-out-if-a-company-really-does-believe-in-worklife-balance</link>
             <guid isPermaLink="false">539f55ee-3ad4-4652-ad52-268e968387d8</guid>
             <pubDate>Mon, 09 May 2016 17:12:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Container Orchestration with Mesos Marathon]]></title>
-            <description><![CDATA[<article><h1>Container Orchestration with Mesos Marathon</h1><p>Marathon, Apache Mesos's framework for managing containers, can make your life much easier. (That may be surprising when you consider that the first guy to run a marathon died at the end of it, at least according to the ancient Greek story, but I digress.)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b5d50ff0d814e2348afec1761c0c3a5b8c5d5fa.png"></article>]]></description>
-            <link>https://www.sumologic.com/2016/05/06/container-orchestration-mesos-marathon/</link>
-            <guid isPermaLink="false">5cd8ffcc-5322-4723-a276-5e5c080f2489</guid>
-            <pubDate>Mon, 09 May 2016 16:48:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
