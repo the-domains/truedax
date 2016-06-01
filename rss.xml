@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 16:47:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 16:56:22 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[WTF is operations? #serverless]]></title>
+            <description><![CDATA[<article><h1>WTF is operations? #serverless</h1><p>I just got back from the very first ever @serverlessconf in NYC. I have a soft spot for well-curated single-track conferences, and the organizers did an incredible job. Major kudos to @antstanley and team for pulling together such a high-caliber mix of attendees as well as presenters.</p><img src="https://charitydotwtf.files.wordpress.com/2016/05/screen-shot-2016-05-30-at-4-29-09-pm.png?w=660"></article>]]></description>
+            <link>https://charity.wtf/2016/05/31/wtf-is-operations-serverless/</link>
+            <guid isPermaLink="false">583da745-6832-40e8-8735-b26a98480a54</guid>
+            <pubDate>Wed, 01 Jun 2016 16:55:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Introducing Blue Ocean: a new user experience for Jenkins]]></title>
-            <description><![CDATA[<article><h1>Introducing Blue Ocean: a new user experience for Jenkins</h1><p>Published on 2016-05-26 by James Dumay In recent years developers have become rapidly attracted to tools that are not only functional but are designed to fit into their workflow seamlessly and are a joy to use. This shift represents a higher standard of design and user experience that Jenkins needs to rise to meet.</p><img src="https://jenkins.io/images/post-images/blueocean/pipeline-dashboard.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Introducing Blue Ocean: a new user experience for Jenkins</h1><p>Published on 2016-05-26 by James Dumay In recent years developers have become rapidly attracted to tools that are not only functional but are designed to fit into their workflow seamlessly and are a joy to use. This shift represents a higher standard of design and user experience that Jenkins needs to rise to meet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57286ccf533f8bda595dbabbe0197eb69d6fdd42.png"></article>]]></description>
             <link>https://jenkins.io/blog/2016/05/26/introducing-blue-ocean/</link>
             <guid isPermaLink="false">e1598ccd-5e24-435c-89d7-79facd6c7dca</guid>
             <pubDate>Fri, 27 May 2016 16:46:34 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://blog.fugue.co/2016-05-05-architecting-a-serverless-web-application-in-aws.html</link>
             <guid isPermaLink="false">32926024-7ae9-4c20-9762-852d0afe40ce</guid>
             <pubDate>Tue, 10 May 2016 15:48:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Stealthily Figure Out if a Company Really Does Believe in Work-Life Balance]]></title>
-            <description><![CDATA[<article><h1>How to Stealthily Figure Out if a Company Really Does Believe in Work-Life Balance</h1><p>Fact: Occasionally working late, heading into the office on a Saturday, and going above and beyond your job description is par for the course when you care about advancing your career. However, that doesn't negate this other fact: You deserve to work for a company that values your personal life, understands the importance of flexibility, and most of all believes spending time with your family matters.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b90077f7413ccea779f89fef02f606ff79838a7.jpg"></article>]]></description>
-            <link>https://www.themuse.com/advice/how-to-stealthily-figure-out-if-a-company-really-does-believe-in-worklife-balance</link>
-            <guid isPermaLink="false">539f55ee-3ad4-4652-ad52-268e968387d8</guid>
-            <pubDate>Mon, 09 May 2016 17:12:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
