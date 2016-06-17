@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 16:27:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 16:35:40 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Happy mode, sad mode, DevOps mode: Stop worrying and go bimodal]]></title>
+            <description><![CDATA[<article><h1>Happy mode, sad mode, DevOps mode: Stop worrying and go bimodal</h1><p>There's a debate going on right now about the best way to run IT: specifically, all those custom applications and services inside organizations. Do we try new, agile approaches, or stick to the old, methodical processes?</p><img src="https://regmedia.co.uk/2016/06/15/hippie_peace_image_via_shutterstock.jpg?x=1200&y=794"></article>]]></description>
+            <link>http://www.theregister.co.uk/2016/06/15/one_it_so_many_modes/</link>
+            <guid isPermaLink="false">bc7a36fe-6507-4440-8d06-ed99bbbc4deb</guid>
+            <pubDate>Fri, 17 Jun 2016 16:34:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why DevOps engineer is the number one hardest tech job to fill]]></title>
             <description><![CDATA[<article><h1>Why DevOps engineer is the number one hardest tech job to fill</h1><p>DevOps engineers are notoriously difficult to find. If you needed further proof of this fact, a new study by Indeed.com has revealed that DevOps engineer is the #1 hardest IT job to fill in North America, leading a list that includes software and mobile engineers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8557175f7abdad1f447dd044b7afa2b6/noop.png?input=http%3A%2F%2Fwww.cloudcomputing-news.net%2Fmedia%2FiStock_jobadvert4236236.jpg.800x600_q96.png"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[DevOps Students Learn the Value of Uptime With 3 a.m. Calls]]></title>
-            <description><![CDATA[<article><h1>DevOps Students Learn the Value of Uptime With 3 a.m. Calls</h1><p>Students at the Holberton School, San Francisco's innovative new school for training students of any age to be full stack software engineers, are being woken early, really early, to learn just what's it's like to be a part of a DevOps team.</p><img src="https://www.linux.com/sites/lcom/files/holberton-e_k.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>DevOps Students Learn the Value of Uptime With 3 a.m. Calls</h1><p>Students at the Holberton School, San Francisco's innovative new school for training students of any age to be full stack software engineers, are being woken early, really early, to learn just what's it's like to be a part of a DevOps team.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/70195bd9e67f469ef64d756e98718869/croprotate.jpg?cropheight=828&cropwidth=1200&degrees=0&input=https%3A%2F%2Fwww.linux.com%2Fsites%2Flcom%2Ffiles%2Fholberton-e_k.jpg&x=0&y=0"></article>]]></description>
             <link>https://www.linux.com/news/devops-students-learn-value-uptime-3-am-calls</link>
             <guid isPermaLink="false">4904c399-7664-417f-8ca2-f47535513aab</guid>
             <pubDate>Fri, 17 Jun 2016 16:27:26 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.glassdoor.com/research/studies/best-industries-for-benefits/</link>
             <guid isPermaLink="false">6766b03c-30cf-4067-bdd7-36c9331c3e35</guid>
             <pubDate>Thu, 12 May 2016 23:16:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DevOps 2.0]]></title>
-            <description><![CDATA[<article><h1>DevOps 2.0</h1><p>Decoupling feature rollout from code deployment and the rise of user-centered deployments The Origin of DevOps In 2008, Patrick Debois laid the foundations for DevOps at an Agile conference in Toronto. He was trying to come up with a solution for the inherent conflicts between developers and system admins.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5464db53498d5d76efb9ba596e93c8206554a5aa.jpg"></article>]]></description>
-            <link>http://blog.launchdarkly.com/devops2/</link>
-            <guid isPermaLink="false">a2af1c44-a2d5-4ba2-9e10-dbe31aeeeb38</guid>
-            <pubDate>Thu, 12 May 2016 16:55:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
