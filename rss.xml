@@ -4,13 +4,20 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 16:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 16:27:48 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Why DevOps engineer is the number one hardest tech job to fill]]></title>
             <description><![CDATA[<article><h1>Why DevOps engineer is the number one hardest tech job to fill</h1><p>DevOps engineers are notoriously difficult to find. If you needed further proof of this fact, a new study by Indeed.com has revealed that DevOps engineer is the #1 hardest IT job to fill in North America, leading a list that includes software and mobile engineers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8557175f7abdad1f447dd044b7afa2b6/noop.png?input=http%3A%2F%2Fwww.cloudcomputing-news.net%2Fmedia%2FiStock_jobadvert4236236.jpg.800x600_q96.png"></article>]]></description>
             <link>http://www.cloudcomputing-news.net/news/2016/jun/16/devops-engineer-hardest-job-to-fill/</link>
             <guid isPermaLink="false">eab86410-e121-4e2d-bc9b-5acf22a2bc73</guid>
+            <pubDate>Fri, 17 Jun 2016 16:27:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DevOps Students Learn the Value of Uptime With 3 a.m. Calls]]></title>
+            <description><![CDATA[<article><h1>DevOps Students Learn the Value of Uptime With 3 a.m. Calls</h1><p>Students at the Holberton School, San Francisco's innovative new school for training students of any age to be full stack software engineers, are being woken early, really early, to learn just what's it's like to be a part of a DevOps team.</p><img src="https://www.linux.com/sites/lcom/files/holberton-e_k.jpg"></article>]]></description>
+            <link>https://www.linux.com/news/devops-students-learn-value-uptime-3-am-calls</link>
+            <guid isPermaLink="false">4904c399-7664-417f-8ca2-f47535513aab</guid>
             <pubDate>Fri, 17 Jun 2016 16:27:26 GMT</pubDate>
         </item>
         <item>
@@ -68,13 +75,6 @@
             <link>http://blog.launchdarkly.com/devops2/</link>
             <guid isPermaLink="false">a2af1c44-a2d5-4ba2-9e10-dbe31aeeeb38</guid>
             <pubDate>Thu, 12 May 2016 16:55:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Docker gains enterprise DevOps traction | ZDNet]]></title>
-            <description><![CDATA[<article><h1>Docker gains enterprise DevOps traction | ZDNet</h1><p>Chef, Puppet and Docker are the three most popular DevOps tools for large companies and SMBs, but 38 percent of enterprises are expected to use Docker in the future.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf0256e54b30ddb3fcb8ad2a851c0f399fbd5598.jpg"></article>]]></description>
-            <link>http://www.zdnet.com/article/docker-gains-enterprise-devops-traction/</link>
-            <guid isPermaLink="false">268068b9-a67f-426c-93a5-d0d54d2a1268</guid>
-            <pubDate>Wed, 11 May 2016 16:50:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
