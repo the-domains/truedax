@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 16:35:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 16:37:53 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[My First 10 Minutes On a Server - Primer for Securing Ubuntu]]></title>
+            <description><![CDATA[<article><h1>My First 10 Minutes On a Server - Primer for Securing Ubuntu</h1><p>My First 5 Minutes on a Server, by Bryan Kennedy, is an excellent intro into securing a server against most attacks. We have a few modifications to his approach that we wanted to document as part of our efforts of externalizing our processes and best practices.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/57c581514b6dc7f4eefdef2cf2ee882f/noop?input=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F1087378%3Fv%3D3%26s%3D200"></article>]]></description>
+            <link>http://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/</link>
+            <guid isPermaLink="false">34e871f6-6040-4063-80e3-fc6c376aa081</guid>
+            <pubDate>Fri, 17 Jun 2016 16:37:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Happy mode, sad mode, DevOps mode: Stop worrying and go bimodal]]></title>
-            <description><![CDATA[<article><h1>Happy mode, sad mode, DevOps mode: Stop worrying and go bimodal</h1><p>There's a debate going on right now about the best way to run IT: specifically, all those custom applications and services inside organizations. Do we try new, agile approaches, or stick to the old, methodical processes?</p><img src="https://regmedia.co.uk/2016/06/15/hippie_peace_image_via_shutterstock.jpg?x=1200&y=794"></article>]]></description>
+            <description><![CDATA[<article><h1>Happy mode, sad mode, DevOps mode: Stop worrying and go bimodal</h1><p>There's a debate going on right now about the best way to run IT: specifically, all those custom applications and services inside organizations. Do we try new, agile approaches, or stick to the old, methodical processes?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a14b9b999772e33b1eb606261e198228/noop.jpg?input=https%3A%2F%2Fregmedia.co.uk%2F2016%2F06%2F15%2Fhippie_peace_image_via_shutterstock.jpg%3Fx%3D1200%26y%3D794"></article>]]></description>
             <link>http://www.theregister.co.uk/2016/06/15/one_it_so_many_modes/</link>
             <guid isPermaLink="false">bc7a36fe-6507-4440-8d06-ed99bbbc4deb</guid>
             <pubDate>Fri, 17 Jun 2016 16:34:48 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://aws.amazon.com/blogs/aws/x1-instances-for-ec2-ready-for-your-memory-intensive-workloads/</link>
             <guid isPermaLink="false">05d557b2-d363-45d6-8650-5c99cbed7eb0</guid>
             <pubDate>Wed, 18 May 2016 18:51:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Best Industries for Benefits - Glassdoor Economic Research]]></title>
-            <description><![CDATA[<article><h1>The Best Industries for Benefits - Glassdoor Economic Research</h1><p>When it comes to compensation, most job seekers focus on salary. But wages and salaries are only part of the picture. According to a recent Glassdoor survey, 3 in 5 people consider benefits and perks among their top considerations before applying for a job. Benefits like health insurance, paid leave and retirement plans today make ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5535d09d9f949fee094eb09a1c604713d3529afe.png"></article>]]></description>
-            <link>https://www.glassdoor.com/research/studies/best-industries-for-benefits/</link>
-            <guid isPermaLink="false">6766b03c-30cf-4067-bdd7-36c9331c3e35</guid>
-            <pubDate>Thu, 12 May 2016 23:16:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
