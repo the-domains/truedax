@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 16:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 16:27:30 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Why DevOps engineer is the number one hardest tech job to fill]]></title>
+            <description><![CDATA[<article><h1>Why DevOps engineer is the number one hardest tech job to fill</h1><p>DevOps engineers are notoriously difficult to find. If you needed further proof of this fact, a new study by Indeed.com has revealed that DevOps engineer is the #1 hardest IT job to fill in North America, leading a list that includes software and mobile engineers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8557175f7abdad1f447dd044b7afa2b6/noop.png?input=http%3A%2F%2Fwww.cloudcomputing-news.net%2Fmedia%2FiStock_jobadvert4236236.jpg.800x600_q96.png"></article>]]></description>
+            <link>http://www.cloudcomputing-news.net/news/2016/jun/16/devops-engineer-hardest-job-to-fill/</link>
+            <guid isPermaLink="false">eab86410-e121-4e2d-bc9b-5acf22a2bc73</guid>
+            <pubDate>Fri, 17 Jun 2016 16:27:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Automate Deployment of the ELK/EFK Stack with Ansible]]></title>
-            <description><![CDATA[<article><h1>Automate Deployment of the ELK/EFK Stack with Ansible</h1><p>I recently needed to completely automate deploying a full ELK or EFK stack and clients and didn't find anything that suited my needs so I wrote the playbooks for this in Ansible. This was my first real foray into automation with Ansible, hope it's useful to others. What is ELK?</p><img src="https://hobosource.files.wordpress.com/2016/04/elk-server-ansible.png?w=640&h=469"></article>]]></description>
+            <description><![CDATA[<article><h1>Automate Deployment of the ELK/EFK Stack with Ansible</h1><p>I recently needed to completely automate deploying a full ELK or EFK stack and clients and didn't find anything that suited my needs so I wrote the playbooks for this in Ansible. This was my first real foray into automation with Ansible, hope it's useful to others. What is ELK?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f61c65b09ffddf83d0734104537ad166/noop?input=https%3A%2F%2Fhobosource.files.wordpress.com%2F2016%2F04%2Felk-server-ansible.png%26h%3D469"></article>]]></description>
             <link>https://hobo.house/2016/04/08/automate-elk-stack-and-clients-with-ansible/</link>
             <guid isPermaLink="false">252ae1b8-afa7-4ace-8c7c-8d8c53f63481</guid>
             <pubDate>Fri, 17 Jun 2016 16:23:55 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.zdnet.com/article/docker-gains-enterprise-devops-traction/</link>
             <guid isPermaLink="false">268068b9-a67f-426c-93a5-d0d54d2a1268</guid>
             <pubDate>Wed, 11 May 2016 16:50:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Docker Security Scanning safeguards the container content lifecycle]]></title>
-            <description><![CDATA[<article><h1>Docker Security Scanning safeguards the container content lifecycle</h1><p>written by Lily Guo, Toli Kuznets and Nandhini Santhanam Today we announced the general availability of Docker Security Scanning, formerly known as Project Nautilus. Available today as an add-on service to Docker Cloud private repos, Security Scanning provides a detailed security profile of your Docker images for proactive risk management and to streamline software compliance.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bb33dd96e23716b810d3c257275b1939/croprotate?cropheight=450&cropwidth=1478&degrees=0&input=http%3A%2F%2Fimg.scoop.it%2FN-em8LmpTPqf9UO-_Qd30bnTzqrqzN7Y9aBZTaXoQ8Q%3D&x=45&y=92"></article>]]></description>
-            <link>https://blog.docker.com/2016/05/docker-secure-scanning/</link>
-            <guid isPermaLink="false">eb87c801-8d59-4bd7-8e91-f19fe9f6aec6</guid>
-            <pubDate>Tue, 10 May 2016 18:06:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
