@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Jun 2016 17:33:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2016 20:19:48 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Tech jobs report: Security, devops, and big data stay hot]]></title>
+            <description><![CDATA[<article><h1>Tech jobs report: Security, devops, and big data stay hot</h1><p>If you're wondering what IT skill sets to acquire, security and devops are doing well in the job market. Pay for cloud skills, however, is eroding. Research firm Foote Partners' latest quarterly IT Skills and Certifications Pay Index determined that the market value for 404 of the 450 IT certifications it tracks had increased for 12 consecutive quarters.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c2c1234cec037ca4cc730f7154dd8843/noop.jpg?input=http%3A%2F%2Fimages.techhive.com%2Fimages%2Farticle%2F2016%2F05%2Ftech-companies-paying-the-most-100659043-primary.idge.jpg"></article>]]></description>
+            <link>http://www.infoworld.com/article/3086835/it-jobs/tech-jobs-report-security-devops-and-big-data-stay-hot.html</link>
+            <guid isPermaLink="false">9f9edc1e-e98f-4959-aeea-a9ba904f5297</guid>
+            <pubDate>Wed, 22 Jun 2016 20:19:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Building serverless apps with Docker]]></title>
-            <description><![CDATA[<article><h1>Building serverless apps with Docker</h1><p>Every now and then, there are waves of technology that threaten to make the previous generation of technology obsolete. There has been a lot of talk about a technique called "serverless" for writing apps. The idea is to deploy your application as a series of functions, which are called on-demand when they need to be run.</p><img src="https://blog.docker.com/wp-content/uploads/Picture1.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Building serverless apps with Docker</h1><p>Every now and then, there are waves of technology that threaten to make the previous generation of technology obsolete. There has been a lot of talk about a technique called "serverless" for writing apps. The idea is to deploy your application as a series of functions, which are called on-demand when they need to be run.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0afca12f0de064a5cf54729048ef9746/noop.png?input=https%3A%2F%2Fblog.docker.com%2Fwp-content%2Fuploads%2FPicture1.png"></article>]]></description>
             <link>https://blog.docker.com/2016/06/building-serverless-apps-with-docker/</link>
             <guid isPermaLink="false">a217cefb-c971-48f2-b677-7a97964da679</guid>
             <pubDate>Wed, 22 Jun 2016 17:31:56 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.huffingtonpost.com/anant-jhingran/youre-thinking-cloud-but-_b_10135076.html</link>
             <guid isPermaLink="false">4930b32d-7874-493a-b078-38054e402e1c</guid>
             <pubDate>Fri, 27 May 2016 16:42:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beyond Jenkins: 7 devops tools]]></title>
-            <description><![CDATA[<article><h1>Beyond Jenkins: 7 devops tools</h1><p>The need for speed in the software development cycle has given rise to a number of valuable automation tools for developers. Chief among these tools are those aimed at facilitating the continuous integration and continuous delivery of software projects. Through these CI/CD tools, development teams can keep software up-to-date and quickly put it into production.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/346974f4a998c35d348dc45d2ced564cfa301a0a.jpg"></article>]]></description>
-            <link>http://www.infoworld.com/article/3070454/application-development/beyond-jenkins-7-devops-tools.html</link>
-            <guid isPermaLink="false">9663961f-e3bd-4448-a988-a21799bbb6dd</guid>
-            <pubDate>Thu, 19 May 2016 17:52:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
