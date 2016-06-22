@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 16:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2016 17:33:00 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Building serverless apps with Docker]]></title>
+            <description><![CDATA[<article><h1>Building serverless apps with Docker</h1><p>Every now and then, there are waves of technology that threaten to make the previous generation of technology obsolete. There has been a lot of talk about a technique called "serverless" for writing apps. The idea is to deploy your application as a series of functions, which are called on-demand when they need to be run.</p><img src="https://blog.docker.com/wp-content/uploads/Picture1.png"></article>]]></description>
+            <link>https://blog.docker.com/2016/06/building-serverless-apps-with-docker/</link>
+            <guid isPermaLink="false">a217cefb-c971-48f2-b677-7a97964da679</guid>
+            <pubDate>Wed, 22 Jun 2016 17:31:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My First 10 Minutes On a Server - Primer for Securing Ubuntu]]></title>
             <description><![CDATA[<article><h1>My First 10 Minutes On a Server - Primer for Securing Ubuntu</h1><p>My First 5 Minutes on a Server, by Bryan Kennedy, is an excellent intro into securing a server against most attacks. We have a few modifications to his approach that we wanted to document as part of our efforts of externalizing our processes and best practices.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/57c581514b6dc7f4eefdef2cf2ee882f/noop?input=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F1087378%3Fv%3D3%26s%3D200"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.infoworld.com/article/3070454/application-development/beyond-jenkins-7-devops-tools.html</link>
             <guid isPermaLink="false">9663961f-e3bd-4448-a988-a21799bbb6dd</guid>
             <pubDate>Thu, 19 May 2016 17:52:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[X1 Instances for EC2 - Ready for Your Memory-Intensive Workloads]]></title>
-            <description><![CDATA[<article><h1>X1 Instances for EC2 - Ready for Your Memory-Intensive Workloads</h1><p>Many AWS customers are running memory-intensive big data, caching, and analytics workloads and have been asking us for EC2 instances with ever-increasing amounts of memory. Last fall, I first told you about our plans for the new X1 instance type. Today, we are announcing availability of this instance type with the launch of the x1.32xlarge instance size.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/70d04a0466185f8732825076868a370210bfed54.png"></article>]]></description>
-            <link>https://aws.amazon.com/blogs/aws/x1-instances-for-ec2-ready-for-your-memory-intensive-workloads/</link>
-            <guid isPermaLink="false">05d557b2-d363-45d6-8650-5c99cbed7eb0</guid>
-            <pubDate>Wed, 18 May 2016 18:51:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
