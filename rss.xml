@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Jun 2016 20:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 20:42:28 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Spot a Bad Boss During Your Interview - Glassdoor Blog]]></title>
+            <description><![CDATA[<article><h1>How to Spot a Bad Boss During Your Interview - Glassdoor Blog</h1><p>No matter what, you are likely bound to encounter a fair share of bad bosses throughout your career. They can be detrimental and cause you to flee. In Gallup's 2015 State of the American Manager report, one out of two professionals said they had quit a job to "get away" from their boss at some point in their career.</p></article>]]></description>
+            <link>https://www.glassdoor.com/blog/spot-bad-boss-interview/</link>
+            <guid isPermaLink="false">62815baa-0f90-4f66-9514-f7f85fd5f438</guid>
+            <pubDate>Fri, 08 Jul 2016 20:42:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tech jobs report: Security, devops, and big data stay hot]]></title>
             <description><![CDATA[<article><h1>Tech jobs report: Security, devops, and big data stay hot</h1><p>If you're wondering what IT skill sets to acquire, security and devops are doing well in the job market. Pay for cloud skills, however, is eroding. Research firm Foote Partners' latest quarterly IT Skills and Certifications Pay Index determined that the market value for 404 of the 450 IT certifications it tracks had increased for 12 consecutive quarters.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c2c1234cec037ca4cc730f7154dd8843/noop.jpg?input=http%3A%2F%2Fimages.techhive.com%2Fimages%2Farticle%2F2016%2F05%2Ftech-companies-paying-the-most-100659043-primary.idge.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://jenkins.io/blog/2016/05/26/introducing-blue-ocean/</link>
             <guid isPermaLink="false">e1598ccd-5e24-435c-89d7-79facd6c7dca</guid>
             <pubDate>Fri, 27 May 2016 16:46:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You're Thinking Cloud, But Not APIs? Seriously?]]></title>
-            <description><![CDATA[<article><h1>You're Thinking Cloud, But Not APIs? Seriously?</h1><p>The principles of cloud computing might be decades old, but it wasn't until 2006, when Amazon entered the cloud market, that the modern cloud era really began. Like the processor virtualization market a decade earlier, cost, benefit and flexibility are providing the basis for an ever-increasing pace of enterprise cloud adoption.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca36de1360faba25a7473acf89513b5be1c1ac8a.jpg"></article>]]></description>
-            <link>http://www.huffingtonpost.com/anant-jhingran/youre-thinking-cloud-but-_b_10135076.html</link>
-            <guid isPermaLink="false">4930b32d-7874-493a-b078-38054e402e1c</guid>
-            <pubDate>Fri, 27 May 2016 16:42:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
