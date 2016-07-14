@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 20:42:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2016 18:32:16 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This $2.8 billion startup gets all of its daily meetings done in 10 minutes]]></title>
+            <description><![CDATA[<article><h1>This $2.8 billion startup gets all of its daily meetings done in 10 minutes</h1><p>This morning I made another visit to the San Francisco headquarters of Pivotal - the $2.8 billion enterprise-software company backed by the likes of Ford, Microsoft, and GE - to meet some of the management team.</p><img src="http://static4.businessinsider.com/image/5786b70f88e4a725238b7b7c-2400/slack%20for%20ios%20upload%20(7).jpg"></article>]]></description>
+            <link>http://www.businessinsider.com/pivotal-ceo-rob-mee-on-meetings-2016-7</link>
+            <guid isPermaLink="false">6350938c-da5c-4d1f-a2c0-963981e316c1</guid>
+            <pubDate>Thu, 14 Jul 2016 18:30:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to Spot a Bad Boss During Your Interview - Glassdoor Blog]]></title>
             <description><![CDATA[<article><h1>How to Spot a Bad Boss During Your Interview - Glassdoor Blog</h1><p>No matter what, you are likely bound to encounter a fair share of bad bosses throughout your career. They can be detrimental and cause you to flee. In Gallup's 2015 State of the American Manager report, one out of two professionals said they had quit a job to "get away" from their boss at some point in their career.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://charity.wtf/2016/05/31/wtf-is-operations-serverless/</link>
             <guid isPermaLink="false">583da745-6832-40e8-8735-b26a98480a54</guid>
             <pubDate>Wed, 01 Jun 2016 16:55:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing Blue Ocean: a new user experience for Jenkins]]></title>
-            <description><![CDATA[<article><h1>Introducing Blue Ocean: a new user experience for Jenkins</h1><p>Published on 2016-05-26 by James Dumay In recent years developers have become rapidly attracted to tools that are not only functional but are designed to fit into their workflow seamlessly and are a joy to use. This shift represents a higher standard of design and user experience that Jenkins needs to rise to meet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57286ccf533f8bda595dbabbe0197eb69d6fdd42.png"></article>]]></description>
-            <link>https://jenkins.io/blog/2016/05/26/introducing-blue-ocean/</link>
-            <guid isPermaLink="false">e1598ccd-5e24-435c-89d7-79facd6c7dca</guid>
-            <pubDate>Fri, 27 May 2016 16:46:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
