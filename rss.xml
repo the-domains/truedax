@@ -4,11 +4,18 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 18:32:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2016 21:09:35 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Embracing This Concept Will Bring You Way More Long-Term Happiness Than "Work-Life Balance"]]></title>
+            <description><![CDATA[<article><h1>Embracing This Concept Will Bring You Way More Long-Term Happiness Than "Work-Life Balance"</h1><p>People talk about work-life balance as if achieving it is the precious key to happiness. Tips and tricks abound. But there are two big problems with this supposed golden ticket. First, the very phrase suggests that work isn't part of your life, it's separate.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a210d63ce17b147eb3775d74a36eee19/noop.jpg?input=https%3A%2F%2Ftm-prod.global.ssl.fastly.net%2Fuploaded%2Fattachments%2F21858.jpg%3Fv%3D3d9fcf676d39b4bab879a7755c1b8715f5a0a0f3a892ccca57079adfabcf99a9"></article>]]></description>
+            <link>https://www.themuse.com/advice/embracing-this-concept-will-bring-you-way-more-longterm-happiness-than-worklife-balance</link>
+            <guid isPermaLink="false">d55b8572-61b2-43f7-b6b0-3bfc72b6dac8</guid>
+            <pubDate>Wed, 27 Jul 2016 21:09:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[This $2.8 billion startup gets all of its daily meetings done in 10 minutes]]></title>
-            <description><![CDATA[<article><h1>This $2.8 billion startup gets all of its daily meetings done in 10 minutes</h1><p>This morning I made another visit to the San Francisco headquarters of Pivotal - the $2.8 billion enterprise-software company backed by the likes of Ford, Microsoft, and GE - to meet some of the management team.</p><img src="http://static4.businessinsider.com/image/5786b70f88e4a725238b7b7c-2400/slack%20for%20ios%20upload%20(7).jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>This $2.8 billion startup gets all of its daily meetings done in 10 minutes</h1><p>This morning I made another visit to the San Francisco headquarters of Pivotal - the $2.8 billion enterprise-software company backed by the likes of Ford, Microsoft, and GE - to meet some of the management team.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/28e8e1618011fef382c14653d0a84455/noop.jpg?input=http%3A%2F%2Fstatic4.businessinsider.com%2Fimage%2F5786b70f88e4a725238b7b7c-2400%2Fslack%2520for%2520ios%2520upload%2520(7).jpg"></article>]]></description>
             <link>http://www.businessinsider.com/pivotal-ceo-rob-mee-on-meetings-2016-7</link>
             <guid isPermaLink="false">6350938c-da5c-4d1f-a2c0-963981e316c1</guid>
             <pubDate>Thu, 14 Jul 2016 18:30:50 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://hobo.house/2016/04/08/automate-elk-stack-and-clients-with-ansible/</link>
             <guid isPermaLink="false">252ae1b8-afa7-4ace-8c7c-8d8c53f63481</guid>
             <pubDate>Fri, 17 Jun 2016 16:23:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTF is operations? #serverless]]></title>
-            <description><![CDATA[<article><h1>WTF is operations? #serverless</h1><p>I just got back from the very first ever @serverlessconf in NYC. I have a soft spot for well-curated single-track conferences, and the organizers did an incredible job. Major kudos to @antstanley and team for pulling together such a high-caliber mix of attendees as well as presenters.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3bffba91bb7d1c85fb844746f28348924c441cd1.png"></article>]]></description>
-            <link>https://charity.wtf/2016/05/31/wtf-is-operations-serverless/</link>
-            <guid isPermaLink="false">583da745-6832-40e8-8735-b26a98480a54</guid>
-            <pubDate>Wed, 01 Jun 2016 16:55:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
