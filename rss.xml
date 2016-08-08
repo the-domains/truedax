@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 21:09:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 22:21:44 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Start and Stop Instances at Scheduled Intervals Using Lamba and Cloudwatch]]></title>
+            <description><![CDATA[<article><h1>Start and Stop Instances at Scheduled Intervals Using Lamba and Cloudwatch</h1><p>Orrett walks you through how to start and stop instances automatically using AWS Lambda and AWS Cloudwatch I want to reduce my Amazon EC2 usage by stopping and starting instances at predefined times or utilization thresholds. Can I configure AWS Lambda and AWS CloudWatch to help me do that automatically?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5486561a9dd11cbc7753c5f4c49404ea/noop.gif?input=https%3A%2F%2Fa0.awsstatic.com%2Fmain%2Fimages%2Flogos%2Faws_logo_179x109.gif"></article>]]></description>
+            <link>https://aws.amazon.com/premiumsupport/knowledge-center/start-stop-lambda-cloudwatch/?icmpid=social</link>
+            <guid isPermaLink="false">8750a13c-3b34-4a5a-8ce9-92c683b367f3</guid>
+            <pubDate>Mon, 08 Aug 2016 22:21:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Embracing This Concept Will Bring You Way More Long-Term Happiness Than "Work-Life Balance"]]></title>
             <description><![CDATA[<article><h1>Embracing This Concept Will Bring You Way More Long-Term Happiness Than "Work-Life Balance"</h1><p>People talk about work-life balance as if achieving it is the precious key to happiness. Tips and tricks abound. But there are two big problems with this supposed golden ticket. First, the very phrase suggests that work isn't part of your life, it's separate.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a210d63ce17b147eb3775d74a36eee19/noop.jpg?input=https%3A%2F%2Ftm-prod.global.ssl.fastly.net%2Fuploaded%2Fattachments%2F21858.jpg%3Fv%3D3d9fcf676d39b4bab879a7755c1b8715f5a0a0f3a892ccca57079adfabcf99a9"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.linux.com/news/devops-students-learn-value-uptime-3-am-calls</link>
             <guid isPermaLink="false">4904c399-7664-417f-8ca2-f47535513aab</guid>
             <pubDate>Fri, 17 Jun 2016 16:27:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Automate Deployment of the ELK/EFK Stack with Ansible]]></title>
-            <description><![CDATA[<article><h1>Automate Deployment of the ELK/EFK Stack with Ansible</h1><p>I recently needed to completely automate deploying a full ELK or EFK stack and clients and didn't find anything that suited my needs so I wrote the playbooks for this in Ansible. This was my first real foray into automation with Ansible, hope it's useful to others. What is ELK?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f61c65b09ffddf83d0734104537ad166/noop?input=https%3A%2F%2Fhobosource.files.wordpress.com%2F2016%2F04%2Felk-server-ansible.png%26h%3D469"></article>]]></description>
-            <link>https://hobo.house/2016/04/08/automate-elk-stack-and-clients-with-ansible/</link>
-            <guid isPermaLink="false">252ae1b8-afa7-4ace-8c7c-8d8c53f63481</guid>
-            <pubDate>Fri, 17 Jun 2016 16:23:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
