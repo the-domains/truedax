@@ -4,8 +4,15 @@
         <description><![CDATA[truedax]]></description>
         <link>http://truedax.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 22:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 16:25:53 GMT</lastBuildDate>
         <atom:link href="http://truedax.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cf Shell: Streamlining CloudFormation Development with a Familiar Approach]]></title>
+            <description><![CDATA[<article><h1>Cf Shell: Streamlining CloudFormation Development with a Familiar Approach</h1><p>As Amazon Web Services has grown into the vast platform that it is today, it has created many opportunities for innovation: in how we interact with the products and how we fit all the pieces together. AWS's API-based nature has allowed an ecosystem of products to arise, all piggybacking on each other, ultimately enabling developers to explore unique ways to use their products.</p><img src="https://dev.acquia.com/sites/default/files/cfshell00b.png"></article>]]></description>
+            <link>https://dev.acquia.com/blog/cf-shell-streamlining-cloudformation-development-with-a-familiar-approach/08/08/2016/16326</link>
+            <guid isPermaLink="false">13a2a775-d121-4d27-ac70-317360e63d47</guid>
+            <pubDate>Tue, 09 Aug 2016 16:25:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Start and Stop Instances at Scheduled Intervals Using Lamba and Cloudwatch]]></title>
             <description><![CDATA[<article><h1>Start and Stop Instances at Scheduled Intervals Using Lamba and Cloudwatch</h1><p>Orrett walks you through how to start and stop instances automatically using AWS Lambda and AWS Cloudwatch I want to reduce my Amazon EC2 usage by stopping and starting instances at predefined times or utilization thresholds. Can I configure AWS Lambda and AWS CloudWatch to help me do that automatically?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5486561a9dd11cbc7753c5f4c49404ea/noop.gif?input=https%3A%2F%2Fa0.awsstatic.com%2Fmain%2Fimages%2Flogos%2Faws_logo_179x109.gif"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Why DevOps engineer is the number one hardest tech job to fill</h1><p>DevOps engineers are notoriously difficult to find. If you needed further proof of this fact, a new study by Indeed.com has revealed that DevOps engineer is the #1 hardest IT job to fill in North America, leading a list that includes software and mobile engineers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8557175f7abdad1f447dd044b7afa2b6/noop.png?input=http%3A%2F%2Fwww.cloudcomputing-news.net%2Fmedia%2FiStock_jobadvert4236236.jpg.800x600_q96.png"></article>]]></description>
             <link>http://www.cloudcomputing-news.net/news/2016/jun/16/devops-engineer-hardest-job-to-fill/</link>
             <guid isPermaLink="false">eab86410-e121-4e2d-bc9b-5acf22a2bc73</guid>
-            <pubDate>Fri, 17 Jun 2016 16:27:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DevOps Students Learn the Value of Uptime With 3 a.m. Calls]]></title>
-            <description><![CDATA[<article><h1>DevOps Students Learn the Value of Uptime With 3 a.m. Calls</h1><p>Students at the Holberton School, San Francisco's innovative new school for training students of any age to be full stack software engineers, are being woken early, really early, to learn just what's it's like to be a part of a DevOps team.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/70195bd9e67f469ef64d756e98718869/croprotate.jpg?cropheight=828&cropwidth=1200&degrees=0&input=https%3A%2F%2Fwww.linux.com%2Fsites%2Flcom%2Ffiles%2Fholberton-e_k.jpg&x=0&y=0"></article>]]></description>
-            <link>https://www.linux.com/news/devops-students-learn-value-uptime-3-am-calls</link>
-            <guid isPermaLink="false">4904c399-7664-417f-8ca2-f47535513aab</guid>
             <pubDate>Fri, 17 Jun 2016 16:27:26 GMT</pubDate>
         </item>
     </channel>
