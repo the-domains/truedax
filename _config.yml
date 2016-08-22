@@ -22,14 +22,14 @@ color:
     - '#3C454E'
     - '#7C9FBB'
   rhythmicContrast: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 favicon: null
 name: truedax
 opengraph:
@@ -37,4 +37,4 @@ opengraph:
   type: null
   appId: null
 typography_spectrum: 0.52008
-layout_spectrum: 0.37366
+layout_spectrum: 0.4280344
